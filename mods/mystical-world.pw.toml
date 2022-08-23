@@ -1,0 +1,13 @@
+name = "Mystical World"
+filename = "mysticalworld-1.18.2-0.4.7.28.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26f61a29e8e8fa17365c9fe01429d964f01dbc7d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3849590
+project-id = 282940

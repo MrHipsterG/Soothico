@@ -1,0 +1,11 @@
+{
+    "name": "Food & Farming",
+    "icon": "pamhc2foodcore:cuttingboarditem",
+    "category": "patchouli:test_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "While there is a LOT of new food as a result of including Harvestcraft, Farmer's Delight and more, we have included a mod called 'Cooking for Blockheads'. This allows you to create a kitchen with connected blocks, and be able to see all of the food you can make with what you've currently got in stock! Give it a try!"
+        }
+    ]
+}

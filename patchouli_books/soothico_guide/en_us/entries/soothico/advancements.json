@@ -1,0 +1,11 @@
+{
+    "name": "Advancements",
+    "icon": "minecraft:nether_star",
+    "category": "patchouli:test_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Checking out the Advancements is a great way of seeing how to engage different mods. Mods like Create, Tetra and Farmer's Delight can provide some great guidance and ideas for what to do next!"
+        }
+    ]
+}

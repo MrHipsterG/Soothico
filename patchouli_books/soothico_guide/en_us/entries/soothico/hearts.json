@@ -1,0 +1,11 @@
+{
+    "name": "Where's my hearts?!",
+    "icon": "minecraft:carrot",
+    "category": "patchouli:test_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Soothico uses a mod called 'Slice of Life' to make food and farming more engaging and rewarding! You begin with less hearts than you would in Vanilla, but as you eat more unique and varied food, you will gain these hearts back and more, up to having three health bars! Craft a 'Food Book' to keep track of it."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+name = "Flytre Lib (FlytreLib)"
+filename = "flytre_lib-1.18.2-1.8.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fdb37900a02ec24ea0f9dc0cc154bcbe5aa912a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3818661
+project-id = 444498

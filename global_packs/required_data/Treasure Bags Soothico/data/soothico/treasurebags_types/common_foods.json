@@ -1,0 +1,12 @@
+{
+	"group": "common_bags",
+	"displayName": {
+		"text": "Chef's Bag"
+	},
+	"lootTable": "soothico:common_foods_table",
+	"rarity": "common",
+	"bagColor": "#D1DA51",
+	"bagOverlayColor": "#D3D3D3",
+	"bagStringColor": "#808080",
+	"dropsFromGroups": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Storage Solutions",
+    "icon": "aquaculture:treasure_chest",
+    "category": "patchouli:test_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You know what they say; with great amounts of food and items, comes great demand for storage. Sophisticated Backpacks, Sophisticated Storage and Storage Drawers are here to save the day! Use these mods to make upgradeable and expandable storage solutions. Drawers are fantastic for storing large amounts of the same item, 64+ stacks of one item in a block!"
+        }
+    ]
+}

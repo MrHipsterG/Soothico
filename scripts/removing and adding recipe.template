@@ -1,0 +1,4 @@
+// Remove the original recipe.
+ craftingTable.removeByName("Recipe ID");
+// Adds new Shapeless recipe.
+craftingTable.addShapeless("Recipe Name", <Product> * 1, [<Ingredient>]);

@@ -1,0 +1,11 @@
+{
+    "name": "! Welcome to Soothico!",
+    "icon": "artifacts:crystal_heart",
+    "category": "patchouli:test_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Soothico is a light-to-medium weight modpack created by Hyps and MrHG. The main design principle of this pack is to provide you with a variety of new things to explore and create, while also not being overwhelming! The biggest thing we attempt to do, is to not make anything 'redundant', to give everything a use, and make it a tailored and fun experience."
+        }
+    ]
+}

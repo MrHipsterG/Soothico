@@ -1,0 +1,13 @@
+name = "Dual Riders"
+filename = "dual_riders-1.18.2-1.1.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a97496118a6089c3a0c344b4c156f42ac9383ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3783157
+project-id = 435980

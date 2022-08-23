@@ -1,0 +1,13 @@
+name = "End Remastered"
+filename = "endrem_forge-5.1.0-R-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a57cb9fd3a18a31c76459225d612c3bccba2f7e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3830538
+project-id = 404183

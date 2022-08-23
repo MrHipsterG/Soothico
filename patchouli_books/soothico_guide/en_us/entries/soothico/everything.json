@@ -1,0 +1,11 @@
+{
+    "name": "Everything else!",
+    "icon": "supplementaries:globe",
+    "category": "patchouli:test_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "These are only a few examples of ways to engage with the new content available in Soothico! Jump in and see what you can find!"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+   "pack":{
+      "pack_format":9,
+      "description":"Replaces OP Villager trades with less OP ones.\nType \"/trigger less_op_villagers_help\" to see the current settings.\nv1.4.5"
+   }
+}

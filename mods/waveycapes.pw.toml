@@ -1,0 +1,13 @@
+name = "Wavey Capes"
+filename = "WaveyCapes-forge-1.2.0-mc1.18.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "d3f5071db0ec1c6d7dff44ce0d34efb7b9c7dac5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3743875
+project-id = 521594

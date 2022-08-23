@@ -1,0 +1,1 @@
+<recipetype:create:haunting>.addRecipe("soothico.cryingobsidian", [<item:minecraft:crying_obsidian>], <tag:items:forge:obsidian>, 200);

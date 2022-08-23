@@ -1,0 +1,13 @@
+name = "Honey Expansion (Add-on for Farmer's Delight)"
+filename = "honeyexpansion-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1be4f3d64beeb7759e98b985ffc5114c6dbbd0a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3751480
+project-id = 541951

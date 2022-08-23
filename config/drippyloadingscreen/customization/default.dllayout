@@ -1,0 +1,82 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  autoscale_baseheight = 1377
+  renderorder = foreground
+  autoscale_basewidth = 2560
+  randommode = false
+  scale = 3
+  randomonlyfirsttime = false
+  backgroundcolor = 333333
+}
+
+customization {
+  orientation = mid-centered
+  x = 1
+  action = editprogressbar
+  y = 0
+}
+
+customization {
+  orientation = bottom-centered
+  x = -3
+  action = editlogo
+  y = -58
+}
+
+customization {
+  orientation = mid-centered
+  bartexture = resources/fergusdrip.png
+  x = 217
+  width = 54
+  actionid = d9c15adf-d217-48fd-829c-dafc4868d83c1659900029871
+  y = -36
+  action = addcustomprogressbar
+  backgroundtexture = resources/fergusdripunloaded.png
+  height = 62
+  direction = right
+  barcolor = 1BC5E3
+  backgroundcolor = #5c5c5c80
+}
+
+customization {
+  path = resources/starhop-logo-with-text.png
+  orientation = top-centered
+  x = 0
+  width = 484
+  action = addtexture
+  actionid = b63e3812-6c9a-48d2-b792-f26d7244ae121659900732883
+  y = 56
+  height = 129
+}
+
+customization {
+  orientation = mid-centered
+  basecolor = #79b857
+  shadow = true
+  splashfilepath = resources/splash.txt
+  rotation = 0.0
+  x = 1
+  actionid = c64f0f54-ae63-4a75-97ba-7fb8d06bfe671659901136970
+  action = addsplash
+  y = 25
+  scale = 1.5
+  refresh = false
+  bouncing = true
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = 4
+  textcolor = #79b857
+  action = addtext
+  actionid = aadf3bdf-b41c-4fd9-ae63-b164706ed13e1659909739377
+  y = -17
+  scale = 2.0
+  alignment = left
+  value = Loading Soothico...
+}
+

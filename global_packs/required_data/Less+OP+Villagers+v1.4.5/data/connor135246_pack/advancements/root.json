@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:player_head",
+      "nbt": "{SkullOwner: {Id: [I; 0, 0, 0, 0], Properties: {textures: [{Value: 'ewogICJ0aW1lc3RhbXAiIDogMTYzODY4MjczNzg0NCwKICAicHJvZmlsZUlkIiA6ICI4OTUzMzEyODI2NTA0NGFkODEzNzdhNzFmZWE2YTJmYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb25ub3IxMzUyNDYiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjAyNzcwZGQ2ODI0ZWUwM2RiNWJmNTJjZmJjMDk4OWFjZWRjMzEwNDRjZWU4YzE0YmUzMmVjZGI5NjJmZmUyYyIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM0MGMwZTAzZGQyNGExMWIxNWE4YjMzYzJhN2U5ZTMyYWJiMjA1MWIyNDgxZDBiYTdkZWZkNjM1Y2E3YTkzMyIKICAgIH0KICB9Cn0='}]}}}"
+    },
+    "title": "connor135246 Datapacks",
+    "description": "All datapacks from connor135246",
+    "background": "minecraft:textures/misc/enchanted_item_glint.png",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

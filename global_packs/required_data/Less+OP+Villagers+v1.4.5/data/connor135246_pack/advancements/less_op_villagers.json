@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:enchanted_book",
+      "nbt": "{StoredEnchantments:[{id:\"minecraft:mending\",lvl:1}]}"
+    },
+    "title": "Less OP Villagers",
+    "description": "Replaces OP Villager trades with less OP ones. Type \"/trigger less_op_villagers_help\" to see the current settings.",
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "connor135246_pack:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

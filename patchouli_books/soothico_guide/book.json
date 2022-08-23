@@ -1,0 +1,9 @@
+{
+    "name": "Soothico for Dummies",
+    "landing_text": "Welcome and thank you for playing Soothico! This book serves as a little guide to some of the mods, and to provide some tips & tricks in getting started.",
+    "version": 1,
+    "pamphlet": true,
+    "book_texture": "patchouli:textures/gui/book_green.png",
+    "model": "patchouli:book_green",
+    "show_progress": false
+}

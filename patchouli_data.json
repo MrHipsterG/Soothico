@@ -1,0 +1,59 @@
+{
+  "bookGuiScale": 4,
+  "clickedVisualize": true,
+  "bookData": {
+    "patchouli:soothico_guide": {
+      "viewedEntries": [
+        "patchouli:test/test_entry",
+        "patchouli:soothico/test_entry",
+        "patchouli:soothico/welcome",
+        "patchouli:soothico/hearts",
+        "patchouli:soothico/end",
+        "patchouli:soothico/create",
+        "patchouli:soothico/claims",
+        "patchouli:soothico/kitchen",
+        "patchouli:soothico/tetra",
+        "patchouli:soothico/advancements",
+        "patchouli:soothico/items",
+        "patchouli:soothico/blueskies",
+        "patchouli:soothico/everything",
+        "patchouli:soothico/storage"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "mysticalworld:world_guide": {
+      "viewedEntries": [
+        "mysticalworld:world/huts"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "advancedperipherals:manual": {
+      "viewedEntries": [
+        "advancedperipherals:peripherals/redstone_integrator",
+        "advancedperipherals:peripherals/rs_bridge",
+        "advancedperipherals:peripherals/player_detector",
+        "advancedperipherals:peripherals/environment_detector",
+        "advancedperipherals:peripherals/block_reader",
+        "advancedperipherals:peripherals/ar_controller",
+        "advancedperipherals:peripherals/chat_box",
+        "advancedperipherals:peripherals/nbt_storage",
+        "advancedperipherals:peripherals/me_bridge",
+        "advancedperipherals:peripherals/inventory_manager",
+        "advancedperipherals:peripherals/colony_integrator",
+        "advancedperipherals:peripherals/energy_detector",
+        "advancedperipherals:peripherals/geo_scanner",
+        "advancedperipherals:items/pocket_computers",
+        "advancedperipherals:items/memory_card",
+        "advancedperipherals:items/computer_tool",
+        "advancedperipherals:items/chunk_controller",
+        "advancedperipherals:items/ar_goggles",
+        "advancedperipherals:metaphysics/intro",
+        "advancedperipherals:metaphysics/weak_automata_core"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

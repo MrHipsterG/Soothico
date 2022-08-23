@@ -1,0 +1,8 @@
+{
+    "replace":false,
+    "values": [
+        "ensorcellation:phalanx",
+		"ensorcellation:bulwark",
+        "ensorcellation:soulbound"
+    ]
+}

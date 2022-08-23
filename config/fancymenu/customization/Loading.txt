@@ -1,0 +1,27 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.ReceivingLevelScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-centered
+  shadow = false
+  x = 5
+  action = addtext
+  actionid = 3b95959b-2a78-493c-96b1-df20d4be9ecb1657409725108
+  y = 67
+  scale = 8.0
+  alignment = centered
+  value = Hopping in...
+}
+

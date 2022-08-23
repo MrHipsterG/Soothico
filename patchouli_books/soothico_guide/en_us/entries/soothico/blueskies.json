@@ -1,0 +1,11 @@
+{
+    "name": "Blue Skies",
+    "icon": "blue_skies:pyrope_gem",
+    "category": "patchouli:test_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Blue Skies is a mod that adds two new dimensions. Find a villager who sells you a Blue Journal to get started to encounter new lands and terrible foes!"
+        }
+    ]
+}

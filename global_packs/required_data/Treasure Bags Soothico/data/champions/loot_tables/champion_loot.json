@@ -1,0 +1,208 @@
+{
+	"pools": [
+		{
+			"name": "tier#1",
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:common_ores"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:common_mobdrops"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:common_foods"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "killed_by_player"
+				},
+				{
+					"condition": "champions:entity_champion",
+					"entity": "this",
+					"minTier": 1
+				}
+			]
+		},
+		{
+			"name": "tier#2",
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:uncommon_ores"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:uncommon_mobdrops"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:uncommon_foods"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "killed_by_player"
+				},
+				{
+					"condition": "champions:entity_champion",
+					"entity": "this",
+					"minTier": 2
+				}
+			]
+		},
+		{
+			"name": "tier#3",
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:rare_ores"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:rare_mobdrops"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:rare_foods"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:rare_musical"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:rare_enchantments"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "killed_by_player"
+				},
+				{
+					"condition": "champions:entity_champion",
+					"entity": "this",
+					"minTier": 3
+				}
+			]
+		},
+		{
+			"name": "tier#4",
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:epic_ores"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:epic_mobdrops"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:epic_foods"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "killed_by_player"
+				},
+				{
+					"condition": "champions:entity_champion",
+					"entity": "this",
+					"minTier": 4
+				}
+			]
+		}
+	]
+}

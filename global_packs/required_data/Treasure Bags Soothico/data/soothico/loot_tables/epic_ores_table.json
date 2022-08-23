@@ -1,0 +1,40 @@
+{
+	"type": "minecraft:entity",
+	"pools": [
+		{
+			"rolls": 3,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:ancient_debris",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 5,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"weight": 50
+				},
+				{
+					"type": "minecraft:item",
+					"name": "byg:raw_pendorite",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 5,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"weight": 30
+				}
+			]
+		}
+	]
+}

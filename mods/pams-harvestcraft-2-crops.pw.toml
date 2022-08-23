@@ -1,0 +1,13 @@
+name = "Pam's HarvestCraft 2 - Crops"
+filename = "pamhc2crops-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c700ddc571c493bc1d05b338407475a63e9a710"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3873172
+project-id = 361385

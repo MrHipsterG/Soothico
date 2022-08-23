@@ -1,0 +1,12 @@
+{
+	"group": "rare_bags",
+	"displayName": {
+		"text": "Musical Bag"
+	},
+	"lootTable": "soothico:rare_musical_table",
+	"rarity": "rare",
+	"bagColor": "#770B6D",
+	"bagOverlayColor": "#94D1D3",
+	"bagStringColor": "#86EAED",
+	"dropsFromGroups": []
+}

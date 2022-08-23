@@ -1,0 +1,9 @@
+{
+    "replace":false,
+    "values": [
+        "ensorcellation:hunter",
+		"ensorcellation:quickdraw",
+		"ensorcellation:trueshot",
+        "ensorcellation:volley"
+    ]
+}

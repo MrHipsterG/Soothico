@@ -1,0 +1,13 @@
+name = "Soothico"
+author = "HypsX"
+version = "2.11"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2465b5f657fc59f573544aef658282623ad0ca64ec307a2177eaf7f0368cf7af"
+
+[versions]
+forge = "40.1.60"
+minecraft = "1.18.2"

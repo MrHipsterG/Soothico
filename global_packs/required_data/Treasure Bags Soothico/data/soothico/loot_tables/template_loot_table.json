@@ -1,0 +1,85 @@
+{
+	"type": "minecraft:entity",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:leather",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 0,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"weight": 70
+				},
+				{
+					"type": "minecraft:tag",
+					"name": "forge:rods",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 2,
+								"max": 5,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"expand": true,
+					"weight": 60
+				},
+				{
+					"type": "minecraft:item",
+					"name": "aquaculture:iron_hook",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 0,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"weight": 30
+				}
+			]
+		},
+		{
+			"rolls": 10,
+			"entries": [
+				{
+					"type": "minecraft:tag",
+					"name": "minecraft:arrows",
+					"expand": true
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:beef",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"type": "minecraft:uniform",
+								"min": 0,
+								"max": 5
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

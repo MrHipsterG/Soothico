@@ -1,0 +1,11 @@
+{
+    "name": "Tetra",
+    "icon": "mcwroofs:roofing_hammer",
+    "category": "patchouli:test_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Tetra is an in-depth and balanced mod about creating and customising your own tools. To get started, craft a 'Wooden Hammer' and right click a workbench. Remember to check the Advancements if you ever feel lost!"
+        }
+    ]
+}

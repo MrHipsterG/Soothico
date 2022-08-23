@@ -1,0 +1,11 @@
+{
+    "name": "End Changes",
+    "icon": "endrem:rogue_eye",
+    "category": "patchouli:test_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The End in Soothico is now equipped with more biomes and enemies, to spice up the dimension a bit and keep you on your toes! Rather than 12 Eyes of Ender, you instead need 12 different eyes located throughout the world in different structures and biomes. Search 'Eye' in JEI to get a hint on where to find them!"
+        }
+    ]
+}

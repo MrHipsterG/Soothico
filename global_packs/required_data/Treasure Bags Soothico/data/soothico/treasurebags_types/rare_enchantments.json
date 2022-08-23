@@ -1,0 +1,12 @@
+{
+	"group": "rare_bags",
+	"displayName": {
+		"text": "Enchantment Bag"
+	},
+	"lootTable": "soothico:rare_enchantments_table",
+	"rarity": "rare",
+	"bagColor": "#D89FFF",
+	"bagOverlayColor": "#94D1D3",
+	"bagStringColor": "#86EAED",
+	"dropsFromGroups": []
+}

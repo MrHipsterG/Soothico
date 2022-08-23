@@ -1,0 +1,11 @@
+{
+    "name": "How Many Items?!",
+    "icon": "additionaladditions:mysterious_bundle",
+    "category": "patchouli:test_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Just Enough Items is the mod that adds the big list of items when you open your inventory! This can be used to search for any item in the game, and you can click on it to show the recipe. By default, pressing U on any item also shows the usages of it! It's very useful when you find something that you have no idea what you're supposed to use it for."
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+craftingTable.removeByName("pamhc2foodcore:flour_x1_flour_plants");

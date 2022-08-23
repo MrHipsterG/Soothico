@@ -1,0 +1,12 @@
+{
+	"group": "common_bags",
+	"displayName": {
+		"text": "Miner's Bag"
+	},
+	"lootTable": "soothico:common_ores_table",
+	"rarity": "common",
+	"bagColor": "#165777",
+	"bagOverlayColor": "#D3D3D3",
+	"bagStringColor": "#808080",
+	"dropsFromGroups": []
+}

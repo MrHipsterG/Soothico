@@ -1,0 +1,55 @@
+{
+	"type": "minecraft:entity",
+	"pools": [
+		{
+			"rolls": 5,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:ender_pearl",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 0,
+								"max": 4,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"weight": 50
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:leather",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 0,
+								"max": 4,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"weight": 50
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:white_wool",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 0,
+								"max": 4,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"weight": 50
+				}
+			]
+		}
+	]
+}
