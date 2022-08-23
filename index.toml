@@ -2725,11 +2725,6 @@ hash = "a3d4d66129aa440f6e784f67a1bfe83c677e0dd9cdebe4a2807cdbd0a9427ae2"
 metafile = true
 
 [[files]]
-file = "mods/culinary-construct.pw.toml"
-hash = "d1e19873584d48a071284e3bb2f6d02e06b339dbefbc30bb714b1a113ede9027"
-metafile = true
-
-[[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "80a80ceb99e71ac021c7c82c393209bd3283f58ec0c4b6bcdd1c7b0c9c79d921"
 metafile = true
@@ -3125,26 +3120,6 @@ hash = "228d4a3c6287b47608af9a9437a720b50485a6c4212f97ef0488db7f7add07fe"
 metafile = true
 
 [[files]]
-file = "mods/pams-harvestcraft-2-crops.pw.toml"
-hash = "c173e3ec783ecba86129182173314dbefdabe17252df2c413714cdf02e82303d"
-metafile = true
-
-[[files]]
-file = "mods/pams-harvestcraft-2-food-core.pw.toml"
-hash = "882373a6854ce821234fd521f9a7ed659f4cfffb5753ff30d4a90e84ac9f7534"
-metafile = true
-
-[[files]]
-file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
-hash = "0c1f35f04384cd285068b73a02290eb9573a280f327fbbb526fd4690df661e38"
-metafile = true
-
-[[files]]
-file = "mods/pams-harvestcraft-2-trees.pw.toml"
-hash = "074323f9f8d6443566ed6ccb0611feca24cb2e47c0b228ba3c9de13705a58595"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae9bf4a273c5f15c24d85397103e0d69f48ff1543dbc96aa0c879b2b31c72b54"
 metafile = true
@@ -3277,11 +3252,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "882d9f45d19f3bd111168686e9d29201e80b8d1cff5dcdc7bf2ac9ae26b033af"
-metafile = true
-
-[[files]]
-file = "mods/terraforged.pw.toml"
-hash = "92da3f82b356a1d109333d5cb19b128df4fcdee3aefaffdc8021b6254fb44383"
 metafile = true
 
 [[files]]
