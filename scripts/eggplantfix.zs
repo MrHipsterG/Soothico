@@ -1,5 +1,4 @@
 <tag:items:forge:crops/eggplant>.add(<item:culturaldelights:eggplant>);
-<tag:items:forge:crops/eggplant>.add(<item:pamhc2crops:eggplantitem>);
 <tag:items:forge:vegetables>.add(<item:culturaldelights:eggplant>);
 <tag:items:forge:vegetables>.add(<item:culturaldelights:eggplant>);
 <tag:items:culturaldelights:smoked_regular_eggplants>.add(<item:mysticalworld:cooked_aubergine>);

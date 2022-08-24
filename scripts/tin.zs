@@ -3,7 +3,7 @@ craftingTable.removeByName("cookingforblockheads:heating_unit");
 craftingTable.removeByName("farmersdelight:cooking_pot");
 craftingTable.addShaped("soothico.cookingpot", <item:farmersdelight:cooking_pot>, [
     [<tag:items:supplementaries:throwable_bricks>, <item:minecraft:air>, <tag:items:supplementaries:throwable_bricks>], 
-    [<item:mysticalworld:tin_ingot>, <item:pamhc2foodcore:potitem>, <item:mysticalworld:tin_ingot>], 
+    [<item:mysticalworld:tin_ingot>, <item:minecraft:bucket>, <item:mysticalworld:tin_ingot>], 
     [<item:mysticalworld:tin_ingot>, <item:mysticalworld:tin_ingot>, <item:mysticalworld:tin_ingot>]]);
 	
 	

@@ -678,7 +678,7 @@ hash = "ad632cac4e88a5138ae60ff7304bb3586eb93e9d3b34f241e5d532c1e5d19e7e"
 
 [[files]]
 file = "config/craftpresence.properties"
-hash = "6c3f5359e36e17442e9394c8e07710a786b70d7ead44e00c9c27c00fc2ed2adf"
+hash = "961da5c76408266520cd1fbcbb94e0a8c9c48a066ab9ddbf6c491335939632ba"
 
 [[files]]
 file = "config/create-client.toml"
@@ -1049,28 +1049,8 @@ file = "config/oculus.properties"
 hash = "9f48f1c4be35f4c4cfb054394c8b936ef3bfbd46e3deb0967f068c846fd0f9a9"
 
 [[files]]
-file = "config/pamhc2crops.toml"
-hash = "112e8d56c22c31477ce9172cb863ffc58663760e7eb66d4c36ddd6069156d653"
-
-[[files]]
-file = "config/pamhc2foodcore-client.toml"
-hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
-
-[[files]]
-file = "config/pamhc2foodcore-common.toml"
-hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
-
-[[files]]
-file = "config/pamhc2foodextended-client.toml"
-hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
-
-[[files]]
-file = "config/pamhc2foodextended-common.toml"
-hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
-
-[[files]]
-file = "config/pamhc2trees.toml"
-hash = "b3a3d8f830fb1f459360ccc7e5385377b909375ccf6af7bc177c10208e9c845b"
+file = "config/paraglider-common.toml"
+hash = "c588847ddafa383a236829272092f7b7ae6a31988a724d929cfa73d18acc3d07"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -1213,290 +1193,6 @@ file = "config/terrablender.toml"
 hash = "59d79e8bc4a42e678196a7164e5841a9803f8684f1b52b9944ce554c9f353691"
 
 [[files]]
-file = "config/terraforged/pack-v0.1/data/minecraft/dimension/overworld.json"
-hash = "4fe39cd2d122f1960f950d382f2288d7185bfa454a5345b93921be44e610e13e"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/minecraft/dimension_type/overworld.json"
-hash = "bc03947ceedee8aef8185f6a7db7187505191e2b90fcac01cb0e5282f9e0ae61"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/tags/worldgen/biome/overworld.json"
-hash = "a29d8a7ae21b11c10d6b6306b86732b2c01b5b49b4d740789a3493b06da15e49"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/tags/worldgen/biome/trees/copses.json"
-hash = "967fc6529a21d6b3b8fed3609902fa0acdb48cd2822042d4bc9f4f85104320a8"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/tags/worldgen/biome/trees/hardy.json"
-hash = "444f59e6b6ee6ee0ae5f986289f6dfe1cb721a691e00bd323c404529117c0f46"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/tags/worldgen/biome/trees/hardy_slopes.json"
-hash = "b35089feb9fdf4742ffa0a122d49bbbd77ad8fca412c525eeddbb68c0b714f3d"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/tags/worldgen/biome/trees/patchy.json"
-hash = "cc85524cb6c9ed541ce960602569804c0baae32b6072667dc797ac8c5e243caf"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/tags/worldgen/biome/trees/rainforest.json"
-hash = "e0a575c24031fe844aefcfe7a7e691a6cd134d3fc8cfc85f4de80ad7d6bc9b7b"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/tags/worldgen/biome/trees/sparse.json"
-hash = "9cfb80b5a610bc0e97344ff8494bf7d2a0d55465be089f7e47513630194ddd75"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/tags/worldgen/biome/trees/sparse_rainforest.json"
-hash = "c2ef1c799878f75c7557a224c235a7ba88bc7a42349e15647186c10af5b875c0"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/tags/worldgen/biome/trees/temperate.json"
-hash = "f7ba83828cd4cc5d33c44647322c08d91271c1bc3b98ffdaf03099f87ec4d2c2"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/biome/cave.json"
-hash = "de99b5dfd54110ee4ea65295699db47c09a3bbab651be6ecbefd72eb95e7cdaf"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/biome/oak_forest.json"
-hash = "20630cc28ee98edbf360b9b936e665e5216c2f188835d0579e53a22d225d1775"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/cave/mega.json"
-hash = "54d53f8e9b1a67350ee6f1b7ed021b240fd45a806f369a8244a118344185cab4"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/cave/mega_deep.json"
-hash = "795093317f4965882a741eaaa54335e391a7f9c6424963a07021ca3d3d5691e0"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/cave/synapse_high.json"
-hash = "699448346a52dcf9965cb18173483a50f037638adc4b8f19c641f628df074c7c"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/cave/synapse_low.json"
-hash = "c57ac348e2619f90196a3a0ff6c59e9330e2816781047823ab72b0468ad0796a"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/cave/synapse_mid.json"
-hash = "dc600680c4f1e924744c9d72b9739107ee0bee27af39687529709597bb5f592d"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/climate/alpine.json"
-hash = "9c36a3db5807df507c9ba72ec7b391721044dfc891f0c0e3039f875e75378971"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/climate/cold_steppe.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/climate/desert.json"
-hash = "071acc32b7dcebef9f39233e1266143f60d353dde639d03f04a69e159cd8ee9e"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/climate/grassland.json"
-hash = "2ba13685a0a30302477aeec7f2e4ba8a81b6a6746008498bd953920cb1b31e30"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/climate/savanna.json"
-hash = "fed09be0de0b3f7ae9b8cd9342b566b4f1da4b20f816e8e7c311036c72e74411"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/climate/steppe.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/climate/taiga.json"
-hash = "4ae0bcf43b32ec24df8b886c476b174cad7bfe9aec559696903d89e07934b179"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/climate/temperate_forest.json"
-hash = "6af02548e6e28eae3d2f7320781c3294049278d2deccc1c2f19aac9113978c49"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/climate/temperate_rainforest.json"
-hash = "1aa1e417e52b7467677eaf03594ff0cde36cb24d81fb76204580699e69919bb1"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/climate/tropical_rainforest.json"
-hash = "e8a92d69cbcaf2d5ee83f70980c4ad0c94ccb6ae1b33bbefb38fdeebc502c153"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/climate/tundra.json"
-hash = "69684c23f1b94ced2eb662f3e62f3836fbd05dbe0ca2e78d03a36808751eeb1c"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/noise/badlands.json"
-hash = "3d8282a7a8bc124a69a5d30ade898ed480070dfc60a6477a60f923d898df2b58"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/noise/dales.json"
-hash = "26fbb15abed03297c05c4d6d70f967adf154d1a4782f60dd56b0f382ff33dc82"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/noise/dolomites.json"
-hash = "300a232aa422e8b679a2d2ecd85a43513e347a588d0b397980c96ffb025756f1"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/noise/hills_1.json"
-hash = "8d417948f801fdf8bd1e5bce99df36f2e51d5051b9c8aec38529c7b56dd3fecb"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/noise/hills_2.json"
-hash = "9f355d7ef5c689f591b6d8450ee13dc386b68f2dfb401f71418c57c3ee989c6d"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/noise/mountains_1.json"
-hash = "6ddfdfc65d4d660b2724f6671568f67f8691e671689423ae9fbc06f5c72d97f4"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/noise/mountains_2.json"
-hash = "7fb12da63aaaad7da15482db51a536502da550460fa1312cb49c195a230be701"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/noise/mountains_3.json"
-hash = "bfda88435bfa4e1410b91551a38821b972d9b0b774d69f9d0cf600ccfa051a9d"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/noise/mountains_ridge_1.json"
-hash = "c85016b44e2ab6fbb50a7e59affdbccc137e462ca8cb326c1fc008e475dced45"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/noise/mountains_ridge_2.json"
-hash = "4ec6a5233056590f4fa3b629b3fffac9feff8764619c1f0e63041556acf13858"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/noise/plains.json"
-hash = "bcd9eb517e020ddc96478cf4ef6415050d70a6f7b4a054ea696bae0cd477094d"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/noise/plateau.json"
-hash = "ffaa1f8f02c096c9d09265c51df3a2c593377198812960674bca9ab2ca8d7a79"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/noise/steppe.json"
-hash = "8a52a869f4bf64b919af32b8a50f1b2342fcf765f82540d22490059093fce31b"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/noise/torridonian.json"
-hash = "0785d1ec61587f94ead27248d8cc37a9c707775d37152e7c7673f245b8effc86"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/badlands.json"
-hash = "3ed2e3beb02cafeaa5e3d05b2d1d298adad5efb2152d8df04c0386aef5bf9cd8"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/beach.json"
-hash = "78db17dd9abfa02817aaf72527a7afcc3283cee3b583bc46057510c2ea87bedf"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/coast.json"
-hash = "b000800b0501dc7e53de30289bd0e2bcd7980174eaec55ad126ebe950a5017e5"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/deep_ocean.json"
-hash = "7bebc4f77c402f967d6f130546dc8fa35c88b1c53cc739679625c3a69ffa0092"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/dolomites.json"
-hash = "3d320f60762dd659692dfcceed83119ee64be16251f69bc451a5e007a96db1a9"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/flats.json"
-hash = "871b647a44e5f657db3fbd915ff28defab178596889ac767c25f8cbc4e0ffa8f"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/hills.json"
-hash = "e3c3db71f38949436ff80805df185f733ac950cb22c496d1708f645a92d149bf"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/lake.json"
-hash = "70de8930d0d64ee46d1151fbc7a9f9db9f02dcedcd67390b5715896d66571467"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/mountain_chain.json"
-hash = "163a9324a61df8676330e2a8493c670abce0b3c3a534c2a646335c9bd40dc819"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/mountains.json"
-hash = "b1560cb612617d3ceb092050059019898633b1841273738d1c374dbce1cfad69"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/none.json"
-hash = "818f3a6275594600b1995cdddb2fa7b7774f5935d5bce9e46d2348946969aef9"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/ocean.json"
-hash = "50b8eb37c41d7991fd2144cd9f96d92e8b9fb34d9e8a9908b2918c57904c703c"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/plateau.json"
-hash = "b97a1ec4b0b9ae18a35794d59a530e25c31a83ce1cd26242e15ebadda129c6f5"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/river.json"
-hash = "2f8af40537ef71c48e946b2f946d836b4bb8242c7d04eb397db400a9f8262dc7"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/torridonian.json"
-hash = "75cca495e1b9bc9af2eecc0015a2a38cfc62f840f43a79ef344de66f9aa353cb"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/volcano.json"
-hash = "4b4a3e18a1b33fb56fc03d8afe9b95eda7bf1ea9a5301c3a4699981ff91c2052"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/volcano_pipe.json"
-hash = "fea92f243abfe7fcf7ad8caec9721b219544c188581c85182359b541f6c72d04"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/terrain/type/wetland.json"
-hash = "a77ef261c101e998bc9a92561561c45711f8c47fa79775d3d5f4ef4716a64318"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/vegetation/trees_copse.json"
-hash = "cb51781745f0ea6c5bf2cbcd02e80a87e9ae7ab8660840baf75007ab5689e46e"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/vegetation/trees_hardy.json"
-hash = "3cdb82072d0a271803c0b0f52e8320fde3d7c53b4ade2c0c7d0df54cf4b6cf14"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/vegetation/trees_hardy_slopes.json"
-hash = "f04b0fe99c7b679c983c6164ad196fc1bc63ccfcc3b704ba728612300c2034bd"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/vegetation/trees_patchy.json"
-hash = "27599d703848886602b6e3bc408f99ea70a264fd5d8c5bcd2ead814112a0ceef"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/vegetation/trees_rainforest.json"
-hash = "97e440e7880785c24dac50821529cc6b24fbb9dfe13f85038006b035f975a779"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/vegetation/trees_sparse.json"
-hash = "ed2988138698a174708dd1e2cb9e0a5e60f6b62e68cb2a4f1758357754786cac"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/vegetation/trees_sparse_rainforest.json"
-hash = "0013671317253f4e642e7c2c76afc9e0ce4d3a4e6d12221dcf4215cddcced8c7"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/data/terraforged/worldgen/vegetation/trees_temperate.json"
-hash = "8a3142db19baaeb1cd8fa8cdf91256d9e8b5e75c6fec533335f37d634542f375"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/pack.mcmeta"
-hash = "8a8a9af818946d26d64d91899fd565be4003f3ae4605d52a29d323426ce4c0ad"
-
-[[files]]
-file = "config/terraforged/pack-v0.1/pack.png"
-hash = "b587b9e1c2d41383999584a91f53492922b0f399a63657a42c1cd235ad31d1f8"
-
-[[files]]
 file = "config/tetra.toml"
 hash = "feb7f8d2ddc4a6a0976fd283cc761f0e511f7d3f9da9e1f77e1db44382664a0e"
 
@@ -1547,6 +1243,18 @@ hash = "0b99542058b4ab2c0d2d5344e98591887e36a398e5ec48fe81dd6498960b0f4a"
 [[files]]
 file = "config/voicechat/username-cache.json"
 hash = "e128c0ef6f2202b6c374b1a73372b0ebd29b29586324306510d3b4c284bc50b2"
+
+[[files]]
+file = "config/waila/blacklist.json"
+hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "dabdbe5034389f8059df6d749a84d6c4c2565b85d3b8565cec413ccbfe71699f"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "7329fefdfa234e8941bf324e9d586c006681a7b9657c9e8ea676926e5478679c"
 
 [[files]]
 file = "config/waveycapes.json"
@@ -1774,27 +1482,27 @@ hash = "0db191aaefe06beeb47df7631429fcfc4339eb3a063cdd544889b0d60a02763e"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/abandoned_temple.json"
-hash = "d6d175a007de17de1014ba15a95cf3a9284d0bb5abdd58b990a489e5c54a244d"
+hash = "c2493888407f9d7a0747b47cddc602090c5ea044c321042a37603e846b64dc46"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/aviary.json"
-hash = "b6744b4e77b0f8abe9a887a50bda12bbcb8071f9fe6c939a6f12a4326801f6ae"
+hash = "b610d40b96264c6e21b98bbcdd06bb29c0ffa872c3df0b05be6ee68b4e32ccc9"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/bandit_towers.json"
-hash = "9bf97d05fdb738251a12804b66eb729ed098a7957ab8fbf17f7fde5e69e5600c"
+hash = "66bfc5331ae490d7069604ad07719a0a4cf4d6a68c6551b999c8059444a1eb08"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/bandit_village.json"
-hash = "f9a9e583c1a1af271424c305bed31a23212405c4e64777e9f50520c6b1b8adb4"
+hash = "5fcbe9fe46d42b8f18c6f9c746d670a4409dcc9efbb1e64b5db958de1f2562ac"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/ceryneian_hind.json"
-hash = "66e4ce1430487258e0ad1bc3a5be840d712d5a13e79d882338f97f8eba12d124"
+hash = "0e27c145d55b9170cd746d437139ad29758789bbdd42c899b34164f34f648319"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/coliseum.json"
-hash = "215c3c863375d25a8b05dbdf56b0e46e7daa91234e6b32275c61b773f538b1e6"
+hash = "80f18ec0796553471595c17114d55a636dac02b5b5be78397e5b127bc4e87b03"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/fishing_hut.json"
@@ -1802,111 +1510,111 @@ hash = "8d338e08f40d8b21e70fd64a6c76fba3eaebd96b5f739d590397ead44ed23e45"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/foundry.json"
-hash = "30d6e5adc1c9cd6a179986bc332902ce002d4c1d44bccf48272b1c5a34136458"
+hash = "bba828fb33e91b6d7abbf90d186891877a387992fc788262dd88fd90672bcd0c"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/giant_mushroom.json"
-hash = "51870a6110a79c82e974c6c882deb22aa447a9a9dedd52a549f05d5b54f2ee42"
+hash = "38e70154ab05fa05892a056277c9754b3c69a453a80ede86d0e7f708a7976665"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/heavenly_challenger.json"
-hash = "a9fe6aab0b828f08ac46d6fbe662b6236c6b4d8a6613f7b9bc10e9671e7eefcb"
+hash = "18e7fd765afef9835d72a35bc33f720881c88a064eb5976202c0913ec6c89d97"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/heavenly_conqueror.json"
-hash = "2b6b809bb4349234bd5e724a3f551c85c957ceb23feac99f24848df56d468bc0"
+hash = "fbb84841fb8db8b68fedb04b30bf7f45c64f0a174c3831b37d4ef3cf0b8f94d7"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/heavenly_rider.json"
-hash = "d003e68010c7b4be6f7922734123909d1849a5d01bfdcfcffe1ce65ed559eef3"
+hash = "26fd2dfa3b84edf977bfa5b88fe2693f9bc10dc334c4eef334fa20d8b107ffef"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/illager_campsite.json"
-hash = "a6685ff54d8c8ed0a8d9df7770d0cb55dfe48dceda39255b75bedf5db84831d3"
+hash = "eff5ef8a3bc56482eadd13d65ebd2be57cf10efb3310e3d25bb3200fcdcc8616"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/illager_corsair.json"
-hash = "aa0569a17f20246bd1eee41ecf49e17ddf1c6f89eb287f68c48453f62829a967"
+hash = "5fd91a1c83223bd479a43f231ba4e97f7852578098fd65cb8a4f0525a6c9adb1"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/illager_fort.json"
-hash = "acda68f7977c8b00bfb25b21357d98b4e470fa0a95f1b8e72a9e363fd5754efa"
+hash = "ec754556fdab31d5833be6126e115fb16b7aa4bccd9d569201ec8bd18f48c6ba"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/illager_galley.json"
-hash = "4fe297b47e12687ea6dd9c6eb4935a4b9c7c46a125769ed81deb3a05b63af453"
+hash = "225960504d0424ea2d63a7d6076aba6b6d20f7db53412d5644fadbebf7693985"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/illager_windmill.json"
-hash = "bd101ce9a8192ad7c033ebaa4476100f2ab8bd08bffc128e3fb12bea6705de30"
+hash = "f0864ec5110cc5443d116aeb7fd3e39db7aea20171ca87c8a8d409f583769239"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/infested_temple.json"
-hash = "b2e551e23cd7e2427b66c800961072c4f1121fa546cb68184f94f89f3bead374"
+hash = "db84a3e2c8ad6601c5830ed6d126dead1ecf784cfea7f295ccb3fcce339faa9b"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/jungle_tree_house.json"
-hash = "d354c0485f49274e5518520b8cff86e009d4a073584f5ef3a70668ef0d59502d"
+hash = "5db2e2f3ec31a28f64572c465461c203eb9e5d88dd9270e2d116c0ef3cbc4792"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/lighthouse.json"
-hash = "5213c4cbddbce8e2fc5a9e579c86231802cf8ea2a0abd671b2932cf00a14e73e"
+hash = "3115eefe92a5cfb5785cbb9597b089861011eb284a1cfd1e68b0d1413ecd7d27"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/merchant_campsite.json"
-hash = "95b954b0cba1095f4e7779a9867e9c9b2ca3875472bf3a44baf792d4676d1986"
+hash = "b18777cd0ded8a2c60bc2bc9905cd3b61e06f25fe30e861bea1f94778f22746d"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/mining_system.json"
-hash = "5679489557adef5f7755ed8ea31f3ebae747c09a6c620c9435be48ff9de910e4"
+hash = "bb517a00d464f61253591b2f07a0118d1e6a1dfc92224092ada3ec0dd89cef0a"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/monastery.json"
-hash = "a738391ace4aadb1b760e25a87109a997a749857aa88701874a7862386062a2a"
+hash = "2432f3ad06e925c0447c692fc6d60917b4bdceffa303fee556c0f2a9d20b3fe7"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/mushroom_house.json"
-hash = "d1445d743fe80a369b8700e172266402afb8643d2099e513b9c2e5eb9b6375de"
+hash = "8f2ba25ad13d5ae18fbdea345b89b4a55ae2b0586636da042beab77cc0292b69"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/mushroom_mines.json"
-hash = "2ba8dead4ae3ddb7cc0f747cce7f79becf681dee48f81dd5290d3e5a2afe6b1b"
+hash = "9d72e403ee110024b28345833777609181f5b757f5081fdde396623879c44dae"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/mushroom_village.json"
-hash = "35dabd2da0fa7c85417aeffef1178fa5fdfcad68e30e5fabecc3b68877a3cdf8"
+hash = "7f1eaef5b3bd3fb2deb4b089b664f7173b1577905650e6878fdedfa2b9726660"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/plague_asylum.json"
-hash = "25b91619d5b61bdd28714f9fb1d116b890fd6d5b7dbac2636beaed75ee4eca4e"
+hash = "2ca8feb4227544e40f21f61f737c0438ffeafd7bd163e5d514dd36e33de78af3"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/scorched_mines.json"
-hash = "d8826b94c3bd73237ed246137bfaf57e7c0529f74d99949df70504949bad4cef"
+hash = "eb5547442721547d0ccd119cd7316a8a0fcb58cb1c3e75dfeb6bb575f8d141e9"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/shiraz_palace.json"
-hash = "8b5ed37b4850b3c30f4806b962549b8f7d43b0c2a6129b46705ad5e15600f058"
+hash = "d53efb14285342acff1f72679c9dc2237e5aea0362e1973014ce5bcddc559ec5"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/small_blimp.json"
-hash = "4ba1ea4d0d83b26e5ff89e97c8b9dd6e47b3d71af96941f056bee1827f7843f7"
+hash = "daf66ee70abce77937df59f04c3cbd94adebf85654858dc2b1bae1dc415cd924"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/small_prairie_house.json"
-hash = "120d37764576e4bbd86f9099e8502a1eb6a4de97626105ab97dd4361d300839b"
+hash = "cccb92610b0bb5ac54b782b911b7a50d0255abca3df09df105935d4f91064a89"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/thornborn_towers.json"
-hash = "3cede920baf17388abb396c322278dd7d2e320f1d8f5e1df580064e9e724972a"
+hash = "a57bcecf601ea971bfbbabd1406e3c012769d728e7650b1775f9270470d45cd1"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/typhon.json"
-hash = "86aa5c805e1e0766d70b38ad74dbae5503fee157c05c0bd4cb3096509ff0d796"
+hash = "73d550c0ef8c807777dd5b9d137ed13d3f44a88d784eda68599eb7b8f24f12ba"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/undead_pirate_ship.json"
-hash = "d6a64ffc3345cb75ee0a455359581c5fe88b9b5df41174e6f3e2b9cbf54f7b7d"
+hash = "eb2801ded3933f8a0d225473467456eaa95c8cfedfc6f242612ef4ce209c7caf"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/worldgen/structure_set/wishing_well.json"
@@ -1917,335 +1625,335 @@ file = "global_packs/required_data/Dungeons Arise Soothico/pack.mcmeta"
 hash = "444e82eb4356aa661a39ad4990eccc978cf15969929b8321d913ad0c4c0c2986"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/connor135246_pack/advancements/less_op_villagers.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/connor135246_pack/advancements/less_op_villagers.json"
 hash = "654c1c34f906a0a161344d51e846aab97c0f9ead76287dda5d3590b68d126874"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/connor135246_pack/advancements/root.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/connor135246_pack/advancements/root.json"
 hash = "f4cdb709d977c3d515012debe85a8192234c12f86a89aeea9e5ccfe0002c3a07"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config.mcfunction"
 hash = "369a24dbe78c0049469c787174d4866a42304073e8e0dc00509b3a89e1263c32"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config/all_changes.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config/all_changes.mcfunction"
 hash = "3c9c849a8fea0a224bb087e31ef3ff8cba0b8b9d34763949d68978cd7ece67ad"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config/axe.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config/axe.mcfunction"
 hash = "a898b177952c10dc92ee89b11aa7d28fc150655b42d79b7bb7092a647eb54cfa"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config/boots.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config/boots.mcfunction"
 hash = "70fe4d8cc896248d376acf2a0e31493f4265ac499f78d97246e12efac8a26cfb"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config/chestplate.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config/chestplate.mcfunction"
 hash = "8e1880f6f648cb063284d9535466916b6bb3cd1f3884fceb4beb3aa491a469c0"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config/default.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config/default.mcfunction"
 hash = "11104405ca12e8d1629dc44c95c9e7a3c978fd02f6a8e32e56d4c150e3b70d39"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config/enchant_hoe.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config/enchant_hoe.mcfunction"
 hash = "b37df06eb7f07fe020971b1c241e31820627757e3b478eabcc6fc839c1ea3036"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config/helmet.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config/helmet.mcfunction"
 hash = "5222c2d0efdc17c90c158ddb9080e0d4350c7a01171277820ad3c8e14c8fe650"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config/hoe.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config/hoe.mcfunction"
 hash = "f14666345b0496e97e77756a5f66145a7a699bee505ac633100e1c009aed688b"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config/leggings.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config/leggings.mcfunction"
 hash = "cd181fff8b5212d1fec435586bcb5befcff19341d0a6b1561e039136413931a9"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config/max_level_book.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config/max_level_book.mcfunction"
 hash = "934bd153bbee39377dad5462bfc8528431a0975a58c740b4d527ff298d6c095f"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config/mending_book.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config/mending_book.mcfunction"
 hash = "63ba7d7d7813b244ca7798a9f589f45078d646c21f630d40a431bdf319d8d28b"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config/no_changes.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config/no_changes.mcfunction"
 hash = "eba764b22958f2fdbd0b4472c635e6141c8ceca08be4ad7500319842f04e53f1"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config/pickaxe.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config/pickaxe.mcfunction"
 hash = "0a6cfda477809cc6ee5c8fee451a337ab4f3a12b7dca809caa7f2dd007745963"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config/require_item.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config/require_item.mcfunction"
 hash = "6e615f95c0002dcc6694cd288286a17a2729e97eaf80eb4093504606a65346c2"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config/shovel.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config/shovel.mcfunction"
 hash = "6038508b7ea41278cb5b7b6fa5f06efa3f4a4aaeb7695b72958acc8590ab4b3f"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/config/sword.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/config/sword.mcfunction"
 hash = "0f0ce18664b118346fcd9e1bdce05e185d6bd7f82f741d3b2842e84d2ada5933"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/load.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/load.mcfunction"
 hash = "40cc63b7e2bb1ee99387fb5ed1983bb3aa3879ab239ae3cdeea41873bcc59766"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/notify/axe.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/notify/axe.mcfunction"
 hash = "d45d3cd7d1f407b2ffd5fd9d9dc06e22d038e841787219187f96fec5263d296b"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/notify/boots.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/notify/boots.mcfunction"
 hash = "6bb0db14e1b55ef203435e9530442bc3ecd64832bf12ca1d7f7ef8467a01f044"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/notify/chestplate.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/notify/chestplate.mcfunction"
 hash = "6e4162080e77a43fe0b3284300e471599c766c7339f54a4399d1829fec7dfadc"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/notify/enchant_hoe.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/notify/enchant_hoe.mcfunction"
 hash = "9f01568635dc8812f2a60b56655c70f375a6a17745266c4c9b04e443129b3fc7"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/notify/helmet.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/notify/helmet.mcfunction"
 hash = "76f873c7341879d500f812990c0b8c689f88be55688def99d4ee2f6355d9a527"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/notify/hoe.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/notify/hoe.mcfunction"
 hash = "09aa43316b0dc5b2ab11e6b6688bf29188ed00c0cda8fbfaa5ad5ae944f98bd8"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/notify/leggings.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/notify/leggings.mcfunction"
 hash = "f0b2f386797829cd171a2eb5726925f65a3eaa54530fd6629437620d466cb34b"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/notify/max_level_book.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/notify/max_level_book.mcfunction"
 hash = "4a86f5d570f87988d96eaeb84efb16262440b4bb5548ccf74a4ffbc5a89f7615"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/notify/mending_book.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/notify/mending_book.mcfunction"
 hash = "b4b0fbfa598956c4764d286eb72a0704b0a428d0d9a937eacf680cab53bbfb5f"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/notify/pickaxe.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/notify/pickaxe.mcfunction"
 hash = "4142eb1260cc30bb9b93b637a30449aa3f53ff9e337676fe3aa2ace9e7ca1315"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/notify/require_item.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/notify/require_item.mcfunction"
 hash = "fc0dfa9e8c043ec4abbd9844ffc72fc13fe271c4c629366b8ec9e1547db63e11"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/notify/shovel.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/notify/shovel.mcfunction"
 hash = "25f916eb887335fe2b2de745ab559f351d12c0aea94accfd46812516bcee2003"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/notify/sword.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/notify/sword.mcfunction"
 hash = "2362cfd0b2a9f58ee4b9e0154e014c54f9362fbcdab1fe635f66b1d65f5d9c73"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace.mcfunction"
 hash = "63052bf49bff25b8d53ae26fddaf1d8c7c8ce0b1d8513ae877fb7dc98d71118f"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/axe.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/axe.mcfunction"
 hash = "f0136167cbd2de245f3614a38bfca9d357190b507a9e21cb64aa4edb41f43848"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/boots.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/boots.mcfunction"
 hash = "985c99da3693d35c38fc1a14b680f3199be0a85a22c93e0634ad1ef72334f4f3"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/chestplate.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/chestplate.mcfunction"
 hash = "8b0e0ce2bb25ea11c58ab3d2475627c3be71e3fb19bd7fc496923156ec4b26f6"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/enchant_hoe/diamond.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/enchant_hoe/diamond.mcfunction"
 hash = "09401b67f62cfc92f2cac05746037c331856c8709baca54ac9624a4ee76cc4f1"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/enchant_hoe/enchant_hoe.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/enchant_hoe/enchant_hoe.mcfunction"
 hash = "5ddeb373df7cd98e8b9b42f54478f38041f1c2e9a61a04a70ac35216b2092756"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/enchant_hoe/iron.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/enchant_hoe/iron.mcfunction"
 hash = "ecc44030767d0450eab9aea142a0f31aa28f8ccf686187f1c48599a0b23536df"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/helmet.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/helmet.mcfunction"
 hash = "abd7704eddd6b7dc2e079c093b2e3416da66b267630f3d910e679866cbb31e5a"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/hoe.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/hoe.mcfunction"
 hash = "1d9bd509c4cd8ce22ea8254aa4d5ff094982569844832c5c9843a693a6ba4c5f"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/iron/axe.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/iron/axe.mcfunction"
 hash = "99805d42afc70f649eeb96b572b0da104dde40b697bb2448835e9db5eb80961b"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/iron/iron.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/iron/iron.mcfunction"
 hash = "f79540d38f9de6872520854804c0d6d8018d24706fad4cb8be00c322a2a81e7e"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/iron/pickaxe.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/iron/pickaxe.mcfunction"
 hash = "447eeb6ad8ad7ae280ae8607cad6d7b81522641f6a89ca5c1fa90641b4abc426"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/iron/shovel.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/iron/shovel.mcfunction"
 hash = "d9fae1be0b638a28a5fcfaab6e31bf7e0fc3caa539bc2f7861024189782bf3b0"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/iron/sword.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/iron/sword.mcfunction"
 hash = "4d2571f4a0b1664c6780c36eb18bfe85c2986972f53329be55fcb27a71d7aa7d"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/leggings.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/leggings.mcfunction"
 hash = "ab3c61fd16e76919dc379ae0ef729c6a63c0f43d16bf1cb956a57681f6cf8fdd"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/max_level_book.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/max_level_book.mcfunction"
 hash = "6bf956c96c4844a455571de14c0b91b1a255c73c6452183326b335cbc2b17bed"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/mending_book.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/mending_book.mcfunction"
 hash = "039eaec14b5a832975269e4ac67982eb6be7b67da764fd5cb310b65ce2e0d05c"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/pickaxe.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/pickaxe.mcfunction"
 hash = "3d922ff61f5dc9798987a6871088fdb21ce28e72874864bd6f64bb2e26811270"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/require_item.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/require_item.mcfunction"
 hash = "c4fd231292ffba8cd219e1b95a7a554e5422b7ba61dd1b60bd5938da4db13e5d"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/shovel.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/shovel.mcfunction"
 hash = "06baf83c6ce9ab49aeba8063249aa95e49638cfa6b7ddb8e6be2601f4aa6e2c7"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/replace/sword.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/replace/sword.mcfunction"
 hash = "8b24a977986aeb8e2fba37e2d9675d0662ff509980efb49a73138d8b7efc3708"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/tick.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/tick.mcfunction"
 hash = "4ebeaeb368b9e15857a43bd83342b61e2e37debd90509c6f45b87af1ed5e05a5"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/trigger.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/trigger.mcfunction"
 hash = "ff5c2e47eb2dfd58626e4c36fda144cf77fc96efd8d0fb2a397cb7b074c2b24b"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/undo/enchant_hoe0.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/undo/enchant_hoe0.mcfunction"
 hash = "686912f3066dea3793a2eb76e89bef14757b070d38823e3922924ca9688c31a2"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/undo/enchant_hoe1.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/undo/enchant_hoe1.mcfunction"
 hash = "317f304246224454a718a9acdf97f1619219d3e0a31207804a68b885ba7bbf1d"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/undo/require_item0.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/undo/require_item0.mcfunction"
 hash = "4a318897d9fa78f2cb892581b34272f8d366e02a49f3eeae4782f44c7823ea3e"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/functions/undo/require_item1.mcfunction"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/functions/undo/require_item1.mcfunction"
 hash = "e230e8ff0099f075809b7edca235d3ef61e751c21c79d5e4d0e843ead45611cb"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/cost/book_3.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/cost/book_3.json"
 hash = "7646d32e698ff4117489222a45689f16161321c383203e1acefdb9b2e7f898ca"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/cost/book_3_high.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/cost/book_3_high.json"
 hash = "a3eca4b8c5f55b00b92eae90dcad3fe394a68df4a9d610c5fd4d2a76ef08d8cd"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/cost/enchanted_diamond_hoe.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/cost/enchanted_diamond_hoe.json"
 hash = "bf432b106e381f9165cde42ff29ecb889e7b91b770d527e0c859c18389152121"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/cost/enchanted_heavy_armor.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/cost/enchanted_heavy_armor.json"
 hash = "3a31c2a4d519a7a3aad4a366c73b2051240b3f49a39aaaaeadba711e7aae5a77"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/cost/enchanted_light_armor.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/cost/enchanted_light_armor.json"
 hash = "8fdabc331ba5be751b39974b882ca80e0c099a95fe4c0c64410df8472d61e475"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/cost/enchanted_tool.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/cost/enchanted_tool.json"
 hash = "017751de2869db3c4cf94db970998ff989420afdec37b1e2e85a1c1fea047cfa"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/cost/hoe.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/cost/hoe.json"
 hash = "6d869423a375b27d4fe4d99d6be52238f365ec28fa5872280aae68bc10b32376"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/replace/axe.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/replace/axe.json"
 hash = "a9e2e5bbc8f7802ae0efc47523466a3509f9b70a55997c0b1ee21216f03b1c9e"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/replace/boots.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/replace/boots.json"
 hash = "37b299dcf8e63efd33b5c8ac52968777a2450b1884170c9c86159d31b090097f"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/replace/chestplate.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/replace/chestplate.json"
 hash = "798eb51f657aea643c8542b2ed94002a30b41155df60db18094a713ac8e29c41"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/replace/enchanted_diamond_hoe.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/replace/enchanted_diamond_hoe.json"
 hash = "1580cd5482dc76440c205290ec35a7c84902b5ed0671d3fc9c90f18ad8239d22"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/replace/enchanted_iron_hoe.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/replace/enchanted_iron_hoe.json"
 hash = "805d9f8c9330ea32c5aade86170031baada0a960e05a2fc1a9faeef16109c7a7"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/replace/helmet.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/replace/helmet.json"
 hash = "0f6672481c26d7700c95bd6cd60ee0157aaceb53cc0770cb96b41f66d58ef8ec"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/replace/hoe.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/replace/hoe.json"
 hash = "de96dd9f23ec5359d92e3b85345a9c2e33b9087ff5b8fe218f271ae0264c8882"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/replace/leggings.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/replace/leggings.json"
 hash = "8694f1bfff0d6fe05adfc123a87b83c14a86735bb7cb9be3a2f2016591307f2b"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/replace/mending_book.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/replace/mending_book.json"
 hash = "7fede33694bfda56fe25cbd269e24927f5c2ca96866c3d52849d67d3fe56e7ee"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/replace/pickaxe.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/replace/pickaxe.json"
 hash = "2087aa7acabcfeabda6fe1f40e5d70d16f14eb457078234a97dc6cf16dc5f0be"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/replace/shovel.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/replace/shovel.json"
 hash = "3ce09522e07827a46097627a82ffd364f097186141d18a10bbbe5749426d29e4"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/less_op_villagers/loot_tables/replace/sword.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/less_op_villagers/loot_tables/replace/sword.json"
 hash = "942c07e1aa2830f38290761a9641c1bef7aa124ad950f4feedf758a1cc304535"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/minecraft/tags/functions/load.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/minecraft/tags/functions/load.json"
 hash = "fa36452b4896fca4401144332780c14c140337d86364d612e59991a15c1dd408"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/data/minecraft/tags/functions/tick.json"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/data/minecraft/tags/functions/tick.json"
 hash = "a6d0852411cc559e6f9c24b27262b96b13e15b2e5eaab56b4d5d3a673d6f304d"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/pack.mcmeta"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/pack.mcmeta"
 hash = "14f4b77ec234b4d356b0aa3e86265dba03af17166f484bb22af01cc155772dfa"
 
 [[files]]
-file = "global_packs/required_data/Less+OP+Villagers+v1.4.5/pack.png"
+file = "global_packs/required_data/Less OP Villagers v1.4.5/pack.png"
 hash = "5656cf2015b98cea43ae581e1374076e90ec05080391da7642d7a5b65016bace"
 
 [[files]]
@@ -2347,6 +2055,230 @@ hash = "c5955e8d5327b22aef694a7265fa53271267268065f5d820adb91ecb1bd2d666"
 [[files]]
 file = "global_packs/required_data/Tetra Vein Miner/pack.mcmeta"
 hash = "8e8324726afb660b2a2201527d3ed15686c4db1819a36a7b724eaecbd5f84201"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/CHANGELOG.md"
+hash = "7c72764285591dca8a5a8e0f9175efcad7196bc6ebf37ef894cf827b401643df"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/LICENSE"
+hash = "dff3959d2716acc8ba2ddc8edcd7ed5246f1283b285c42f128e5fadfad498bc4"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/advancements/derelict_grass_tower.json"
+hash = "cd116691927a1630913e9027dc8e3daf31c0cc3cc6605e8f7e003e67aeb08fad"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/advancements/derelict_tower.json"
+hash = "0e1c345c03fa44ba296eb1d8b1a940d13ad1f1dac6778a3a64eac5716e220964"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/advancements/ice_tower.json"
+hash = "1ae063d3acc03816b6e9961291e991bc03adbb0ab1cdde6bdf50141203961e8e"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/advancements/jungle_tower.json"
+hash = "27c1f205183de80a90b3eb0b4c70c46e46500b049bd2c6ee0ce536f1fd20f333"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/advancements/regular_tower.json"
+hash = "7e45353e08fdb90e26ef3339fb9e7dd01be077bd26a204e7423da2ec88e6afba"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/advancements/root.json"
+hash = "5e1f6a3323a5b1d2dbb3f0d10cd63a657f3f27b7820ca691048c6083ea128184"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/loot_tables/tower_chest.json"
+hash = "677a03bcff294a3786819cf521c0191d5fda68de17eaae5faf25877c7a580683"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/derelict/derelict_tower_bottom.nbt"
+hash = "0145f87d215c0c89539a15c3bcdcec954c07488daed1a3014922b27ab0e78e97"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/derelict/derelict_tower_top.nbt"
+hash = "068a69ceb487ed9a072fc33710a1b95eefdc1f998e67f3aca72fe572f206aadc"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/derelict/fabric_waystone_derelict_tower_top.nbt"
+hash = "99ecb8306f6c52fff4910b741f90dc30676f1b2dafce35f57270e63f9fda43e3"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/derelict/waystone_derelict_tower_top.nbt"
+hash = "187f20bb630de9f94e1e4054ddb330a7155a08c8984821e42fdc04f67e93da65"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/derelict_grass/derelict_grass_tower_bottom.nbt"
+hash = "21c999e5f22701530aa3fb0c0e2b2417a59ac96ee113deca3254924ab8dd2c51"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/derelict_grass/derelict_grass_tower_top.nbt"
+hash = "a971954e7227b52b210cbf6dde91abaf5d5527f5b699bc1d63f5e71ed669ddef"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/derelict_grass/fabric_waystone_derelict_grass_tower_top.nbt"
+hash = "40133a0d68cada0d7cf567a2e2ff4eefcc06ace3e9e535876f082f890f4cc0ae"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/derelict_grass/waystone_derelict_grass_tower_top.nbt"
+hash = "341a5b46948ea7e64e68287d7ab8ef25d03247228c477f94fe5511a7523886bb"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/ice/fabric_waystone_ice_tower_top.nbt"
+hash = "deca84e5bd9fcf5499e4ef815abd65c07d389a92769f1ccdad0ba4c566628668"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/ice/ice_tower_bottom.nbt"
+hash = "a7269753a031c40b08c5e860d59efff04b67cc7b4b06d825e3c4ec10dfa1a63f"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/ice/ice_tower_top.nbt"
+hash = "b41ff1eb3175a64a981285e94556ca36716fc81301af21b75ae7fd5b9e7fe0b9"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/ice/waystone_ice_tower_top.nbt"
+hash = "d6d6fa37d0adf4519784fe54ff87b8b17173ffb07b2431887d8745aa7209a38d"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/jungle/fabric_waystone_jungle_tower_top.nbt"
+hash = "d679cc0da3b51afac482a51b17a828b69afe7a5a03b5bbaa401a8db1be593cbd"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/jungle/jungle_tower_bottom.nbt"
+hash = "351dae872bc0888424bcebfc74061a9cb2a8a3566a09f09f5119df9dda6cb8a4"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/jungle/jungle_tower_top.nbt"
+hash = "d4a9083f78d7fec6d36bf74c8e5c491fee36b15177bc56f2aa6d813aa1e195bf"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/jungle/waystone_jungle_tower_top.nbt"
+hash = "fd57590cf7d6e7a94745b91458fc5127b76e6e9edc39df58dcbb82ca39888547"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/regular/fabric_waystone_tower_top.nbt"
+hash = "8b23b2cefbfacba457cfc0bea58106ea85958add95cbe359744cb2b99fda94b1"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/regular/tower_bottom.nbt"
+hash = "4e2ea559a50a68a51c0ae997f7a9ad7164fa97b33dbcb17f803fa20179e82a11"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/regular/tower_top.nbt"
+hash = "c362e381e9824bcf54aaf451688fcce2189148d1c441823d86214f1a6170c59a"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/regular/waystone_tower_top.nbt"
+hash = "da85d9260c57d962eec740fbaf415d4f96d646e9684403a23be4714167a5cec4"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/tags/worldgen/biome/has_structure/derelict_grass_tower.json"
+hash = "e0db1d5ad610d7e420f71092654a6a665e51f0161b508ac5d3072b5649e25b7e"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/tags/worldgen/biome/has_structure/derelict_tower.json"
+hash = "aa7b47a50b46aa463b8d6344f18d99656cd09068a779a5f34825bc680082a66b"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/tags/worldgen/biome/has_structure/ice_tower.json"
+hash = "642ed03965cdc3df3a397dee82df3da346bcc6e8b12e9b2b7265d4ca05ba49fa"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/tags/worldgen/biome/has_structure/jungle_tower.json"
+hash = "9ae515de2e3ed2cd6c308ce57551050b7f444d080269054cd515f42eea223d88"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/tags/worldgen/biome/has_structure/regular_tower.json"
+hash = "0e10388aacd2deccfe03c7a0cf93505974df599fc50ce5ebd51bf18468c9b004"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/configured_structure_feature/derelict.json"
+hash = "358d3b41140dcef61fc954898ebd491a90e6e59dc5e488237e36d2bd92d6e0d2"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/configured_structure_feature/derelict_grass.json"
+hash = "eae378574135d6a38ca3526dc79af5a83c710d0691be6058b1f9d0458fe2bafe"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/configured_structure_feature/ice.json"
+hash = "db7e902dde93bdb2209773a4753e9f62fceafaa2ae4d4c437bc60a06787d91af"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/configured_structure_feature/jungle.json"
+hash = "eec54258c32cd411e21907a86c679df0568f97d1c895d3982ce643f39c6767b6"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/configured_structure_feature/regular.json"
+hash = "5008af8cc3779246648767bb24f4a9ed19decbfa09fbdbb0f3e23da2bbcbca87"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/derelict.json"
+hash = "5672f15700feb380d08daa5aac947480caf71306c285ba522c76c32803c654ff"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/derelict_grass.json"
+hash = "14a5e5dd668f0369a24f67189d5efcecf5bd04793cd960e4c7c9dec32036244c"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/ice.json"
+hash = "8db81691c342e4f4967c53f9981931c63b6e21c354939a688eb1c7a3b2d6fd9d"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/jungle.json"
+hash = "4a611d982fe817f121e5a17377aef187264cd6dc6396d6869f4005af525cf19c"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/regular.json"
+hash = "c382b3a265d24a79938e84a5c230b408ec513c8843cc17a7117b49ed9fd02ade"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/template_pool/derelict/bottom.json"
+hash = "321fe008423131686a4f659c0d37f0c19cc7f2dbc3833bc618fde980b489169a"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/template_pool/derelict/top.json"
+hash = "811544531e2df62d03cc81851fb8e8332198b6b799d3172c3e7f2837d12ff4e1"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/template_pool/derelict_grass/bottom.json"
+hash = "1b58f7a19ec532a3f9b819b57dbf9d1a487e166739380601664ada8064406b87"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/template_pool/derelict_grass/top.json"
+hash = "dce1aa4d79c703564a5bb9138b39c30d6df4a61eaf3c6a1f30203b88747c1a82"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/template_pool/ice/bottom.json"
+hash = "40837e209549b7617669a52f5b4534924a74d304095041efc56a6a137388dd9c"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/template_pool/ice/top.json"
+hash = "3d66e96ee0ab1e4079b3cf75846aadec0e440f8519dd1c4263639b2fb9e86f1e"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/template_pool/jungle/bottom.json"
+hash = "963751c9f4bd82d83daee758dfb021f762e63a2fdb053a524ad9836ee7017575"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/template_pool/jungle/top.json"
+hash = "a8bfe40b41dc96eaf5ba9ec162e9f7b37db9c0489aa8262b11d12b5d4b6a6cf2"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/template_pool/regular/bottom.json"
+hash = "b047d1e3eb060fe04ac93cd9015741df43faedc455c4169274670bb130d3bc14"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/template_pool/regular/top.json"
+hash = "2675e57415ea79347bfe71c280d48e2a9da5604fe64790153ae836113bf94f86"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/pack.mcmeta"
+hash = "0bd0f8e44c1307ffed2029417c9dbf456555a1b39bcc464ddb76a2898cbc952f"
+
+[[files]]
+file = "global_packs/required_data/Towers of the Wild v4.0.2/pack.png"
+hash = "1b876da1bb567d6855a2fc522fbed04eb2c5999034bf835778044410e2a28cae"
 
 [[files]]
 file = "global_packs/required_data/Treasure Bags Soothico/data/champions/loot_tables/champion_loot.json"
@@ -2560,6 +2492,11 @@ hash = "85047dd3e82f1ed70055d856c377aece5fe53c1b2af95cc31f2ee42ec8073bdc"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "725a7a56115036a03a624eaa8ba271a31351ccd6273b5e21c7b7bd2a48962f25"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "4b23682d4028acf77b0432276662788b573d407c0c0aee31e18d46646f59c9ad"
 metafile = true
@@ -2765,11 +2702,6 @@ hash = "edd92dde7e27979bd743724987da1411aa9c4291d31e9f0bfcc647ebd79fa435"
 metafile = true
 
 [[files]]
-file = "mods/doggy-talents.pw.toml"
-hash = "5037e336f05d342319c4549c0d2f952f110b4f2ab7c44500a91d1b5a70c87500"
-metafile = true
-
-[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "b76b16427510599a98f9fe395a4917dec7e5bebfa5c7cc52c68a559388d2585d"
 metafile = true
@@ -2802,6 +2734,11 @@ metafile = true
 [[files]]
 file = "mods/endremastered.pw.toml"
 hash = "608bed6e42d2ae3f1f0b2d8998d16ff479041160d46a26964a88070bf3323952"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "6e4a34c104bf7f0754535a7738369b5da8ec28afa98fd7cfff583185da0a66ec"
 metafile = true
 
 [[files]]
@@ -3045,11 +2982,6 @@ hash = "4ec9fef4fce6133daf39dbd678c69ec3a2657dbf930a4a8a81729d0f71ce566a"
 metafile = true
 
 [[files]]
-file = "mods/mod-name-tooltip.pw.toml"
-hash = "8ab331da9b8addd1d810b31526d847e6451aaf6fcfb9aa272e90da4ad42c3091"
-metafile = true
-
-[[files]]
 file = "mods/more-villagers.pw.toml"
 hash = "5f41ba3d60d58c3bb984ca9c06dcdcaf90c9bab0b35233d0814703f93759bc26"
 metafile = true
@@ -3117,6 +3049,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "228d4a3c6287b47608af9a9437a720b50485a6c4212f97ef0488db7f7add07fe"
+metafile = true
+
+[[files]]
+file = "mods/paragliders.pw.toml"
+hash = "078e90f9cde719dac4ef36a4e5513779a56b64080a03604b69c41876ed2f608f"
 metafile = true
 
 [[files]]
@@ -3315,6 +3252,11 @@ hash = "788f8126b065ed0e6ff065606447c1461bcfeaea7e45adcbbe59a4b0c50a631c"
 metafile = true
 
 [[files]]
+file = "mods/wthit-forge.pw.toml"
+hash = "3dcf7d004e496755e876a08dba2333a14ebda4978b988356f27b91d9d031915d"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
 hash = "caba790e9e65a178bac015458a7cd99cd57469b12fafe26d5c6bece05d126bea"
 metafile = true
@@ -3468,15 +3410,11 @@ hash = "7525a69d50a3f0f6542104ea9a67600c9edb45cd5225de780f2b59141a64bfc6"
 
 [[files]]
 file = "scripts/eggfix.zs"
-hash = "d4352950bd63afd5ce76aa68336d29d8fc48431c0249f6711f8387274dacb6b6"
+hash = "9e558527c9e8797a8b0274480cb038159078ae36ba990bbd9b5e6ff179376c88"
 
 [[files]]
 file = "scripts/eggplantfix.zs"
-hash = "579afbeb38e86eb97aef354ee62a56ab9e20bab95e618903f3f2895120faf7e4"
-
-[[files]]
-file = "scripts/flour.zs"
-hash = "5b576c11f2a03059bb914c21e88d491d6e7abd6bb63a2da322b8575b00931608"
+hash = "08630df111b80945b70159776afe3f02d27419dad0f908d6d8c7d836590e89cd"
 
 [[files]]
 file = "scripts/hiplanterns.zs"
@@ -3516,7 +3454,7 @@ hash = "57d0416a4938625f0c24fc90f6d492861644c9d4d95bfbda602024a2a3008ab4"
 
 [[files]]
 file = "scripts/tin.zs"
-hash = "ee1376442d666901357b988f9c8581fca69f0a6031a76ea34e868809219ca6be"
+hash = "c712c5d7ae989a589077ec890312607a1deed2522907c15b7433dd16b8310a5a"
 
 [[files]]
 file = "scripts/woodcutter/woodcutter-acacia.zs"
