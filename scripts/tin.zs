@@ -33,6 +33,6 @@ craftingTable.addShaped("soothico.fridge", <item:cookingforblockheads:fridge>, [
 craftingTable.removeByName("cookingforblockheads:sink");
 craftingTable.addShaped("soothico.sink", <item:cookingforblockheads:sink>, [
     [<item:mysticalworld:tin_ingot>, <item:mysticalworld:tin_ingot>, <item:mysticalworld:tin_ingot>],
-	[<item:minecraft:terracotta>, <tag:items:forge:water/water>, <item:minecraft:terracotta>],
+	[<item:minecraft:terracotta>, <tag:items:forge:buckets/water>, <item:minecraft:terracotta>],
 	[<item:minecraft:terracotta>, <item:minecraft:terracotta>, <item:minecraft:terracotta>]]);
 	
