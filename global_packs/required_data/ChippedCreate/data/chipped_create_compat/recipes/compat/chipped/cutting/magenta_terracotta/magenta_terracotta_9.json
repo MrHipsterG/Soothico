@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:magenta_terracotta"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:magenta_terracotta_9",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }

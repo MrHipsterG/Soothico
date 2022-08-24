@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "chipped"
+    }
+  ],
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:prismarine"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:prismarine_1",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

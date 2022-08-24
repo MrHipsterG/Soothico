@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:white_terracotta"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:white_terracotta_16",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }

@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:brown_stained_glass_pane"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:brown_stained_glass_pane_6",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }

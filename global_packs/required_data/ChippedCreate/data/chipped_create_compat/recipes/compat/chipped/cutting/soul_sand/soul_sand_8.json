@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:soul_sand"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:soul_sand_8",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }

@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:oak_planks"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:oak_planks_5",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }

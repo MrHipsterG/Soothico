@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:warped_fungus"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:warped_fungus_9",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }

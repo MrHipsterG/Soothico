@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:jack_o_lantern"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:jack_o_lantern_18",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }

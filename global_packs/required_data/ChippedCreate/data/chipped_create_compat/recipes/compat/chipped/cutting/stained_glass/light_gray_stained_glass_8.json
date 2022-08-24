@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:light_gray_stained_glass"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:light_gray_stained_glass_8",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }

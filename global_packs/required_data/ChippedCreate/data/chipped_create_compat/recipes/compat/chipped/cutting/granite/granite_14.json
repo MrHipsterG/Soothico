@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "chipped"
+    }
+  ],
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "chipped:granite"
+    }
+  ],
+  "results": [
+    {
+      "item": "chipped:granite_14",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
+}

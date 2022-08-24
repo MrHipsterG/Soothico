@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:nether_sprouts"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:nether_sprouts_11",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }

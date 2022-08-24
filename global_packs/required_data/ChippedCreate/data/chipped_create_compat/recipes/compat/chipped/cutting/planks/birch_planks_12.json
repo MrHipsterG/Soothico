@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:birch_planks"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:birch_planks_12",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }

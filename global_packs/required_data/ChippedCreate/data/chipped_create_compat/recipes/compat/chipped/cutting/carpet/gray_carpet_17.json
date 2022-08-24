@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:gray_carpet"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:gray_carpet_17",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }

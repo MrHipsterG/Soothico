@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:glass_pane"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:spruce_wood_glass_pane_4",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }

@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:nether_wart_block"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:nether_wart_block_10",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }

@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:yellow_wool"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:yellow_wool_3",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }

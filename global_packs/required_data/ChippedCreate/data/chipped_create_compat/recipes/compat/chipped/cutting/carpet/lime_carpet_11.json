@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:lime_carpet"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:lime_carpet_11",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }

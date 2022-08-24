@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:cyan_terracotta"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:cyan_terracotta_8",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }

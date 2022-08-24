@@ -1,0 +1,21 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "chipped"
+      }
+    ],
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:pink_stained_glass"
+      }
+    ],
+    "results": [
+      {
+        "item": "chipped:pink_stained_glass_5",
+        "count": 1
+      }
+    ],
+    "processingTime": 50
+  }
