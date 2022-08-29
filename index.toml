@@ -13550,7 +13550,7 @@ hash = "5e1f6a3323a5b1d2dbb3f0d10cd63a657f3f27b7820ca691048c6083ea128184"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/loot_tables/tower_chest.json"
-hash = "677a03bcff294a3786819cf521c0191d5fda68de17eaae5faf25877c7a580683"
+hash = "ee55eef8185f37af1b0aed5fccbd1e0b406844d3dad212c757062c222b649f00"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/derelict/derelict_tower_bottom.nbt"
@@ -13674,23 +13674,23 @@ hash = "5008af8cc3779246648767bb24f4a9ed19decbfa09fbdbb0f3e23da2bbcbca87"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/derelict.json"
-hash = "5672f15700feb380d08daa5aac947480caf71306c285ba522c76c32803c654ff"
+hash = "dda1021079015855a9f48584cf46de742c2fd7365dcac7c867ca3ac53534b583"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/derelict_grass.json"
-hash = "14a5e5dd668f0369a24f67189d5efcecf5bd04793cd960e4c7c9dec32036244c"
+hash = "79b29494248a3c15d42e20902d8467bf49f1941a84ead1ef10ad3b9372437bef"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/ice.json"
-hash = "8db81691c342e4f4967c53f9981931c63b6e21c354939a688eb1c7a3b2d6fd9d"
+hash = "6e3e32e83e585a382cbca973ce244d891553b93c90fe1efa0511f213bce3002b"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/jungle.json"
-hash = "4a611d982fe817f121e5a17377aef187264cd6dc6396d6869f4005af525cf19c"
+hash = "b61916e20b90a1afa85c2075995f6bcb74c2d8fd12dae38e7fc729480cd868a4"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/regular.json"
-hash = "c382b3a265d24a79938e84a5c230b408ec513c8843cc17a7117b49ed9fd02ade"
+hash = "0b749d2a88e0298831b1f09fa6ce1dcce599b784f923de5beda50af85dbb9f35"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/template_pool/derelict/bottom.json"
@@ -14861,84 +14861,88 @@ file = "resources/starhop-logo-with-text.png"
 hash = "ba9fccd2d75e30f273a07d6e6d920475a82ba53b49c464afdbd45ff334b77d3b"
 
 [[files]]
-file = "scripts/List of Wood Recipes.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "scripts/bagtags.zs"
-hash = "fbf7c0a95adc7da57998b44f1ec7425fc98212d0d241a8ca8dc48f37e75c6ccd"
-
-[[files]]
-file = "scripts/calcite.zs"
-hash = "e41c428211d79f618d5bf827b3fc8b89844d1c6b84f1383caf242a9ad97ca27d"
-
-[[files]]
-file = "scripts/computers.zs"
-hash = "863f4493577f4f5bed8a5e855b701d53d1152dc587d1580a55b0ba18a43bc090"
-
-[[files]]
-file = "scripts/crushingrecipes.zs"
-hash = "5202f4c9cfa09450d855ac3966c9cee6ae54ae336534eb0c0f7374345670d816"
-
-[[files]]
-file = "scripts/cryingobsidian.zs"
-hash = "7f9bc4b422c179799e6336ee274eba78709f3007285f4023f172124e0658d280"
-
-[[files]]
-file = "scripts/deepslategeodes.zs"
-hash = "7525a69d50a3f0f6542104ea9a67600c9edb45cd5225de780f2b59141a64bfc6"
-
-[[files]]
-file = "scripts/eggfix.zs"
+file = "scripts/food/eggfix.zs"
 hash = "9e558527c9e8797a8b0274480cb038159078ae36ba990bbd9b5e6ff179376c88"
 
 [[files]]
-file = "scripts/eggplantfix.zs"
+file = "scripts/food/eggplantfix.zs"
 hash = "08630df111b80945b70159776afe3f02d27419dad0f908d6d8c7d836590e89cd"
 
 [[files]]
-file = "scripts/hiplanterns.zs"
+file = "scripts/food/patty.zs"
+hash = "b29a2358c99417c3541dfbb6b3c08f274fbec844ec6eb579281a87570bca2cb3"
+
+[[files]]
+file = "scripts/miscchanges/bagtags.zs"
+hash = "fbf7c0a95adc7da57998b44f1ec7425fc98212d0d241a8ca8dc48f37e75c6ccd"
+
+[[files]]
+file = "scripts/miscchanges/hiplanterns.zs"
 hash = "1b2b8d864d2d208236729e1e266203a51480eba4e58f2aa1f2ea12d4dbec57a8"
 
 [[files]]
-file = "scripts/knife.zs"
-hash = "d0392c969b0985874a0b835546566bbcecbc6989526ae6bcf42e18be6b9dd896"
-
-[[files]]
-file = "scripts/latticefix.zs"
+file = "scripts/miscchanges/latticefix.zs"
 hash = "e3147c76d26e3b0bb0450e0d0ad2c2255e1cdf3f41729aa0226725a6f6654558"
 
 [[files]]
-file = "scripts/lead.zs"
+file = "scripts/miscchanges/startinginventory.zs"
+hash = "0fcd62923aa51ad2ccf85c5d3ef809364ccaccc47583d749bda06a72c7675b38"
+
+[[files]]
+file = "scripts/miscchanges/tarantulahawk_elytra.zs"
+hash = "57d0416a4938625f0c24fc90f6d492861644c9d4d95bfbda602024a2a3008ab4"
+
+[[files]]
+file = "scripts/recipes/calcite.zs"
+hash = "e41c428211d79f618d5bf827b3fc8b89844d1c6b84f1383caf242a9ad97ca27d"
+
+[[files]]
+file = "scripts/recipes/computers.zs"
+hash = "863f4493577f4f5bed8a5e855b701d53d1152dc587d1580a55b0ba18a43bc090"
+
+[[files]]
+file = "scripts/recipes/crushingrecipes.zs"
+hash = "5202f4c9cfa09450d855ac3966c9cee6ae54ae336534eb0c0f7374345670d816"
+
+[[files]]
+file = "scripts/recipes/cryingobsidian.zs"
+hash = "7f9bc4b422c179799e6336ee274eba78709f3007285f4023f172124e0658d280"
+
+[[files]]
+file = "scripts/recipes/deepslategeodes.zs"
+hash = "7525a69d50a3f0f6542104ea9a67600c9edb45cd5225de780f2b59141a64bfc6"
+
+[[files]]
+file = "scripts/recipes/knife.zs"
+hash = "d0392c969b0985874a0b835546566bbcecbc6989526ae6bcf42e18be6b9dd896"
+
+[[files]]
+file = "scripts/recipes/lead.zs"
 hash = "6337c8bbac63b3b23c3a29b27ee1b78beb0fd2f018bc53e3f905d6e70bdc5399"
 
 [[files]]
-file = "scripts/orichalcum.zs"
+file = "scripts/recipes/orichalcum.zs"
 hash = "05e4cf182e1f9b1a26b937f79881aa5fcc4594dafeff7f1fb8407dd9415dea31"
 
 [[files]]
-file = "scripts/removecreatearmour.zs"
-hash = "b33e799ff4791fcd40a4c61453bff9b7810416c1ea1debda38c20b2eecf2ee0d"
+file = "scripts/recipes/paragliders.zs"
+hash = "7cde28072e5e3c87a0548ba2171d9838418ec76d013b135f997894a4afc36cff"
+
+[[files]]
+file = "scripts/recipes/removecreatearmour.zs"
+hash = "a95d39cd844422f061402c7b36de8f4f7919a0cdb40f9189356ed24b20f92b5a"
+
+[[files]]
+file = "scripts/recipes/silver.zs"
+hash = "96be8f7edcaff4f636f2da0825534449cf3f69c9a9d77bec84f74bc0bd9a49bf"
+
+[[files]]
+file = "scripts/recipes/tin.zs"
+hash = "c711e86a47f3cad39df8ef15c45b3b522d8fdd234d763a4f9710b8425fe0ec39"
 
 [[files]]
 file = "scripts/removing and adding recipe.template"
 hash = "37fb28764fdf4e59aeb3bf3bc26bf6e6a7824f38eea726b64e97c4097c197263"
-
-[[files]]
-file = "scripts/silver.zs"
-hash = "96be8f7edcaff4f636f2da0825534449cf3f69c9a9d77bec84f74bc0bd9a49bf"
-
-[[files]]
-file = "scripts/startinginventory.zs"
-hash = "0fcd62923aa51ad2ccf85c5d3ef809364ccaccc47583d749bda06a72c7675b38"
-
-[[files]]
-file = "scripts/tarantulahawk_elytra.zs"
-hash = "57d0416a4938625f0c24fc90f6d492861644c9d4d95bfbda602024a2a3008ab4"
-
-[[files]]
-file = "scripts/tin.zs"
-hash = "c711e86a47f3cad39df8ef15c45b3b522d8fdd234d763a4f9710b8425fe0ec39"
 
 [[files]]
 file = "scripts/woodcutter/woodcutter-acacia.zs"
