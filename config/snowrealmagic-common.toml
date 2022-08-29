@@ -2,7 +2,7 @@ placeSnowInBlock = true
 snowGravity = true
 snowAlwaysReplaceable = true
 #Unavailable if TerraForged mod installed
-snowAccumulationDuringSnowstorm = true
+snowAccumulationDuringSnowstorm = false
 #Unavailable if TerraForged mod installed
 snowAccumulationDuringSnowfall = false
 #9 = Unlimited
@@ -13,9 +13,9 @@ thinnerBoundingBox = true
 snowMakingIce = true
 snowOnIce = false
 snowNeverMelt = false
-snowMeltsInWarmBiomes = true
+snowMeltsInWarmBiomes = false
 #Should snow melt if layers are more than 1
-snowNaturalMelt = true
+snowNaturalMelt = false
 snowReduceFallDamage = true
 #block like grass will be generated with snow
 replaceWorldFeature = true
