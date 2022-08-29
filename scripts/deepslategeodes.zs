@@ -1,1 +1,0 @@
-<recipetype:create:crushing>.addRecipe("soothico.crushdeepslate", [<item:tetra:geode> % 2], <item:minecraft:cobbled_deepslate>, 200);
