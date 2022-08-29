@@ -1337,6 +1337,10 @@ file = "defaultconfigs/alexsmobs.toml"
 hash = "e582607b4fbf72076a90e83f25b28d939de44fa30f9b9579738e6d09b8d356a3"
 
 [[files]]
+file = "defaultconfigs/archers_paradox-server.toml"
+hash = "baeb56ee7fcd8fc600ed98894686e20dbb828067d11314a2d40658404b677ebc"
+
+[[files]]
 file = "defaultconfigs/artifacts-server.toml"
 hash = "50829550705e8ecdb1c53529e0728122a75dc75b788595ae6a66be66cf5f0868"
 
@@ -1357,8 +1361,44 @@ file = "defaultconfigs/champions-ranks.toml"
 hash = "293be7b70378dc89260db97d2ab02161d31aad05357562feac9a3dafe47b3670"
 
 [[files]]
+file = "defaultconfigs/champions-server.toml"
+hash = "26949c3c9f22f1c1587e0a1fe24f1d4ddabe70e6b01d33f8684cc87c49526b6e"
+
+[[files]]
+file = "defaultconfigs/cofh_core-server.toml"
+hash = "e4c3b7ccf61c3238f8e80111c2b1f38b8002158341750168412fda8b9dca36aa"
+
+[[files]]
+file = "defaultconfigs/comforts-server.toml"
+hash = "2bdb053f40cb1c75b45b551c0abb21ca52bc69003ff82b6e62dbf302c9eb4a39"
+
+[[files]]
+file = "defaultconfigs/computercraft-server.toml"
+hash = "095c5b330acee35c1a4cd88155820c6f736955054ef65729e51ecc361c6c0083"
+
+[[files]]
+file = "defaultconfigs/corpse-server.toml"
+hash = "09b9e4c7add97afd272feb9f7595228fca449d99d0996589da1b29c31c79d96a"
+
+[[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "a1f64b656ff08b46752a071e3829909ac32579ffac0df590a7e24253392497df"
+
+[[files]]
+file = "defaultconfigs/curios-server.toml"
+hash = "919c0b6d0078f4210eeccbfe0e8abea1bef0a253abd37c114424fb6968d10542"
+
+[[files]]
 file = "defaultconfigs/ensorcellation-server.toml"
 hash = "f3b9808af82ec4bb9dfc967a5bb3b72604d8d48cb29dfdbffc3e399177c8c8f1"
+
+[[files]]
+file = "defaultconfigs/fastleafdecay-server.toml"
+hash = "16f73487c57e98f5985bc539f17c3f638a7cb7676517ba9cc68eabd823999c1a"
+
+[[files]]
+file = "defaultconfigs/forge-server.toml"
+hash = "f41633ff6943f713ad78779e4bc33c91b9e89869b3c0f5fe9c139bd31717f619"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
@@ -1369,8 +1409,48 @@ file = "defaultconfigs/ftbessentials.snbt"
 hash = "9cf5bb9925847ee41f7b876797d367aa6d9acc9f42cfa7ac786cee0a035cccf6"
 
 [[files]]
+file = "defaultconfigs/inventorysorter-server.toml"
+hash = "ac5d6ce2db6a288ac7fad0be30857f5b01e1a5f3d6d4952ca56ecb958c64952f"
+
+[[files]]
+file = "defaultconfigs/jei-server.toml"
+hash = "56d2d8f8b8760fc2892ebf6523f17fa10836acfa5a276a96322d1a392aee2486"
+
+[[files]]
 file = "defaultconfigs/mysticalworld-common.toml"
 hash = "5987897c4bcfd1052ad1a755bcf8c571f0ec429270d4da7dbdd493d261b143e4"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
+hash = "c9fe9017db16fe8b983219796f65dd2c0d89d62391f561de1542a09501aa872c"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-expired-claim-config.toml"
+hash = "c9fe9017db16fe8b983219796f65dd2c0d89d62391f561de1542a09501aa872c"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
+hash = "c9fe9017db16fe8b983219796f65dd2c0d89d62391f561de1542a09501aa872c"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server.toml"
+hash = "4405b67391fe36a9d1a3637a0274f50178fde5ec5cef70be087c63bd3e1a994e"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
+hash = "0c1fc4076bc09094afc3e40f0b2949e85478a4c4fd83db7ffcc3f287fabd752b"
+
+[[files]]
+file = "defaultconfigs/paraglider-server.toml"
+hash = "41d84b2a57b7c30d9dfb8a32adf0d83ca553eb2080bc5a30b3c2f541fb2c9088"
+
+[[files]]
+file = "defaultconfigs/sereneseasons-server.toml"
+hash = "178df75aa7422fee60bda0c0dc85699492e6d901532ec1ee28b0a4556473aaa8"
+
+[[files]]
+file = "defaultconfigs/snowrealmagic-common.toml"
+hash = "3b24e473c0dc18c0383d4d0f770acbcbf732dbd22646d14c3a47b866dedcef81"
 
 [[files]]
 file = "defaultconfigs/solcarrot-server.toml"
