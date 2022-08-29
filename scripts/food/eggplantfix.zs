@@ -1,0 +1,12 @@
+<tag:items:forge:crops/eggplant>.add(<item:culturaldelights:eggplant>);
+<tag:items:forge:vegetables>.add(<item:culturaldelights:eggplant>);
+<tag:items:forge:vegetables>.add(<item:culturaldelights:eggplant>);
+<tag:items:culturaldelights:smoked_regular_eggplants>.add(<item:mysticalworld:cooked_aubergine>);
+<tag:items:forge:crops/eggplant>.add(<item:culturaldelights:eggplant>);
+<tag:items:forge:crops/cabbage>.add(<item:blue_skies:winter_leaves>);
+<tag:items:forge:salad_ingredients/cabbage>.add(<item:blue_skies:winter_leaves>);
+<tag:items:forge:salad_ingredients>.add(<item:blue_skies:winter_leaves>);
+<tag:items:forge:leafyvegetables>.add(<item:blue_skies:winter_leaves>);
+<tag:items:forge:leafyvegetables>.add(<item:farmersdelight:cabbage>);
+<tag:items:forge:leafyvegetables/cabbage>.add(<item:blue_skies:winter_leaves>);
+<tag:items:forge:leafyvegetables/cabbage>.add(<item:farmersdelight:cabbage>);
