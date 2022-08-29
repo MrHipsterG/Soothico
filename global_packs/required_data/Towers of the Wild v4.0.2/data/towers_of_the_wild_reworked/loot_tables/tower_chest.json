@@ -75,6 +75,11 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 8,
+          "name": "paraglider:paraglider"
+        },
+        {
+          "type": "minecraft:item",
           "weight": 5,
           "name": "minecraft:compass"
         },
@@ -84,7 +89,7 @@
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
-              "levels": 30,
+              "levels": 20,
               "treasure": true
             }
           ],
