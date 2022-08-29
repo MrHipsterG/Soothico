@@ -1378,7 +1378,7 @@ hash = "095c5b330acee35c1a4cd88155820c6f736955054ef65729e51ecc361c6c0083"
 
 [[files]]
 file = "defaultconfigs/corpse-server.toml"
-hash = "09b9e4c7add97afd272feb9f7595228fca449d99d0996589da1b29c31c79d96a"
+hash = "d5c99a3025d38ceefd0d2c84c7d2606d9d3b5992a6e97e428cbb15b35a48dcc3"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
@@ -1390,7 +1390,7 @@ hash = "919c0b6d0078f4210eeccbfe0e8abea1bef0a253abd37c114424fb6968d10542"
 
 [[files]]
 file = "defaultconfigs/ensorcellation-server.toml"
-hash = "f3b9808af82ec4bb9dfc967a5bb3b72604d8d48cb29dfdbffc3e399177c8c8f1"
+hash = "76862ab3985a666a10cf3ef6c6a8befa01daf13f077613abdc66134310019d44"
 
 [[files]]
 file = "defaultconfigs/fastleafdecay-server.toml"
@@ -1450,7 +1450,7 @@ hash = "178df75aa7422fee60bda0c0dc85699492e6d901532ec1ee28b0a4556473aaa8"
 
 [[files]]
 file = "defaultconfigs/snowrealmagic-common.toml"
-hash = "3b24e473c0dc18c0383d4d0f770acbcbf732dbd22646d14c3a47b866dedcef81"
+hash = "4e55b5f907eefbc832894f18d8deb9c01f21cb43279e181cf71d15156dc0b386"
 
 [[files]]
 file = "defaultconfigs/solcarrot-server.toml"
@@ -12005,1498 +12005,6 @@ file = "global_packs/required_data/Less OP Villagers v1.4.5/pack.png"
 hash = "5656cf2015b98cea43ae581e1374076e90ec05080391da7642d7a5b65016bace"
 
 [[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/armoury.json"
-hash = "c61f78b428907c81d765c06983a16c5cd85dadae9c55b639ea821ca5856bd20d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/cmd_yung.json"
-hash = "1b23aabd034597075670e4c4558379f8288d063d3134969026787a97ffd58e62"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/common.json"
-hash = "05f52b8c70f3336b77e362f7532332d85085d0f135786791e8cd54b6adcb8abe"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/crypt.json"
-hash = "77783e3d81dbf0324b1e8bafecf376e5a5f5ea3c858ae4ff384852f34e32d887"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/grand_library.json"
-hash = "b128587c7d44fd7e22e6fe983404350c19615ca65b1bf66a106f910dc7bb915e"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/library_md.json"
-hash = "22077a945ceb43c4a89121db48c4aef287cc090724485e05a35bcb8c3a6ad150"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/mess.json"
-hash = "ba6e8d62117938fe01b28cb1f9ed2e223e48b13351871a60cb82d0f6b385db83"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/prison_lg.json"
-hash = "9f281e9781e76615e0df8de3b6820caa62cb530cda9a92b5252249ba2f6c19b5"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/trap.json"
-hash = "37f9111c7f37131a348461b347e2aac8e87e3adb4afed0d22599a9701f3c7457"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/treasure.json"
-hash = "efec883ac7e1caf9a9c3f3c525c79e845c96fc5f0ddfa58269ab40c0ecf75b80"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/armoury.json"
-hash = "82ecce57d2681e8089a6bc04febcfd9222f008f36b3be33d1780156309d4d47a"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/cmd_yung.json"
-hash = "1b23aabd034597075670e4c4558379f8288d063d3134969026787a97ffd58e62"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/common.json"
-hash = "84cf9bd5543abb6bcc4ac4e681fd54a53b40a600b5b16ef3723c752d3e8abcc1"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/crypt.json"
-hash = "d155656e5ed621e4b75a2c325b05a875fcb1ebfa443c617c645ac00d4affd79e"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/grand_library.json"
-hash = "67679749f069999cdee2d5ebc35654931172b5e649193bd00e08c3f8fd0b4c3b"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/library_md.json"
-hash = "686e326ae24e97b58fdfd46f8721670fd5ab3431493f22f799aa932310ef151d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/mess.json"
-hash = "70ad5731bac6878e1d6172ee8aaf150b41c733eb895b3c1ca40f5b4976542688"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/prison_lg.json"
-hash = "09ed60c006004793e64f719dcf8034e4eb7c33dfaa745780fbe750c881500dcd"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/trap.json"
-hash = "9d19abc443bdf54e7610b55504747c026383ac25e8cb295c8c269ac608b843c4"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/treasure.json"
-hash = "365c9aae82a35adb870e945103df5152b22ca74bb2c6c71f72d9994c5c73b59b"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/hall_doorways/hall_door_iron.nbt"
-hash = "29b3952b2b487f1f9e28f8f6c13e2905ea7b353310129a63542bcf7f22b781a9"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/hall_doorways/hall_door_wood.nbt"
-hash = "29b3952b2b487f1f9e28f8f6c13e2905ea7b353310129a63542bcf7f22b781a9"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/hall_doorways/hall_doorway.nbt"
-hash = "4b7963e173ee895687cc9bb318796f85d3891b62f0a71f21c9554063ee047557"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/hall_doorways/hall_doorway_2torch.nbt"
-hash = "4b7963e173ee895687cc9bb318796f85d3891b62f0a71f21c9554063ee047557"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/hall_doorways/hall_doorway_2torch_soul.nbt"
-hash = "fb86e42778d833f5c3dfcb8320842cb40f29e67d9157a5625c9b3f13ef9344ad"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/hall_doorways/hall_doorway_banner.nbt"
-hash = "53be71ea6fb4d4f27fc1631e37ce5c2d5162ebc6e64a7d47e9838af7a8a8e086"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/hall_doorways/hall_doorway_small.nbt"
-hash = "9ac39c0fe2b94bae4d9024c46042b469f2b4539bd1d1598d6c2b1e9be5281160"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/hallways/hallway_2.nbt"
-hash = "33bee1fb37962ec0a7d3cecb58a296360eb266f5e4a8b5b65e03996de6f6056e"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/hallways/hallway_3.nbt"
-hash = "215e494643be03e74ddd30f57c479fb87dc2e0e42386f44ad6fd83f002828e7d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/hallways/hallway_4.nbt"
-hash = "ba7c57056948449e3bb8c18911aceae1a2fab4f8f8aff09b329d414b5b277b07"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/hallways/hallway_turn.nbt"
-hash = "9fa53fff2ffff6f2dd3df68e4141087a45bf6874fd9f0dcc677a605648d8ce68"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/rooms/armoury_md.nbt"
-hash = "833fe9f1672cca5890624895c0fd0dc44794132faf8ebd036cfce8178d1b8415"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/rooms/armoury_sm.nbt"
-hash = "133432043ee7da386feced08b52e8a8e189315329b18220c512c8508e23e7c53"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/rooms/bunks_md.nbt"
-hash = "7b0f964879ed177c2641ca13fbf8e13e4e698382741bc92415401e34ab3ee963"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/rooms/cmd_acarii.nbt"
-hash = "4d397159b7e8a2fef460ae37e76f94315d25fe625dceb6b1d4d24109fdbc3b4e"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/rooms/cmd_yung.nbt"
-hash = "fe1731ca586e4a85efd5352303e0d38d0841a0fbc62af2df22174176f3c23e65"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/rooms/crypt_sm.nbt"
-hash = "60b84af4a160d4d4c9184ea8194deaf073bd0afe3b9ed71056465b2644d4641b"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/rooms/grand_library.nbt"
-hash = "51a75730394522a15d65a455c20ec6b329969ab84b7346faff90765a6c3e327d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/rooms/hallway_trap_0.nbt"
-hash = "42f94d91780156e7094bfbe7af13153707cc1ac93b4eddff89851d6d19c160b2"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/rooms/junction_md.nbt"
-hash = "f0f40a6d39fdeb5843e02f102fb44b69f1bda706258a6aeec760b9e0fe1ae85b"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/rooms/library_md.nbt"
-hash = "29e3c85ef73377962c430534849486d0ae9bcbaf6df6e30e0f68447a932269ed"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/rooms/mess.nbt"
-hash = "e9eb9b7d7f8a15c48332c20cc6d33efeda35ebd1ac50bd767e32a984dc0fff70"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/rooms/prison_lg.nbt"
-hash = "5096afd7cbcb18ca7bafb122fb9fc79c2f8b56026f7e98dc38f92ba133349226"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/rooms/sealed_cell.nbt"
-hash = "4348d8501db0072ac54f39eeff409bba4ae5b2c303652a8958e307cebd3ed5aa"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/rooms/sealed_collapse.nbt"
-hash = "955707b0f56e5c1b6a5536cb7992e9de7c907ed830ffc8f2ebcd60c5b4e9f279"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/rooms/storeroom.nbt"
-hash = "9dfa552ce2bcb01b139d8b9c2db027f4a5358c9d803fe8ad17152a0ffcf88163"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/rooms/treasure_room_lg.nbt"
-hash = "df838c86cea1023ab0b2d5942af8fb71580238e9a90645217e9d9cd90f21a55a"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/stairs/spiral_stairs_2floor_0.nbt"
-hash = "47dec6fc0413cc013fd4cb7270eb8186ee0d63b2f24d1fd76bee94b31c5a8a0d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/stairs/spiral_stairs_2floor_1.nbt"
-hash = "680fa4fcf4974f490b4ca61bb6916faf69a9288a938586a2677fe12d596cf2cd"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/stairs/spiral_stairs_3floor_0.nbt"
-hash = "10d72bb0f4d984123d4b339770b1acc0381db32c08acebd35f5bff87442a3cff"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/stairs/spiral_stairs_3floor_1.nbt"
-hash = "a20fc319a31ef12f65c2b68dc1fe8865173e89f1a5c3830aad64b5797dac5fdb"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/stairs/stairs_straight.nbt"
-hash = "b2a4253f4f6ef020a562a4f4ecc5853a0385ff6b6d4b1e939ed1f5d8d8792918"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_book_l.nbt"
-hash = "8eeba4428f69a535c4385236f19c0ec0c41644f7a0d38bb301e203b087e90219"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_book_r.nbt"
-hash = "e81d0d8d65bacb9eed19578ff0d8d589b715416f8e2eb2f9ab8bf843f793f1ed"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_chest_l.nbt"
-hash = "b087e88bb0b67115db49a8d6daa5a977327f11599a20df7cf42fdff956ef73a8"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_chest_r.nbt"
-hash = "bb822bfd1b91596ccd6a151e3eb4ff7a0c18553294f86530dd12773faed12f5d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_lantern_l.nbt"
-hash = "1a3799e82e2a35afd221c3fd2e076469b7907685a4549960767f6df7b52127a4"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_lantern_r.nbt"
-hash = "d83ce1110a9647d89ad96f8aac95bdb0f15d9ff0041c2a1b8389b7ad821a1ae7"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_shield_l.nbt"
-hash = "c5b2df3135255005daa5b7c67f40353e3df19b746357cafad9112fead1877f18"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_shield_r.nbt"
-hash = "3e5a41300938615da9590c2a20f01ccd947c97fa63d72f4112f5f6a4d1b2306b"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_sword.nbt"
-hash = "2a31c9adff580d20a2f8a783f317604dae11f7e0ee8e9972e04171fe3edfa6d0"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hall_doorway_terminator.nbt"
-hash = "407f5e94db4ecddff517a79a497f4e8b5396a4e0d3b04fd1bbb37b4ef8ff9c58"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hall_wall_cobble_terminator.nbt"
-hash = "3fedfc8eb85b3354bde2d7520c217bd309c3afb7933c53717a3c5f799d1bff4a"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hall_wall_terminator.nbt"
-hash = "1613192fedb5f926c97b86decccc71c141681c70b7a10bd12c4945bae134c1cf"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end.nbt"
-hash = "a73db085070b6b4831f7433d57a34b9b7eec74a714eab52ddfc90e08e583a86b"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_chest.nbt"
-hash = "670bfeee3260e31f214d3ac5ef59ce5c6ea7e727c56204a2ac47eba0a62d056d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_chest_trap.nbt"
-hash = "e5b4e0c3df05e32bf80060232fbdf750bd48b2e31d6f8d3c8d5813c4256d59a8"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_new.nbt"
-hash = "754ec2e12466fb3d09a59ca3fa07b2d7c34c1ff294c7f20a2e3dcf42b5d47ca8"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_shulker.nbt"
-hash = "6d7237f6fbee8e84e81135c6b3da8c99d955604dd2674e7db03bc0a82f21a932"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_0.nbt"
-hash = "3b009328baebfcd370ab8da507709dc5b80b1cf254e94bbc23b174fee52c6f0c"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_0_new.nbt"
-hash = "1073f6808cdaf0ff02f39059cfdf96b5f4bb499c5bcb532e7ef0730df8fc0ec4"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_1.nbt"
-hash = "ee2c13faacb24578d6c7849cc3c610ec27b73becaf31556365824277cb1c0139"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_1_new.nbt"
-hash = "f34cb46144574ddccadc6e892d867bbe636716248fad997b4a076e9eba005ea3"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_2.nbt"
-hash = "ff91e24c604d3be379dd9636b13ded0b017a012d12de3d7539e8c5da668ee486"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_2_new.nbt"
-hash = "fe4441478eb5d1dd6c454bba4a26406e372ef59cc1c18bf5ae398bd84922b73d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_3.nbt"
-hash = "95bb3365cd3593e44f363c46b8cad4140d12b38a6d10c4b9955cf2e4f696fbdf"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_3_new.nbt"
-hash = "63222f5142cbf133e4ef9e88994a3cdac0af4953d9ba1174488ceea495a2e94d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_4.nbt"
-hash = "005b786a050b9baeba5931e3a7372e2d82b27d7a8e52084b105250b6346853cf"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_4_new.nbt"
-hash = "393742fcef0dac6ae52658e6a71b40fac82839e00fc86cfc1a1c8185e304eb34"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_book_l.nbt"
-hash = "15e61d3b9d35cc6e83289831b927ad2356987d9b5669ce100107286f253d22bc"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_book_r.nbt"
-hash = "2f0a307abd7ee0b8b8fb85af44ad45c7358aadfe8fadbe97396942dbe06ab4e8"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_chest_l.nbt"
-hash = "7fcf285b63c2ee02818443a11c42a60551d08d7e0fb438731dedbab8aeb8363e"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_chest_r.nbt"
-hash = "1c4d75c37d9a77c17f11384721588b1544e4365a0752dafe35280ab9228cc995"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_lantern_l.nbt"
-hash = "004445ad8e7a0863f3dc642a3a47779b2d5f0fb4eeff08dd43b9b614425aebf9"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_lantern_r.nbt"
-hash = "c36b6f0e2294a66c48de05d7ce65bc3d3c5deac71ed5b4149c9db3988c3f19dc"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_shield_l.nbt"
-hash = "ae3a88effa787f1d6866726a28dab545dca8e98129e35f8a52e1ad971bbd2b9e"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_shield_r.nbt"
-hash = "c32913ad6c3a64b8706edfdeb830d18d386c7d564099bec8dd790e135437eeaf"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_shulker_l.nbt"
-hash = "9b7117982a0dcd43ae6d05e65aa41b3f0f0444bd8ec1f30e4f8453e35451828b"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_shulker_r.nbt"
-hash = "1df0121901d6421b338b7bed2868c1437f63df1ef0f1b4854f4be59447f59e53"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_sword.nbt"
-hash = "a5be660d4c634cc91e2bb39a5f3a4794d04b9c1719225a04e1396f65016e3edf"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/terminators/spiral_stairs_terminator.nbt"
-hash = "ad96a756cf4f1c5931c0c6691a4133c7aacffc17af85d132e430f2497eb120f6"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_0.nbt"
-hash = "804e017b9aabf6033b866b280d9343e3eaea7bf5f3fd89484546a3b75d177c2e"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_1.nbt"
-hash = "0f42cc6790657a09c6414a9cb778562f916ba2803f0bcb108382996fee90d888"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_10.nbt"
-hash = "63db34617bb981a07b59d0d4d634a352d5a72a27bde0bf8081fdcc32d63f648b"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_11.nbt"
-hash = "765973639eb5fc759ab69c639d7dbbf5171b17ff5e74843a9b8eedf3589aef8f"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_2.nbt"
-hash = "69319eeb8722b8c4a8c77cccce62c243640c98ce252577eec3051156fd650e75"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_3.nbt"
-hash = "13b69e9ae074d622ddcf1bf4a1076d91c564505b4aab9712944766b51d097699"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_4.nbt"
-hash = "4ea5d36df8b5bfffbacad20764789995d65b98e98455f7af31fae9ffc8e1bde8"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_5.nbt"
-hash = "97d07e5ec53ef257ec466a77f18f54a606653dd3d14b8372d1e9986cddc0d52d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_6.nbt"
-hash = "e708c7749c26a3cbbcc37193fb45508d5929a506628cb460fc4bed5dad2a94e9"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_7.nbt"
-hash = "e63aa0ecc26d7818c6349df493a03c4fd7bb1ef8deaf61916929f305ba22e0d3"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_8.nbt"
-hash = "f5e26374bdecfee94ff9adfff461e433853a6379ded25c646de34c512578032b"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_9.nbt"
-hash = "cebba47364185f7841982cfc8ec125f0fe8a9ed412425a8c4959dd9a139696fc"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/portal/treasure_portal_0.nbt"
-hash = "731e4bc56375bb0906d12e764659b02272052c4d57bf27790000c9a7f18ba4fe"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/portal/treasure_portal_1.nbt"
-hash = "e9b547eb43fad135093c558f0e4c5346d01f25f991c5f4687439906ad866ff9c"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/portal/treasure_portal_2.nbt"
-hash = "dfbfd06f52d49b9b4ef400398b5b56270d82c91a35f637bad4454ce956136886"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/portal/treasure_portal_3.nbt"
-hash = "98a5e052e3793ab964d76bdbab8ff8c71630bc60a2c66848840de06b29aa116f"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/portal/treasure_portal_4.nbt"
-hash = "31252e73c41ea65d9ebb456b55b122fc98acd55a37a402dcdf89468766b62dc8"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/portal/treasure_portal_5.nbt"
-hash = "50439826962838ae5e2b1a52311d757e56fbd7755f489493fe1e1feeef9f3821"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/wall/treasure_wall_0.nbt"
-hash = "cf5d58cad43908a731d6b28f3d548db81deced6bafc7067e41d3172b4665d6ac"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/wall/treasure_wall_1.nbt"
-hash = "d7d07ef48455c541aaf6b7e9361cb5f113f156a0857461f4bd2f0da7c6099f88"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/wall/treasure_wall_2.nbt"
-hash = "5fa693571db3db085cde8c8c16c553dc29ef6e9544fa17de4ad65318ece8761f"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/wall/treasure_wall_3.nbt"
-hash = "214f30e55713e9760a1c4fdae986eb048ee219099cc3d1e23cab0bb660d6b6fe"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/wall/treasure_wall_4.nbt"
-hash = "e4a01af5b047ab1d96a26fba82b158e2508b40d5e26dc274e1a52d39aa9e1557"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/treasure/wall/treasure_wall_5.nbt"
-hash = "023d9af0b1e0d780f49c53f3480cdd25089454aecd493c794295e092df1833a4"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/walls/hall_wall.nbt"
-hash = "194c413b592cc76c1b2fce2bfbefa16a8dd277ebac3c26d5a9776e376e4ec62f"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/walls/hall_wall_cobble.nbt"
-hash = "6a974848d72ca7b1b7d9bb8e08b94313ad80b5614b3b5c589ed6751c43d2a5d5"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/end/walls/hall_wall_old.nbt"
-hash = "0dee1ddc364a5f29331956262bdc701e9895c6338b2179d76523c07c5dd7cea8"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/hall_doorways/hall_door_iron.nbt"
-hash = "9580d02d2b2cff833f1ecb39aa701ced80f106ac52a04f82cf295c0e22cfa8c0"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/hall_doorways/hall_door_wood.nbt"
-hash = "eaf7dfbfa3ee398b038826fbacef4b628837bbe08f4e104e5e1d06e9a391b187"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/hall_doorways/hall_doorway.nbt"
-hash = "54ba43894452a0725b5ac2594daefd14df28fead0daf4e4bdd94ec59ea9a0e7f"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/hall_doorways/hall_doorway_2torch.nbt"
-hash = "052695e990baa738ed40b11724b08899396844d2a38c2df27b1176c0e5c247f9"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/hall_doorways/hall_doorway_2torch_soul.nbt"
-hash = "03d9839866cab6933ce8beb9d2a052a74f86ab9b801d5daa4a60fdd5570043c4"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/hall_doorways/hall_doorway_banner.nbt"
-hash = "cfa946f10aba70640d747964d327af25f912474371df1fda116a304286e0e921"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/hall_doorways/hall_doorway_small.nbt"
-hash = "72b64a49de6a1685f362cf09721de18513467d343cfe500063105f47a6659130"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/hallways/hallway_2.nbt"
-hash = "9ccbdcb62992282b1f93d9cf6d6061df2eadce53bdae1e2e3b88493f8fec50b7"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/hallways/hallway_3.nbt"
-hash = "11817e4d69e55d830345fc8d589f4ab62b8c11f38f08ed49fc41d6cb93b4464f"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/hallways/hallway_4.nbt"
-hash = "02931af7ebca31bb58da4baa48afd269ce11c7cf04d9eb10dc16dcb98f1de170"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/hallways/hallway_turn.nbt"
-hash = "6a32f460f9471b34d765cba163d97b989cbe8f69baacf47815a65f6b8d1d7404"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/armoury_md.nbt"
-hash = "6e206a53360bbd0d11a478a2c5414a0e8cd648f8f4717fd0a8c4346f4abf353d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/armoury_sm.nbt"
-hash = "dbf749a9bdd10b3d6bad140da6870e7f532c05b9e37b6cab4bccee423ef63d79"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/bunks_md.nbt"
-hash = "1249c65fa19c54d68bd2750b2fca24677a661802b90842be40cc04883f4ef5e2"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/cmd_acarii.nbt"
-hash = "4545023fe7e13881d03aef90f8dfa3190d9da2ce597a9d3fe2c5a96b9caa9b60"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/cmd_yung.nbt"
-hash = "ec0912de87bed3c437f7ddb276909d68dbf1d18c704e329cccb47cd07f08f800"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/crypt_sm.nbt"
-hash = "4ce88220a00c7c0d921e8fdaf5474da08b4ada2283d9fb462adf3fde1e2350ef"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/grand_library.nbt"
-hash = "d163278c3e6ab1bae96492da1814c1a473d471fef31ed016c7baea2492ae76eb"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/hallway_trap_0.nbt"
-hash = "626fadea160b5d1980eeb8f539745dbec53577e911d65a62bb3dd66e52800860"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/junction_md.nbt"
-hash = "a641f1d0a017adb06fa6676aaf8a67ee76e55d0538ef50a2c2efc5898b9fb43f"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/library_md.nbt"
-hash = "c5b743542c98afcd52d00dbd7767406a95f05b3792fea6e969d20e56f04598a8"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/mess.nbt"
-hash = "e24122ee7588ecbe2d8da17221c084eb202ddb1f48913a09517c86d3f0ec1827"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/prison_lg.nbt"
-hash = "756b95da526f334c8883ea3bab6cf402dea92ec258c935fb8a6e92e563a28cb5"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/sealed_cell.nbt"
-hash = "239ab5b119f235940201ba764aac0a817425bf1de2a827f87bfe703b5893b487"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/sealed_collapse.nbt"
-hash = "4de02f067b69ae0f02a08391e888e9fffb424e526d3563e7168b4641fe19cecd"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/storeroom.nbt"
-hash = "2ed271f7039fcddaba403e6c92b27281615594052a8828c01400a21d3701d8f8"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/treasure_room_lg.nbt"
-hash = "3780de9e0fa96be73a9fa9c534de4ec35455299fbb62b48722784e49eaee366a"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/stairs/spiral_stairs_2floor_0.nbt"
-hash = "71b25e13d2cf463215266dd37eb56e2d73690b719e69be28b8cc0c63dc1d09cd"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/stairs/spiral_stairs_2floor_1.nbt"
-hash = "dba23648d8ece68c0023ac70c2ddef8114eddd7b2a09d5cbb9381835064b0110"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/stairs/spiral_stairs_3floor_0.nbt"
-hash = "6944ecec5b95a676532a81e5e83884f6507a99b0f040bcfc4297b3e32a040881"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/stairs/spiral_stairs_3floor_1.nbt"
-hash = "5303e84d6ca3950e83b9d245873d55e7da057a856fa6858f89f1771f4bc71c37"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/stairs/stairs_straight.nbt"
-hash = "9dba046460604365c913ffed90a334be57f18b721e31ded7bc74925f77c84cf6"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_book_l.nbt"
-hash = "910086119467b767b96372593514221913581721f871cdf30ba4b231658b8d1b"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_book_r.nbt"
-hash = "2c700b26b26af15350189300f4a9ccb6c25bb3498d8221a32a3f539651ab55ff"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_chest_l.nbt"
-hash = "e7d929f8ce87c38b65f66444a8a93ed52a853b8009fc12cc6b879439a97cf123"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_chest_r.nbt"
-hash = "3d2a1a482508166da37d5488c669eff25f4a8e596a0053f64a4ac608baa84e10"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_lantern_l.nbt"
-hash = "993efe0906b67047735b52e9ad6d0781de60b53b90fcef8a7b99180470e6a005"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_lantern_r.nbt"
-hash = "eddcbf5c26dc28600e598d398de0187b7f362d323e9045e69982a0da0005fdb4"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_shield_l.nbt"
-hash = "2e628477acbe965b9092ee4303df66d3f7ae1aeb543283f7a6123cb8875dcb62"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_shield_r.nbt"
-hash = "3eda5c42f8e64e45682c326986a79ab10a9b77e4f3303dd77a33f81d194949e9"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_sword.nbt"
-hash = "4671468f8834680aaa20fb7c4f8b2aa298fcd9d26bd1629675b8a10ddf431d72"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hall_doorway_terminator.nbt"
-hash = "47df2dcfac4ad78c17b1410a57c4254f1dc6a338720b9faf8c4d3e9f2ecb5cc0"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hall_wall_cobble_terminator.nbt"
-hash = "7da63491538bc326b1587aa47f95af587adc4b4c3037a5347ef354dd9ed0cf2d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hall_wall_terminator.nbt"
-hash = "1d48d0dba4ff81c00f5d559ff0ebc7205864bdb34797ce58d061121bb472a2e3"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end.nbt"
-hash = "28364cfcb6faf82cb65d3111d86d1513f9bf85223ce25a797b9d02f0e5921100"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_chest.nbt"
-hash = "62ec6f36c11605357cb9888e5ef7f73cce126a29985dc76d6d10d347dd165524"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_chest_trap.nbt"
-hash = "b7987674769aa6d1e08b10b4e3f33f8f4634252f0115aa434e01b9a02a9589e8"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_new.nbt"
-hash = "011e4e11d89485057ed8765714b5b20c18accb250cd03cb7d70503a0d58f2e61"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_0.nbt"
-hash = "37a0ff930ef820e2270944648f666488f6c0783998c591c43b4734dcd2906097"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_0_new.nbt"
-hash = "ae4a9c59b414558e50189ef3d724a2c96b249e9ddc2420bdaf166187da614de1"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_1.nbt"
-hash = "870c304fffae85db9ad289f5e312523250697639ce5a4dad552787a55bbf0e6c"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_1_new.nbt"
-hash = "0a1082114ec51b89933613088a17115560f5de24a91ebe887c958bb7e2d33b65"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_2.nbt"
-hash = "63785ad1c658f304278b35c9c3242ed578c1f37853b14bca1d4f8acc2dcdf050"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_2_new.nbt"
-hash = "4b10b7be5801d270b771f22e126faeb3c4c9b480fd5b433449145cd00bc4e96d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_3.nbt"
-hash = "2ddf9fd12a0805acf5390035447b12a3e7d1eb0d78a07bf66a32bc0125427d9f"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_3_new.nbt"
-hash = "8bf0ce08388397a3eb5d35ffb8fa16521e021af820f50e0e16ecb8ce84f4e7a2"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_4.nbt"
-hash = "b2c02192c0e536ed41240b0bc964747e712d161c66f80326773770e9d699e8ef"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_4_new.nbt"
-hash = "e33e711c5b4557c08b9f214b4a7b83e82e1131ce85569dfdb711ce15e709a75f"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_book_l.nbt"
-hash = "1df5cfc14df0776509483183502888ebc9d606fb2be0ca3c27febbdc1a84b38f"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_book_r.nbt"
-hash = "68f2b7459c6c772af834cd990805bb7c541e32f375a96ec01ab859a7546ce42f"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_chest_l.nbt"
-hash = "3cecfa9d3d532c9e19cc6f1b27732d83ddbd62e1ed324d683da5baed9aa40345"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_chest_r.nbt"
-hash = "d9f3f33cb0f68a87516f1250049d93aeacd66360ed0532eadfe96c999f20031c"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_lantern_l.nbt"
-hash = "673ea92f84187a3b71016d14f9c1db1d1ef1945399cdb5b70eb89ac7530c2d2f"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_lantern_r.nbt"
-hash = "b4caaeac6dc80af6910e4cb4459ffee1115423901ffabf2b716a2ac31a897336"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_shield_l.nbt"
-hash = "0543c6e28a43a08f8057c98e7f6733be2be2e20c4bbd04f904cc364c3efc5f3f"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_shield_r.nbt"
-hash = "93d07967b808562b4fbae61b8771cb6b0672e5942de9006af904c9c1e7162038"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_sword.nbt"
-hash = "0043e295db051fdc0384d7e5d4f33ba91b0f0076d61b4093a4cc2c20c5f3d082"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/spiral_stairs_terminator.nbt"
-hash = "b7fbde592a9df9cc4d89b649182decb05cb5b301e69dbcadfc0f0c29d073aad2"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_0.nbt"
-hash = "25211d8259cb37a3e8ec44b22b46a0953f7d909f5ca54fabdbd656164baee475"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_1.nbt"
-hash = "ad19672ee3bff1dad1df744e864dcfe2d7d16c4b664595ff2365e874be8453eb"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_10.nbt"
-hash = "e9c4ccf646a57babe90e49d53b0ace07c24b1446eaa5c523c10ef1ea84f1108d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_11.nbt"
-hash = "9a6b99494011438c069a2b2324053d08ae389c19f27d16b69ea3859e47fcc69e"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_2.nbt"
-hash = "2a955529a2c37c60465152bbfca8773e6d189920debdf3fb5b21454b86b3cab0"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_3.nbt"
-hash = "4d0dcc9759731117db94d375f65acff27a4f57b30017183dcea932c9a7e0d5c3"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_4.nbt"
-hash = "d587ad0e30bc14b90200069016b188744556fd36fbd15c6c8aa32c7ec9f70d76"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_5.nbt"
-hash = "837694e22d69c2b432d8914bd8724b42a00d46de38a2a1ec3aaef3848a5368df"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_6.nbt"
-hash = "5c18d245d4d9e7f9b40891bf714478e8fe0bc8d956a0256b964e066fc0e27341"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_7.nbt"
-hash = "6ca9a182fc1c1f89eb54aedfe40f2f03326106a723e2f1aa46d8e16b485ceb5d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_8.nbt"
-hash = "eb0433d0ebc3411b3ae3afaca10db70f942073d10150e7e552f127c3a9ba3ea4"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_9.nbt"
-hash = "2346c084c6be22a23030a97812e2ffa7d52b22f2b8f0d9e85bb3e18ea1a10768"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/portal/treasure_portal_0.nbt"
-hash = "fd45b18d1512ee569e34c312aebb562d6329841b5e380f31f8a3a3794e63de3e"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/portal/treasure_portal_1.nbt"
-hash = "5c15a3396aa2f12c47091d5cbe6b7faada4a4047fd6d678e7991f7af2297ecb4"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/portal/treasure_portal_2.nbt"
-hash = "0577b23344fd5fedbd9efca0f47e7efda566a9ef20c33d4582ad11420dc9c606"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/portal/treasure_portal_3.nbt"
-hash = "c3f1df11d7af9d398f61fcc15e1b80ace80c749b11b38ebd209abf743eaa3065"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/portal/treasure_portal_4.nbt"
-hash = "aac5bd9b4cf2813078a3fb7f5d132024d107cfc7291f48064e43607b3d9d1108"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/portal/treasure_portal_5.nbt"
-hash = "7aed326f804cfc5df8f95abd0e9efcf787d887d784030b8a231e7f78ddfe3dfb"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/wall/treasure_wall_0.nbt"
-hash = "be5687b13aeebbcf857d8d281142a2bdcb549e1c76ffd92eed3ade370283d3c0"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/wall/treasure_wall_1.nbt"
-hash = "10b7380b524ce71a644339a96a77e3c39c85ff5352864eb553e5bf09bc881116"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/wall/treasure_wall_2.nbt"
-hash = "acf6674088734777ffe5ba2a26edbe4e6ee376e02462dc89f08585d0f2c4196e"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/wall/treasure_wall_3.nbt"
-hash = "a8b766c4518894af373f1c73d649885cc7cd775aa1d2a62b9d8e7cabe0493305"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/wall/treasure_wall_4.nbt"
-hash = "5ffbdf151638bd8973c05fdb314fb3f1f1c0367107ba6173ceee9b32fb577a21"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/wall/treasure_wall_5.nbt"
-hash = "f8c941b2144a8eeee60cac67cb60afe55cf344f2cbb6ab3073afcf2fd60097d9"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/walls/hall_wall.nbt"
-hash = "472050f6c19cee297a2ac9771d264286e572cea7d03f48f39fef822e9454d450"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/walls/hall_wall_cobble.nbt"
-hash = "aebec4463b3c15f5e1ae15bf6cdb0b24e1e37c9d8d64dbf75ea2175b52fff185"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/structures/nether/walls/hall_wall_old.nbt"
-hash = "c134467bb5f602cc76d5b5299565c7acb90ab166e24ba626b8cce1870ede684d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/main.json"
-hash = "0c31c63d59be1b22635287a96aad0c437f0c83f1fe37ff83a9d40931b70bc8c1"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/rooms/armoury.json"
-hash = "1582d2a01297c950149bf94805c25a0e4a249767a9481981c1f996be22ea8239"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/rooms/grand_library.json"
-hash = "1d44def39dcdcb26bc592a25715d7e587a3fc2b45cc50d30d348486f859384ec"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/rooms/library_md.json"
-hash = "5edce7e9ae1a126da87966d96b9f21eb3d09044b11249424ca501fb87312eb34"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/rooms/mess.json"
-hash = "6b8b0750973c87107b7ee9035a972d4119d2d59bbf507ecae4b27ddf4687f5f6"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/rooms/portal_room.json"
-hash = "14e8e0ccb14ee15ab255699402a1783fc43dd4db85748b64fade23dd9c0fd54e"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/rooms/prison_lg.json"
-hash = "8e23c4ea0157091b7bdae3cb2b5c5f48119e52fb41278ae6b45a6c37684b409d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/statues.json"
-hash = "ed46dc579e85cf0d0c9f92d8a5512e961f5b7ac3dc8024d588a3f6c7c6fd94d4"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/terminators.json"
-hash = "0febbd8802d4ea6b7a9af4eade62d902ff4a271a959051bbbc9c3572cbcce851"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/main.json"
-hash = "683040c4b2742d8888d951cd4fdc6770ff961a7bb8c923dd26dcdba7c0931c49"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/rooms/armoury.json"
-hash = "9a0444a5146f65988e1b8b5b7e83c3f6a87fe8534c8e286e8446d8efcd4ea50b"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/rooms/grand_library.json"
-hash = "16c63a309ea6f379ba70a3c43d0082b2ff7b74d60f6f0ecae61047a561fb4a8a"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/rooms/library_md.json"
-hash = "27ecb8e7d625aeeff4ecca0a7869fc1a1dda327f1dd129c4170ecebfe89868ac"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/rooms/mess.json"
-hash = "6688a2393c16fc61d04fb64d217a58927c7aac93e0dc42f09175b4c473ac7f9b"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/rooms/portal_room.json"
-hash = "5662cdb44aae0bc76e4fbd9b22b1999d8e5f2aab59d6f3821d6054036d5393ba"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/rooms/prison_lg.json"
-hash = "41a7855091683431cacfbf4ae3117169dac770516d932cc65abcc6a52bd409b5"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/statues.json"
-hash = "2cbcd5c510fbb0135a1bbab9cf6b64b126c8483d6ff9087b90bd6de77e3cb790"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/terminators.json"
-hash = "2cbcd5c510fbb0135a1bbab9cf6b64b126c8483d6ff9087b90bd6de77e3cb790"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/hall_doorway.json"
-hash = "47622c975df61639ac486545fbbd442a416063c09f861c7e22bc6c858e135740"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/hall_wall.json"
-hash = "a17eb30c321158399a9a4a6056ec97d22ae970f058f5017372257e60c7068639"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/hall_wall_cobble.json"
-hash = "10d6908f0987b51c1e858f2b59bb5dc3bc7a9826251107348aa8bf9430502542"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/hallway.json"
-hash = "4e92ace563559cc5b11f520dc3d89ce7d553636388f751d0b48795632f8aaf9b"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/statue.json"
-hash = "b085f46e85dba4371fc339c336feb6a12d6b58295ce8686a77c75d4faa32217d"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/terminators.json"
-hash = "88971ff63b77ef7056f98319e88fe92a0eebf428143a819d998fdf4a2433b0f7"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/treasure_corner.json"
-hash = "976b5e6c91cc193bce5445e56a2f1afb838aa54849b89147dfd2859185deb70c"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/treasure_portal.json"
-hash = "b2c4c53ac9870839b8498097075d1e7072dc26da1f1b48294dc2ac45bc3a1f66"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/treasure_wall.json"
-hash = "28edbc6b29c99aa9c02d5649adcc5f948a47f04ed1ce5d48b0c73290899747bf"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/hall_doorway.json"
-hash = "828b2c883dabed42aa59006bd6c90f9801cdc4ae18ce3cf4bf318bffa030e3fc"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/hall_wall.json"
-hash = "750112a425c8b4653a659a0e2cdd32a9bb4777688515a9dd397e5cd6d13c0b60"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/hall_wall_cobble.json"
-hash = "39d5e82986b0702e7bdd0db91fb7d3cd67330946da5dec40e315f8556856821b"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/hallway.json"
-hash = "ae594321560651d1f2906ed405d326de0a6c2bd94f3cdca7451966206d13c6f9"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/statue.json"
-hash = "1c5626027efab63548d54a7fff9ee80b9742b18160f45b20a8ac5046e4987810"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/terminators.json"
-hash = "ec3a17c762c79f3da60bc0127e66331ab2f6a870f422ff06df5e1287470e3cab"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/treasure_corner.json"
-hash = "19883ff29186731a0ed440ff0f3e0ffac3eea407d8db1b78dafd7430968c5888"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/treasure_portal.json"
-hash = "d108ea6aa14552302cec48a60b57f0a3fdaf63777e48c78661becd5b7a7c1188"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/treasure_wall.json"
-hash = "b31c5ef0a54c0b9d82f1f606815a32b84a1a414fbea57669d84a4b14e382d6d0"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/repurposed_structures/structures/strongholds/end/empty_crossing.nbt"
-hash = "3ad96bd972a9c439be864c635693a377daa704e3f7ed7ad416066b8a7c9b9162"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/repurposed_structures/structures/strongholds/end/portal_room.nbt"
-hash = "49a247eef2ff057759898cac58a4e3c8059c4267b85fbc1cd0ecd73cbf8d579e"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/repurposed_structures/structures/strongholds/nether/empty_crossing.nbt"
-hash = "9b51b3fd85f764661e184ef7e0a7c654483ca06f51a4ce3dde32856a7b218db1"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/repurposed_structures/structures/strongholds/nether/portal_room.nbt"
-hash = "5be239fb0f9161f5ca9f6a9c2d1d06cec2b5e5c0b41caf4543a165545cbd0795"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/repurposed_structures/worldgen/template_pool/strongholds/end/start_pool.json"
-hash = "c5a1c4f3c7ce0de95df002a921ff1190ee4bd75dd7bc5fbf9172c829d1e6bf8b"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/data/repurposed_structures/worldgen/template_pool/strongholds/nether/start_pool.json"
-hash = "6fd1c8c273417936e2a8160c5a826968697b46e734ad235d7f72920a023e28fa"
-
-[[files]]
-file = "global_packs/required_data/RS-BetterStrongholds/pack.mcmeta"
-hash = "ef9172cb4fe555f55cd8e839cb9b1084ced96b04e6227e729e1482b101a6601e"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/outposts/badlands/features.json"
-hash = "bb034353193276098d69b3277973867df338fc93921e63ff7c323b47c4db6774"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/outposts/birch/features.json"
-hash = "b750d300e28be7f926b8ea5d3a08ca6504e1d52eb0d6e792bb09c76379746161"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/outposts/crimson/features.json"
-hash = "d43ca8f334cd36ef4156ef28d1c158112ea0a93b163835f7bd46c41dd8f55fcd"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/outposts/desert/features.json"
-hash = "56de7522e9d137608b8742ae6f748359aac3484a339303de961ca801f4ff40a5"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/outposts/end/features.json"
-hash = "13afc5f1d8e2712856048e28bebb89e4ee194256ac8326d0054d431e0c2b7e23"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/outposts/giant_tree_taiga/features.json"
-hash = "ee1e66b2452280d9bc31219096179d410804e94e7740fa261ec105aa4a9eda43"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/outposts/icy/features.json"
-hash = "e281d072a3c2099bfbb4c2e3fd9a0e5070671318d195917eb4af129c834eb9f3"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/outposts/jungle/features.json"
-hash = "062a98f98cdbd0ca8b6006fef4ccb52a20ddf968f61a54df725ee0bc5173de2f"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/outposts/mangrove/features.json"
-hash = "abe780363d2e7cfba1257983555d3935f22a982abf0cbef0d235f230e9879516"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/outposts/nether_brick/features.json"
-hash = "d43ca8f334cd36ef4156ef28d1c158112ea0a93b163835f7bd46c41dd8f55fcd"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/outposts/oak/features.json"
-hash = "98f2a78affd3ea41c405f97232d98809982a3164e03c36b5627c08e2107e7366"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/outposts/snowy/features.json"
-hash = "090d30f2130a4c384202e6f3a913d81de57b1f7cad747831531f529d02eeefd8"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/outposts/taiga/features.json"
-hash = "926b834fd714cc23d2680c0fabd20f0049cace70c5d6d40b599af8fee25589a1"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/outposts/warped/features.json"
-hash = "0822509806a5405759d622fce9057c4b47b466062aad78004b57f6f3aa5159d1"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/villages/birch/zombie/villagers.json"
-hash = "7ae9f6793d149741a44dd7f06920e58ade689ea50270ba197cb3b72ac2510f22"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/villages/dark_forest/zombie/villagers.json"
-hash = "83cc7486ed0467df357e93901f47ae56a7d493b74e36c4ba6ca6e390835b7805"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/villages/giant_tree_taiga/zombie/villagers.json"
-hash = "e35c46793badf6150753d33ea913dbf45ef671c65d1805a6e7e4e367e23fc013"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/villages/jungle/zombie/villagers.json"
-hash = "cd1aa90107066a3c80ce71234795add87638c82645f9e0ba24505c8d7bdeffb1"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/villages/mountains/zombie/villagers.json"
-hash = "bd1f752ad7d001749233ea6c21ff0b809662884ae7599315e89548c9a3852152"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/villages/oak/zombie/villagers.json"
-hash = "69c58119922a92a047584642534f7a52fc416452e4aa5a8e5c6a779ddff5edf4"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/pool_additions/villages/swamp/zombie/villagers.json"
-hash = "3db9e0c48fe8db3148982452f0b2e20a33492d9acfda85286cb8fcbb11e92801"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/badlands/base_plate.nbt"
-hash = "1fa72bf7f4c307cd90dc66ae79d69328c086df3376462a9d04cf4bc1740f2231"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/badlands/watchtower.nbt"
-hash = "6cc29d69880c41e2d9b387feedd714e3e26f020b44a556674c1089ffb64eb4d5"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/badlands/watchtower_aged.nbt"
-hash = "fc525d5fef799200fa0bfc9fce903d11237248df9bc16e6e6e91534c59366978"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/birch/base_plate.nbt"
-hash = "e12a350f1790f4b15b56002cbf75eab214d01f5066b1aabca09b09773fb24665"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/birch/watchtower.nbt"
-hash = "9b95d5055c9ee8b00570f84cf991ad07754a6ef170fe046ffad1eca2bba5422c"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/birch/watchtower_aged.nbt"
-hash = "986dd07d5f5cdfe8d79efbfc1a834b60d73ee0c40fe34e9d331f8afeabd2dca5"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/crimson/tower.nbt"
-hash = "cae30500c05916c83b3abc70f1f911babf94ea0b62c2b727bf54eaf684b6d973"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/crimson/tower_aged.nbt"
-hash = "7cd2998a9209d37d8528c56c8c54027d5c1d4498d766d6346395acf7e39fae5c"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/desert/base_plate.nbt"
-hash = "de344a77a5fdca0885726d570f5265aebc6c57881f41e79b50088fe19471dbc2"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/desert/watchtower.nbt"
-hash = "14d862ba2f84a190b44ebf99a9f04ac0be9d7a01c2401915b818347c9a3dce95"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/desert/watchtower_aged.nbt"
-hash = "afe0e7cecff851c0d29b8887de67363cab21c929ab1838420ba13bc989d10cee"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/end/watchtower.nbt"
-hash = "82db6f6501a37261013b931a8720e302f5eb02389c7daa8e92ad8549a859c71e"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/giant_tree_taiga/base_plate.nbt"
-hash = "3fb051d9b23379da8cbdda4c714d500e0b0081e67c673a8ce881c6ddee261cf2"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/giant_tree_taiga/watchtower.nbt"
-hash = "f7d10d4268618f475d553aac706a52a328e5d2b668ba5f0d1aabc69a60416802"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/giant_tree_taiga/watchtower_aged.nbt"
-hash = "126969984e316aae9bb3babacd1d724e1f7088dd3726e1d2c043bca22941f795"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/icy/base_plate.nbt"
-hash = "f79fd5b4902cdf59c0c84c787c6904d6b4fd8fd6e8ae4394ddb3102c610c4997"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/icy/watchtower.nbt"
-hash = "28609dab92c671f80702870de0769589d7722b50cbae55b2db5a1671c6e60dbd"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/icy/watchtower_aged.nbt"
-hash = "1a89635c991dca7ec5c2e3ece59a96e1c48c6538144a009afbda0de4e303d94e"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/jungle/base_plate.nbt"
-hash = "97a2bd3fc09c8a284a28dff3359b56b70815b9e4074a6a7deb7f804296868747"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/jungle/watchtower.nbt"
-hash = "de7d1c33a2abd44428e69950e2a63d858983cfbd6de15b918d11a69e0e052f2c"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/jungle/watchtower_aged.nbt"
-hash = "3342e19c3857c032512a81d6c26ef3fa188931a9fed22dc4c7ebe4527653e4e0"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/mangrove/base_plate.nbt"
-hash = "ef2e929686c9eb24a48125238d048b3b0a86a38b75fc968aac33659bc7560bad"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/mangrove/watchtower.nbt"
-hash = "51b990fefbca176612a4fb77251b3f5fb9c95f9b564eebcb6f000289f3e249bd"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/mangrove/watchtower_aged.nbt"
-hash = "2cc6375b7a895ac33ab115a43051441c79e44967cf311871c40599a82ab47b98"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/nether_brick/tower.nbt"
-hash = "6d2cbb2c502fdc5e6342e48f43b560c796b2a7737a99c8901c76a1b5fd95b9d0"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/nether_brick/tower_aged.nbt"
-hash = "8ee5ddfee851d3bfe671dc6205812a782431afa5b6c479adebf641569ac0c343"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/oak/base_plate.nbt"
-hash = "4328639d17d2ea93609e6529abf5837a1a2637e77eb8d533928edfcdcfd75386"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/oak/watchtower.nbt"
-hash = "018e2009800b5a57aefa8918db29d7b0d4035e023acc4960bf034ee3dbe2d913"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/oak/watchtower_aged.nbt"
-hash = "f586b341b508acc4006789ab999c33cc87a0f26961359fb929c1e257a0164b61"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/snowy/base_plate.nbt"
-hash = "450cf1caa2844cd86b3eb24b86cbb0325802d950fb7cf77c295b232957143f4a"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/snowy/watchtower.nbt"
-hash = "a649f9293519750ad02dfd0ad166451dff7238bcb349ac6558858c24851e0a5f"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/snowy/watchtower_aged.nbt"
-hash = "3d1454199ac5f7b083b6fdef20f8051608ef5ac581c46ea5e40e78f08da41a90"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/taiga/base_plate.nbt"
-hash = "90fe8305b3ae021d31e5a862162d683376a05636779c2e9d146a847e41c8a001"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/taiga/watchtower.nbt"
-hash = "88eb435b7363552ee42500cd481c57a231ba566588ee8c7b70faddacde816d76"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/taiga/watchtower_aged.nbt"
-hash = "60ac96fa854761bb4cb592fa00a62aa4600f173c7095008e61a53fd8eb309eb5"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/warped/tower.nbt"
-hash = "ff84a461c49b7ccc50badbcc87f71550af4037c2b39a9a4f3ac320be72fd881a"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/structures/outposts/warped/tower_aged.nbt"
-hash = "33a8d41e2fb70ce76759bcad14cef78c86ec8006a3a5cbfe2a95c6858df6ec48"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/processor_list/outposts/decay_terracotta.json"
-hash = "5875ef7f19ab6e69a0140211d4c0f016de00c9c7d08e7fad1880118fa47b35cd"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/processor_list/outposts/savageandravagefloor.json"
-hash = "2a3d126708ec6944b14749cd0bd2a687c70fbf1d3df3880f304843ec55468189"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/processor_list/outposts/strongly_demossify.json"
-hash = "5b4f4b6e659d35bb26fb0de83d5cf910c05eb0ac152c6966fd9fcdd7a796896a"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/processor_list/outposts/strongly_mossify.json"
-hash = "9d44135bff2d6a2bfd5cfa47cd99cfb0089f7beb429a4db64c9cc48c60b64184"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/processor_list/outposts/weakly_crying.json"
-hash = "de6882687a37389a76b12a7d43a0a36f8e4475ae713a400ffc0b8ae036890c43"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/processor_list/outposts/weakly_demossify.json"
-hash = "940eaacb8745bd8f7149ea7c3a70258200a5b2f27d6e6c362a12b282c3acd351"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/processor_list/outposts/weakly_mossify.json"
-hash = "718aac1410b65b441df83f6aaa30022875e29548f392ed3c857aea0032e9ee71"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/badlands/towers.json"
-hash = "7e47d7ea65615626363134e70ff94b316cb33e813fd4c4807e37a6cd4d6a6466"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/birch/towers.json"
-hash = "3ab341609c8d554f2593b66ec7495a66e5d3557e3161881b393533e95ad83af4"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/crimson/towers.json"
-hash = "303c0050e451ce3b8b2c641101f48509acda7c49ff8b64b74597f1038719e405"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/desert/towers.json"
-hash = "e63eab08539ec29edf54d6bd80c184d8fe926430f0cd25710da5046786612b5c"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/giant_tree_taiga/towers.json"
-hash = "b2c05d73afe4eeec5bb7f280f45171a769354645a04c375dceb218e9d51430ae"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/icy/towers.json"
-hash = "202d23ed748be0affdb86b119954a9263269f926623e8bd4767602d06878d481"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/jungle/towers.json"
-hash = "7258e65acf64c614093a13314628f483d9b5a18d750eb32ddc51e41a52fc5a05"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/mangrove/towers.json"
-hash = "e79b6537d1cd73746714bfaa90792fc508eb05fddca594827cb3a1b83d725c7c"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/nether_brick/towers.json"
-hash = "d67143edceaacac5b36e41fce8fb6991abd753b0df56a797f602b7741ffb9983"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/oak/towers.json"
-hash = "01b31c0dfacd04017d74af2f9f9ec2666493869dec065893753d6b66ad8da598"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/snowy/towers.json"
-hash = "21fc3395704874d8e992fe004f32c216b42b22de0714f25d7a0dbbceeef025ad"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/taiga/towers.json"
-hash = "d35a6f2e221318f9f5402ebe00f5a3fcf497a22b790f566ad76cc5cb2ad45ba6"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/warped/towers.json"
-hash = "51ab2e48f9b9fdee24203880f1e205fb058b4dea041a2445494c497befc85926"
-
-[[files]]
-file = "global_packs/required_data/RS-SavageRavage/pack.mcmeta"
-hash = "017a5a8c81e45495c4a73b2ca3696bcbb56e3949707bb7fcbe636c574c03d832"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/farmersdelight/structures/villages/badlands/houses/compost_pile_1.nbt"
-hash = "6b7d72fdb5f85ae9e18faf4f3f561af0995dc14397a24700f8a667d9029c4b02"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/farmersdelight/structures/villages/birch/houses/compost_pile_1.nbt"
-hash = "7136f014b8b3bad8ea39044e8b0d4ea75dfa2a40f7014e4c8db9ef65fc63db74"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/farmersdelight/structures/villages/dark_forest/houses/compost_pile_1.nbt"
-hash = "f256825118f7f084f498bb5e46a827a376303e429cad1e932ae386c3ab613b76"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/farmersdelight/structures/villages/giant_taiga/houses/compost_pile_1.nbt"
-hash = "572562e20cb4f7d9d4b023a5c02b5e0f6a1033cd08cc2e9d544a72a30d0e2be3"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/farmersdelight/structures/villages/jungle/houses/compost_pile_1.nbt"
-hash = "ac4d7aeffff101f8ab90cdb36ddc86c6041ca6128c0978a2c5d8ffdb9cae1e3a"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/farmersdelight/structures/villages/mountains/houses/compost_pile_1.nbt"
-hash = "8b9ba29054a73cfc5dfa27eaaff48d30f33676cb56f06eee29f5eb2567810328"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/farmersdelight/structures/villages/mushroom/houses/compost_pile_1.nbt"
-hash = "7ddb7555866db3d464d818a2f19b706730655ae11510dea3a0682cb47fe07707"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/farmersdelight/structures/villages/mushroom/houses/mushroom_farm.nbt"
-hash = "a9b92943b59afc7b65ee0e64db12b665c0676975978e154681207b6af6981bb2"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/farmersdelight/structures/villages/oak/houses/compost_pile_1.nbt"
-hash = "56bbad00089fe486063715e41483d2dd1fb9552d32d3a88b0d3bd4c39679de04"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/farmersdelight/structures/villages/swamp/houses/compost_pile_1.nbt"
-hash = "326607dfd6c86c31c1c5d61a03c01bf45f204b8f6bf3a2135bb2547d980394fb"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/pool_additions/villages/badlands/houses.json"
-hash = "acc610a123f7131387d0df6c387be91cd817386f9d1049cc805dd218378099ed"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/pool_additions/villages/birch/houses.json"
-hash = "bae18b4195d68f323faa3558791668e5fe3e7da8952b431350074d16116f8068"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/pool_additions/villages/dark_forest/houses.json"
-hash = "1a26190e016bffb1a40cee1ad5ff200b7fad2921aee2d8b36be5e34f2bf9501c"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/pool_additions/villages/giant_taiga/houses.json"
-hash = "6086fe66457c7097c3a22eac9779d2105522565f9d80ff7eabee263b39c817bc"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/pool_additions/villages/jungle/houses.json"
-hash = "04b06d99d3e36fb1a0979facf7a9439c18d94b22595d99d37ddbe4549db14614"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/pool_additions/villages/mountains/houses.json"
-hash = "18098dd675020bdccf2dc6fb5e0da709449e1d583155dd9fbe627dee4f5e08b6"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/pool_additions/villages/mushroom/houses.json"
-hash = "ffa006eb0d84e13b1e0a2e624bfe9bd7c6c767e50dfadf1398894c18804d5904"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/pool_additions/villages/oak/houses.json"
-hash = "a94d2e1c79e147f29c9ef102d2f398d9ce19707ec4c7df437e2fff4e72b961e3"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/pool_additions/villages/swamp/houses.json"
-hash = "89dce3be18a46320f11ced689a7c85a30c79724129911233d50c5ef7c7209082"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_badlands.json"
-hash = "bb7e1fb9a4fef6fbae44c79fe9328bd4ac20128781f92ec9e64e17b4640352bc"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_birch.json"
-hash = "092ce8cfcfb0b36b7e0e193a6f0f6cd8f5170debcb6c8008375145641a8259b7"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_dark_oak.json"
-hash = "3582d10023894c8fcae6bb81a08173dfdcc5607e03adf77b67fc2bce94a9e516"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_giant_taiga.json"
-hash = "386b59e91ac53b4d7f2838cd949ae7b9de55a4cd3dc123d8bb31e31eb1ac9719"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_jungle.json"
-hash = "36a674771ffc95ee0ad0d52420ae69a40343d94e64147ef9be84633fd4ccdcac"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_mountains.json"
-hash = "3d12d87660c3621c8234f5dbe1a5f824bf7649268987779a0c2ff80000e45b5a"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_mushroom.json"
-hash = "8f391b795c258f1ae0e679d6a328e427c952b4210c4d9559ceeb6904a38e048c"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_oak.json"
-hash = "594001c78b4f83afcf310bccb9a9fb452cba97740b6aac388d076a6fec168246"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_swamp.json"
-hash = "538fd396a5dba3e480b2d09f65660645472e225ce9e9f99c4f9380018ef3aff5"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/worldgen/processor_list/villages/badlands/crop_randomizer.json"
-hash = "13a226855761bd8e05604d1854f732894a3d82aecbacb9a837c06b1c8f49dd50"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/worldgen/processor_list/villages/birch/crop_randomizer.json"
-hash = "9e71d976c45855747e4bf8414cec9d5a5ea485cc2d056a9b18dd551c2085b6a6"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/worldgen/processor_list/villages/dark_forest/crop_randomizer.json"
-hash = "9f134ddf3d845dc44a1c561759d0f1b578ba0c93af7dadad8ead41f1836aa3c3"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/worldgen/processor_list/villages/giant_taiga/crop_randomizer.json"
-hash = "7eb9e4f16a974a9b767b95910b2523ca27f44753f6ad4997084a303959a0c539"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/worldgen/processor_list/villages/jungle/crop_randomizer.json"
-hash = "c22af0c8e3ec5a3aae119d517b48b24166db1821d40e93034717936907e11953"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/worldgen/processor_list/villages/mountains/crop_randomizer.json"
-hash = "118ae0b1854fa63b59ecd6e0cfb0b2e8db64c380ae906c0701ab20ac6123d251"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/worldgen/processor_list/villages/mushroom/mushroom_randomizer.json"
-hash = "c72c37f823304900abccdd37147323804ce89ced9ff27af0c8bbc8c29959a696"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/worldgen/processor_list/villages/oak/crop_randomizer.json"
-hash = "f58fe53b37a7e03f2802d20a3ea4d50543f719694ab7ce176b8a1b0605368b9b"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/data/repurposed_structures/worldgen/processor_list/villages/swamp/crop_randomizer.json"
-hash = "0641b43379c1ca62113d20c5223f97a69a9b92fb2926e4f6b63e01b39cc172ab"
-
-[[files]]
-file = "global_packs/required_data/RSVillages-Farmer'sDelight/pack.mcmeta"
-hash = "53e50123edddc4834dc10a1de6e8bb9b1a769f9ecb6fe5c3897a0d3fa42e2c18"
-
-[[files]]
 file = "global_packs/required_data/Remove Biomepedia v0.1/data/minecraft/tags/functions/load.json"
 hash = "a76d96adc3d2a2e0a650d11a53442933b2bde6eba2e440cd33fd6c345403ec3e"
 
@@ -13523,6 +12031,1498 @@ hash = "cd3ba4849297a4e317db72acf3c221d1378ceeb03048afe560a70c9a4a2d668d"
 [[files]]
 file = "global_packs/required_data/Remove Biomepedia v0.1/pack.png"
 hash = "4513fa9ba4c0e71ffcdf3928a2f80b32203e8c33fbbbb7dc9a520f0ee2ca0553"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/armoury.json"
+hash = "c61f78b428907c81d765c06983a16c5cd85dadae9c55b639ea821ca5856bd20d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/cmd_yung.json"
+hash = "1b23aabd034597075670e4c4558379f8288d063d3134969026787a97ffd58e62"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/common.json"
+hash = "05f52b8c70f3336b77e362f7532332d85085d0f135786791e8cd54b6adcb8abe"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/crypt.json"
+hash = "77783e3d81dbf0324b1e8bafecf376e5a5f5ea3c858ae4ff384852f34e32d887"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/grand_library.json"
+hash = "b128587c7d44fd7e22e6fe983404350c19615ca65b1bf66a106f910dc7bb915e"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/library_md.json"
+hash = "22077a945ceb43c4a89121db48c4aef287cc090724485e05a35bcb8c3a6ad150"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/mess.json"
+hash = "ba6e8d62117938fe01b28cb1f9ed2e223e48b13351871a60cb82d0f6b385db83"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/prison_lg.json"
+hash = "9f281e9781e76615e0df8de3b6820caa62cb530cda9a92b5252249ba2f6c19b5"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/trap.json"
+hash = "37f9111c7f37131a348461b347e2aac8e87e3adb4afed0d22599a9701f3c7457"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/end/treasure.json"
+hash = "efec883ac7e1caf9a9c3f3c525c79e845c96fc5f0ddfa58269ab40c0ecf75b80"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/armoury.json"
+hash = "82ecce57d2681e8089a6bc04febcfd9222f008f36b3be33d1780156309d4d47a"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/cmd_yung.json"
+hash = "1b23aabd034597075670e4c4558379f8288d063d3134969026787a97ffd58e62"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/common.json"
+hash = "84cf9bd5543abb6bcc4ac4e681fd54a53b40a600b5b16ef3723c752d3e8abcc1"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/crypt.json"
+hash = "d155656e5ed621e4b75a2c325b05a875fcb1ebfa443c617c645ac00d4affd79e"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/grand_library.json"
+hash = "67679749f069999cdee2d5ebc35654931172b5e649193bd00e08c3f8fd0b4c3b"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/library_md.json"
+hash = "686e326ae24e97b58fdfd46f8721670fd5ab3431493f22f799aa932310ef151d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/mess.json"
+hash = "70ad5731bac6878e1d6172ee8aaf150b41c733eb895b3c1ca40f5b4976542688"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/prison_lg.json"
+hash = "09ed60c006004793e64f719dcf8034e4eb7c33dfaa745780fbe750c881500dcd"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/trap.json"
+hash = "9d19abc443bdf54e7610b55504747c026383ac25e8cb295c8c269ac608b843c4"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/loot_tables/chests/nether/treasure.json"
+hash = "365c9aae82a35adb870e945103df5152b22ca74bb2c6c71f72d9994c5c73b59b"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/hall_doorways/hall_door_iron.nbt"
+hash = "29b3952b2b487f1f9e28f8f6c13e2905ea7b353310129a63542bcf7f22b781a9"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/hall_doorways/hall_door_wood.nbt"
+hash = "29b3952b2b487f1f9e28f8f6c13e2905ea7b353310129a63542bcf7f22b781a9"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/hall_doorways/hall_doorway.nbt"
+hash = "4b7963e173ee895687cc9bb318796f85d3891b62f0a71f21c9554063ee047557"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/hall_doorways/hall_doorway_2torch.nbt"
+hash = "4b7963e173ee895687cc9bb318796f85d3891b62f0a71f21c9554063ee047557"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/hall_doorways/hall_doorway_2torch_soul.nbt"
+hash = "fb86e42778d833f5c3dfcb8320842cb40f29e67d9157a5625c9b3f13ef9344ad"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/hall_doorways/hall_doorway_banner.nbt"
+hash = "53be71ea6fb4d4f27fc1631e37ce5c2d5162ebc6e64a7d47e9838af7a8a8e086"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/hall_doorways/hall_doorway_small.nbt"
+hash = "9ac39c0fe2b94bae4d9024c46042b469f2b4539bd1d1598d6c2b1e9be5281160"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/hallways/hallway_2.nbt"
+hash = "33bee1fb37962ec0a7d3cecb58a296360eb266f5e4a8b5b65e03996de6f6056e"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/hallways/hallway_3.nbt"
+hash = "215e494643be03e74ddd30f57c479fb87dc2e0e42386f44ad6fd83f002828e7d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/hallways/hallway_4.nbt"
+hash = "ba7c57056948449e3bb8c18911aceae1a2fab4f8f8aff09b329d414b5b277b07"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/hallways/hallway_turn.nbt"
+hash = "9fa53fff2ffff6f2dd3df68e4141087a45bf6874fd9f0dcc677a605648d8ce68"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/rooms/armoury_md.nbt"
+hash = "833fe9f1672cca5890624895c0fd0dc44794132faf8ebd036cfce8178d1b8415"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/rooms/armoury_sm.nbt"
+hash = "133432043ee7da386feced08b52e8a8e189315329b18220c512c8508e23e7c53"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/rooms/bunks_md.nbt"
+hash = "7b0f964879ed177c2641ca13fbf8e13e4e698382741bc92415401e34ab3ee963"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/rooms/cmd_acarii.nbt"
+hash = "4d397159b7e8a2fef460ae37e76f94315d25fe625dceb6b1d4d24109fdbc3b4e"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/rooms/cmd_yung.nbt"
+hash = "fe1731ca586e4a85efd5352303e0d38d0841a0fbc62af2df22174176f3c23e65"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/rooms/crypt_sm.nbt"
+hash = "60b84af4a160d4d4c9184ea8194deaf073bd0afe3b9ed71056465b2644d4641b"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/rooms/grand_library.nbt"
+hash = "51a75730394522a15d65a455c20ec6b329969ab84b7346faff90765a6c3e327d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/rooms/hallway_trap_0.nbt"
+hash = "42f94d91780156e7094bfbe7af13153707cc1ac93b4eddff89851d6d19c160b2"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/rooms/junction_md.nbt"
+hash = "f0f40a6d39fdeb5843e02f102fb44b69f1bda706258a6aeec760b9e0fe1ae85b"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/rooms/library_md.nbt"
+hash = "29e3c85ef73377962c430534849486d0ae9bcbaf6df6e30e0f68447a932269ed"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/rooms/mess.nbt"
+hash = "e9eb9b7d7f8a15c48332c20cc6d33efeda35ebd1ac50bd767e32a984dc0fff70"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/rooms/prison_lg.nbt"
+hash = "5096afd7cbcb18ca7bafb122fb9fc79c2f8b56026f7e98dc38f92ba133349226"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/rooms/sealed_cell.nbt"
+hash = "4348d8501db0072ac54f39eeff409bba4ae5b2c303652a8958e307cebd3ed5aa"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/rooms/sealed_collapse.nbt"
+hash = "955707b0f56e5c1b6a5536cb7992e9de7c907ed830ffc8f2ebcd60c5b4e9f279"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/rooms/storeroom.nbt"
+hash = "9dfa552ce2bcb01b139d8b9c2db027f4a5358c9d803fe8ad17152a0ffcf88163"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/rooms/treasure_room_lg.nbt"
+hash = "df838c86cea1023ab0b2d5942af8fb71580238e9a90645217e9d9cd90f21a55a"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/stairs/spiral_stairs_2floor_0.nbt"
+hash = "47dec6fc0413cc013fd4cb7270eb8186ee0d63b2f24d1fd76bee94b31c5a8a0d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/stairs/spiral_stairs_2floor_1.nbt"
+hash = "680fa4fcf4974f490b4ca61bb6916faf69a9288a938586a2677fe12d596cf2cd"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/stairs/spiral_stairs_3floor_0.nbt"
+hash = "10d72bb0f4d984123d4b339770b1acc0381db32c08acebd35f5bff87442a3cff"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/stairs/spiral_stairs_3floor_1.nbt"
+hash = "a20fc319a31ef12f65c2b68dc1fe8865173e89f1a5c3830aad64b5797dac5fdb"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/stairs/stairs_straight.nbt"
+hash = "b2a4253f4f6ef020a562a4f4ecc5853a0385ff6b6d4b1e939ed1f5d8d8792918"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_book_l.nbt"
+hash = "8eeba4428f69a535c4385236f19c0ec0c41644f7a0d38bb301e203b087e90219"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_book_r.nbt"
+hash = "e81d0d8d65bacb9eed19578ff0d8d589b715416f8e2eb2f9ab8bf843f793f1ed"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_chest_l.nbt"
+hash = "b087e88bb0b67115db49a8d6daa5a977327f11599a20df7cf42fdff956ef73a8"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_chest_r.nbt"
+hash = "bb822bfd1b91596ccd6a151e3eb4ff7a0c18553294f86530dd12773faed12f5d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_lantern_l.nbt"
+hash = "1a3799e82e2a35afd221c3fd2e076469b7907685a4549960767f6df7b52127a4"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_lantern_r.nbt"
+hash = "d83ce1110a9647d89ad96f8aac95bdb0f15d9ff0041c2a1b8389b7ad821a1ae7"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_shield_l.nbt"
+hash = "c5b2df3135255005daa5b7c67f40353e3df19b746357cafad9112fead1877f18"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_shield_r.nbt"
+hash = "3e5a41300938615da9590c2a20f01ccd947c97fa63d72f4112f5f6a4d1b2306b"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/statues/statue_sword.nbt"
+hash = "2a31c9adff580d20a2f8a783f317604dae11f7e0ee8e9972e04171fe3edfa6d0"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hall_doorway_terminator.nbt"
+hash = "407f5e94db4ecddff517a79a497f4e8b5396a4e0d3b04fd1bbb37b4ef8ff9c58"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hall_wall_cobble_terminator.nbt"
+hash = "3fedfc8eb85b3354bde2d7520c217bd309c3afb7933c53717a3c5f799d1bff4a"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hall_wall_terminator.nbt"
+hash = "1613192fedb5f926c97b86decccc71c141681c70b7a10bd12c4945bae134c1cf"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end.nbt"
+hash = "a73db085070b6b4831f7433d57a34b9b7eec74a714eab52ddfc90e08e583a86b"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_chest.nbt"
+hash = "670bfeee3260e31f214d3ac5ef59ce5c6ea7e727c56204a2ac47eba0a62d056d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_chest_trap.nbt"
+hash = "e5b4e0c3df05e32bf80060232fbdf750bd48b2e31d6f8d3c8d5813c4256d59a8"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_new.nbt"
+hash = "754ec2e12466fb3d09a59ca3fa07b2d7c34c1ff294c7f20a2e3dcf42b5d47ca8"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_shulker.nbt"
+hash = "6d7237f6fbee8e84e81135c6b3da8c99d955604dd2674e7db03bc0a82f21a932"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_0.nbt"
+hash = "3b009328baebfcd370ab8da507709dc5b80b1cf254e94bbc23b174fee52c6f0c"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_0_new.nbt"
+hash = "1073f6808cdaf0ff02f39059cfdf96b5f4bb499c5bcb532e7ef0730df8fc0ec4"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_1.nbt"
+hash = "ee2c13faacb24578d6c7849cc3c610ec27b73becaf31556365824277cb1c0139"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_1_new.nbt"
+hash = "f34cb46144574ddccadc6e892d867bbe636716248fad997b4a076e9eba005ea3"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_2.nbt"
+hash = "ff91e24c604d3be379dd9636b13ded0b017a012d12de3d7539e8c5da668ee486"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_2_new.nbt"
+hash = "fe4441478eb5d1dd6c454bba4a26406e372ef59cc1c18bf5ae398bd84922b73d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_3.nbt"
+hash = "95bb3365cd3593e44f363c46b8cad4140d12b38a6d10c4b9955cf2e4f696fbdf"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_3_new.nbt"
+hash = "63222f5142cbf133e4ef9e88994a3cdac0af4953d9ba1174488ceea495a2e94d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_4.nbt"
+hash = "005b786a050b9baeba5931e3a7372e2d82b27d7a8e52084b105250b6346853cf"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_4_new.nbt"
+hash = "393742fcef0dac6ae52658e6a71b40fac82839e00fc86cfc1a1c8185e304eb34"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_book_l.nbt"
+hash = "15e61d3b9d35cc6e83289831b927ad2356987d9b5669ce100107286f253d22bc"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_book_r.nbt"
+hash = "2f0a307abd7ee0b8b8fb85af44ad45c7358aadfe8fadbe97396942dbe06ab4e8"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_chest_l.nbt"
+hash = "7fcf285b63c2ee02818443a11c42a60551d08d7e0fb438731dedbab8aeb8363e"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_chest_r.nbt"
+hash = "1c4d75c37d9a77c17f11384721588b1544e4365a0752dafe35280ab9228cc995"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_lantern_l.nbt"
+hash = "004445ad8e7a0863f3dc642a3a47779b2d5f0fb4eeff08dd43b9b614425aebf9"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_lantern_r.nbt"
+hash = "c36b6f0e2294a66c48de05d7ce65bc3d3c5deac71ed5b4149c9db3988c3f19dc"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_shield_l.nbt"
+hash = "ae3a88effa787f1d6866726a28dab545dca8e98129e35f8a52e1ad971bbd2b9e"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_shield_r.nbt"
+hash = "c32913ad6c3a64b8706edfdeb830d18d386c7d564099bec8dd790e135437eeaf"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_shulker_l.nbt"
+hash = "9b7117982a0dcd43ae6d05e65aa41b3f0f0444bd8ec1f30e4f8453e35451828b"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_shulker_r.nbt"
+hash = "1df0121901d6421b338b7bed2868c1437f63df1ef0f1b4854f4be59447f59e53"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/hallway_end_statue_sword.nbt"
+hash = "a5be660d4c634cc91e2bb39a5f3a4794d04b9c1719225a04e1396f65016e3edf"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/terminators/spiral_stairs_terminator.nbt"
+hash = "ad96a756cf4f1c5931c0c6691a4133c7aacffc17af85d132e430f2497eb120f6"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_0.nbt"
+hash = "804e017b9aabf6033b866b280d9343e3eaea7bf5f3fd89484546a3b75d177c2e"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_1.nbt"
+hash = "0f42cc6790657a09c6414a9cb778562f916ba2803f0bcb108382996fee90d888"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_10.nbt"
+hash = "63db34617bb981a07b59d0d4d634a352d5a72a27bde0bf8081fdcc32d63f648b"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_11.nbt"
+hash = "765973639eb5fc759ab69c639d7dbbf5171b17ff5e74843a9b8eedf3589aef8f"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_2.nbt"
+hash = "69319eeb8722b8c4a8c77cccce62c243640c98ce252577eec3051156fd650e75"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_3.nbt"
+hash = "13b69e9ae074d622ddcf1bf4a1076d91c564505b4aab9712944766b51d097699"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_4.nbt"
+hash = "4ea5d36df8b5bfffbacad20764789995d65b98e98455f7af31fae9ffc8e1bde8"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_5.nbt"
+hash = "97d07e5ec53ef257ec466a77f18f54a606653dd3d14b8372d1e9986cddc0d52d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_6.nbt"
+hash = "e708c7749c26a3cbbcc37193fb45508d5929a506628cb460fc4bed5dad2a94e9"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_7.nbt"
+hash = "e63aa0ecc26d7818c6349df493a03c4fd7bb1ef8deaf61916929f305ba22e0d3"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_8.nbt"
+hash = "f5e26374bdecfee94ff9adfff461e433853a6379ded25c646de34c512578032b"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/corner/treasure_corner_9.nbt"
+hash = "cebba47364185f7841982cfc8ec125f0fe8a9ed412425a8c4959dd9a139696fc"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/portal/treasure_portal_0.nbt"
+hash = "731e4bc56375bb0906d12e764659b02272052c4d57bf27790000c9a7f18ba4fe"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/portal/treasure_portal_1.nbt"
+hash = "e9b547eb43fad135093c558f0e4c5346d01f25f991c5f4687439906ad866ff9c"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/portal/treasure_portal_2.nbt"
+hash = "dfbfd06f52d49b9b4ef400398b5b56270d82c91a35f637bad4454ce956136886"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/portal/treasure_portal_3.nbt"
+hash = "98a5e052e3793ab964d76bdbab8ff8c71630bc60a2c66848840de06b29aa116f"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/portal/treasure_portal_4.nbt"
+hash = "31252e73c41ea65d9ebb456b55b122fc98acd55a37a402dcdf89468766b62dc8"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/portal/treasure_portal_5.nbt"
+hash = "50439826962838ae5e2b1a52311d757e56fbd7755f489493fe1e1feeef9f3821"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/wall/treasure_wall_0.nbt"
+hash = "cf5d58cad43908a731d6b28f3d548db81deced6bafc7067e41d3172b4665d6ac"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/wall/treasure_wall_1.nbt"
+hash = "d7d07ef48455c541aaf6b7e9361cb5f113f156a0857461f4bd2f0da7c6099f88"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/wall/treasure_wall_2.nbt"
+hash = "5fa693571db3db085cde8c8c16c553dc29ef6e9544fa17de4ad65318ece8761f"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/wall/treasure_wall_3.nbt"
+hash = "214f30e55713e9760a1c4fdae986eb048ee219099cc3d1e23cab0bb660d6b6fe"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/wall/treasure_wall_4.nbt"
+hash = "e4a01af5b047ab1d96a26fba82b158e2508b40d5e26dc274e1a52d39aa9e1557"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/treasure/wall/treasure_wall_5.nbt"
+hash = "023d9af0b1e0d780f49c53f3480cdd25089454aecd493c794295e092df1833a4"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/walls/hall_wall.nbt"
+hash = "194c413b592cc76c1b2fce2bfbefa16a8dd277ebac3c26d5a9776e376e4ec62f"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/walls/hall_wall_cobble.nbt"
+hash = "6a974848d72ca7b1b7d9bb8e08b94313ad80b5614b3b5c589ed6751c43d2a5d5"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/end/walls/hall_wall_old.nbt"
+hash = "0dee1ddc364a5f29331956262bdc701e9895c6338b2179d76523c07c5dd7cea8"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/hall_doorways/hall_door_iron.nbt"
+hash = "9580d02d2b2cff833f1ecb39aa701ced80f106ac52a04f82cf295c0e22cfa8c0"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/hall_doorways/hall_door_wood.nbt"
+hash = "eaf7dfbfa3ee398b038826fbacef4b628837bbe08f4e104e5e1d06e9a391b187"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/hall_doorways/hall_doorway.nbt"
+hash = "54ba43894452a0725b5ac2594daefd14df28fead0daf4e4bdd94ec59ea9a0e7f"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/hall_doorways/hall_doorway_2torch.nbt"
+hash = "052695e990baa738ed40b11724b08899396844d2a38c2df27b1176c0e5c247f9"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/hall_doorways/hall_doorway_2torch_soul.nbt"
+hash = "03d9839866cab6933ce8beb9d2a052a74f86ab9b801d5daa4a60fdd5570043c4"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/hall_doorways/hall_doorway_banner.nbt"
+hash = "cfa946f10aba70640d747964d327af25f912474371df1fda116a304286e0e921"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/hall_doorways/hall_doorway_small.nbt"
+hash = "72b64a49de6a1685f362cf09721de18513467d343cfe500063105f47a6659130"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/hallways/hallway_2.nbt"
+hash = "9ccbdcb62992282b1f93d9cf6d6061df2eadce53bdae1e2e3b88493f8fec50b7"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/hallways/hallway_3.nbt"
+hash = "11817e4d69e55d830345fc8d589f4ab62b8c11f38f08ed49fc41d6cb93b4464f"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/hallways/hallway_4.nbt"
+hash = "02931af7ebca31bb58da4baa48afd269ce11c7cf04d9eb10dc16dcb98f1de170"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/hallways/hallway_turn.nbt"
+hash = "6a32f460f9471b34d765cba163d97b989cbe8f69baacf47815a65f6b8d1d7404"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/armoury_md.nbt"
+hash = "6e206a53360bbd0d11a478a2c5414a0e8cd648f8f4717fd0a8c4346f4abf353d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/armoury_sm.nbt"
+hash = "dbf749a9bdd10b3d6bad140da6870e7f532c05b9e37b6cab4bccee423ef63d79"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/bunks_md.nbt"
+hash = "1249c65fa19c54d68bd2750b2fca24677a661802b90842be40cc04883f4ef5e2"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/cmd_acarii.nbt"
+hash = "4545023fe7e13881d03aef90f8dfa3190d9da2ce597a9d3fe2c5a96b9caa9b60"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/cmd_yung.nbt"
+hash = "ec0912de87bed3c437f7ddb276909d68dbf1d18c704e329cccb47cd07f08f800"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/crypt_sm.nbt"
+hash = "4ce88220a00c7c0d921e8fdaf5474da08b4ada2283d9fb462adf3fde1e2350ef"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/grand_library.nbt"
+hash = "d163278c3e6ab1bae96492da1814c1a473d471fef31ed016c7baea2492ae76eb"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/hallway_trap_0.nbt"
+hash = "626fadea160b5d1980eeb8f539745dbec53577e911d65a62bb3dd66e52800860"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/junction_md.nbt"
+hash = "a641f1d0a017adb06fa6676aaf8a67ee76e55d0538ef50a2c2efc5898b9fb43f"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/library_md.nbt"
+hash = "c5b743542c98afcd52d00dbd7767406a95f05b3792fea6e969d20e56f04598a8"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/mess.nbt"
+hash = "e24122ee7588ecbe2d8da17221c084eb202ddb1f48913a09517c86d3f0ec1827"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/prison_lg.nbt"
+hash = "756b95da526f334c8883ea3bab6cf402dea92ec258c935fb8a6e92e563a28cb5"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/sealed_cell.nbt"
+hash = "239ab5b119f235940201ba764aac0a817425bf1de2a827f87bfe703b5893b487"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/sealed_collapse.nbt"
+hash = "4de02f067b69ae0f02a08391e888e9fffb424e526d3563e7168b4641fe19cecd"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/storeroom.nbt"
+hash = "2ed271f7039fcddaba403e6c92b27281615594052a8828c01400a21d3701d8f8"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/rooms/treasure_room_lg.nbt"
+hash = "3780de9e0fa96be73a9fa9c534de4ec35455299fbb62b48722784e49eaee366a"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/stairs/spiral_stairs_2floor_0.nbt"
+hash = "71b25e13d2cf463215266dd37eb56e2d73690b719e69be28b8cc0c63dc1d09cd"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/stairs/spiral_stairs_2floor_1.nbt"
+hash = "dba23648d8ece68c0023ac70c2ddef8114eddd7b2a09d5cbb9381835064b0110"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/stairs/spiral_stairs_3floor_0.nbt"
+hash = "6944ecec5b95a676532a81e5e83884f6507a99b0f040bcfc4297b3e32a040881"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/stairs/spiral_stairs_3floor_1.nbt"
+hash = "5303e84d6ca3950e83b9d245873d55e7da057a856fa6858f89f1771f4bc71c37"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/stairs/stairs_straight.nbt"
+hash = "9dba046460604365c913ffed90a334be57f18b721e31ded7bc74925f77c84cf6"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_book_l.nbt"
+hash = "910086119467b767b96372593514221913581721f871cdf30ba4b231658b8d1b"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_book_r.nbt"
+hash = "2c700b26b26af15350189300f4a9ccb6c25bb3498d8221a32a3f539651ab55ff"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_chest_l.nbt"
+hash = "e7d929f8ce87c38b65f66444a8a93ed52a853b8009fc12cc6b879439a97cf123"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_chest_r.nbt"
+hash = "3d2a1a482508166da37d5488c669eff25f4a8e596a0053f64a4ac608baa84e10"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_lantern_l.nbt"
+hash = "993efe0906b67047735b52e9ad6d0781de60b53b90fcef8a7b99180470e6a005"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_lantern_r.nbt"
+hash = "eddcbf5c26dc28600e598d398de0187b7f362d323e9045e69982a0da0005fdb4"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_shield_l.nbt"
+hash = "2e628477acbe965b9092ee4303df66d3f7ae1aeb543283f7a6123cb8875dcb62"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_shield_r.nbt"
+hash = "3eda5c42f8e64e45682c326986a79ab10a9b77e4f3303dd77a33f81d194949e9"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/statues/statue_sword.nbt"
+hash = "4671468f8834680aaa20fb7c4f8b2aa298fcd9d26bd1629675b8a10ddf431d72"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hall_doorway_terminator.nbt"
+hash = "47df2dcfac4ad78c17b1410a57c4254f1dc6a338720b9faf8c4d3e9f2ecb5cc0"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hall_wall_cobble_terminator.nbt"
+hash = "7da63491538bc326b1587aa47f95af587adc4b4c3037a5347ef354dd9ed0cf2d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hall_wall_terminator.nbt"
+hash = "1d48d0dba4ff81c00f5d559ff0ebc7205864bdb34797ce58d061121bb472a2e3"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end.nbt"
+hash = "28364cfcb6faf82cb65d3111d86d1513f9bf85223ce25a797b9d02f0e5921100"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_chest.nbt"
+hash = "62ec6f36c11605357cb9888e5ef7f73cce126a29985dc76d6d10d347dd165524"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_chest_trap.nbt"
+hash = "b7987674769aa6d1e08b10b4e3f33f8f4634252f0115aa434e01b9a02a9589e8"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_new.nbt"
+hash = "011e4e11d89485057ed8765714b5b20c18accb250cd03cb7d70503a0d58f2e61"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_0.nbt"
+hash = "37a0ff930ef820e2270944648f666488f6c0783998c591c43b4734dcd2906097"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_0_new.nbt"
+hash = "ae4a9c59b414558e50189ef3d724a2c96b249e9ddc2420bdaf166187da614de1"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_1.nbt"
+hash = "870c304fffae85db9ad289f5e312523250697639ce5a4dad552787a55bbf0e6c"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_1_new.nbt"
+hash = "0a1082114ec51b89933613088a17115560f5de24a91ebe887c958bb7e2d33b65"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_2.nbt"
+hash = "63785ad1c658f304278b35c9c3242ed578c1f37853b14bca1d4f8acc2dcdf050"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_2_new.nbt"
+hash = "4b10b7be5801d270b771f22e126faeb3c4c9b480fd5b433449145cd00bc4e96d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_3.nbt"
+hash = "2ddf9fd12a0805acf5390035447b12a3e7d1eb0d78a07bf66a32bc0125427d9f"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_3_new.nbt"
+hash = "8bf0ce08388397a3eb5d35ffb8fa16521e021af820f50e0e16ecb8ce84f4e7a2"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_4.nbt"
+hash = "b2c02192c0e536ed41240b0bc964747e712d161c66f80326773770e9d699e8ef"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_4_new.nbt"
+hash = "e33e711c5b4557c08b9f214b4a7b83e82e1131ce85569dfdb711ce15e709a75f"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_book_l.nbt"
+hash = "1df5cfc14df0776509483183502888ebc9d606fb2be0ca3c27febbdc1a84b38f"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_book_r.nbt"
+hash = "68f2b7459c6c772af834cd990805bb7c541e32f375a96ec01ab859a7546ce42f"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_chest_l.nbt"
+hash = "3cecfa9d3d532c9e19cc6f1b27732d83ddbd62e1ed324d683da5baed9aa40345"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_chest_r.nbt"
+hash = "d9f3f33cb0f68a87516f1250049d93aeacd66360ed0532eadfe96c999f20031c"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_lantern_l.nbt"
+hash = "673ea92f84187a3b71016d14f9c1db1d1ef1945399cdb5b70eb89ac7530c2d2f"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_lantern_r.nbt"
+hash = "b4caaeac6dc80af6910e4cb4459ffee1115423901ffabf2b716a2ac31a897336"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_shield_l.nbt"
+hash = "0543c6e28a43a08f8057c98e7f6733be2be2e20c4bbd04f904cc364c3efc5f3f"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_shield_r.nbt"
+hash = "93d07967b808562b4fbae61b8771cb6b0672e5942de9006af904c9c1e7162038"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/hallway_end_statue_sword.nbt"
+hash = "0043e295db051fdc0384d7e5d4f33ba91b0f0076d61b4093a4cc2c20c5f3d082"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/terminators/spiral_stairs_terminator.nbt"
+hash = "b7fbde592a9df9cc4d89b649182decb05cb5b301e69dbcadfc0f0c29d073aad2"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_0.nbt"
+hash = "25211d8259cb37a3e8ec44b22b46a0953f7d909f5ca54fabdbd656164baee475"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_1.nbt"
+hash = "ad19672ee3bff1dad1df744e864dcfe2d7d16c4b664595ff2365e874be8453eb"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_10.nbt"
+hash = "e9c4ccf646a57babe90e49d53b0ace07c24b1446eaa5c523c10ef1ea84f1108d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_11.nbt"
+hash = "9a6b99494011438c069a2b2324053d08ae389c19f27d16b69ea3859e47fcc69e"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_2.nbt"
+hash = "2a955529a2c37c60465152bbfca8773e6d189920debdf3fb5b21454b86b3cab0"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_3.nbt"
+hash = "4d0dcc9759731117db94d375f65acff27a4f57b30017183dcea932c9a7e0d5c3"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_4.nbt"
+hash = "d587ad0e30bc14b90200069016b188744556fd36fbd15c6c8aa32c7ec9f70d76"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_5.nbt"
+hash = "837694e22d69c2b432d8914bd8724b42a00d46de38a2a1ec3aaef3848a5368df"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_6.nbt"
+hash = "5c18d245d4d9e7f9b40891bf714478e8fe0bc8d956a0256b964e066fc0e27341"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_7.nbt"
+hash = "6ca9a182fc1c1f89eb54aedfe40f2f03326106a723e2f1aa46d8e16b485ceb5d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_8.nbt"
+hash = "eb0433d0ebc3411b3ae3afaca10db70f942073d10150e7e552f127c3a9ba3ea4"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/corner/treasure_corner_9.nbt"
+hash = "2346c084c6be22a23030a97812e2ffa7d52b22f2b8f0d9e85bb3e18ea1a10768"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/portal/treasure_portal_0.nbt"
+hash = "fd45b18d1512ee569e34c312aebb562d6329841b5e380f31f8a3a3794e63de3e"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/portal/treasure_portal_1.nbt"
+hash = "5c15a3396aa2f12c47091d5cbe6b7faada4a4047fd6d678e7991f7af2297ecb4"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/portal/treasure_portal_2.nbt"
+hash = "0577b23344fd5fedbd9efca0f47e7efda566a9ef20c33d4582ad11420dc9c606"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/portal/treasure_portal_3.nbt"
+hash = "c3f1df11d7af9d398f61fcc15e1b80ace80c749b11b38ebd209abf743eaa3065"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/portal/treasure_portal_4.nbt"
+hash = "aac5bd9b4cf2813078a3fb7f5d132024d107cfc7291f48064e43607b3d9d1108"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/portal/treasure_portal_5.nbt"
+hash = "7aed326f804cfc5df8f95abd0e9efcf787d887d784030b8a231e7f78ddfe3dfb"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/wall/treasure_wall_0.nbt"
+hash = "be5687b13aeebbcf857d8d281142a2bdcb549e1c76ffd92eed3ade370283d3c0"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/wall/treasure_wall_1.nbt"
+hash = "10b7380b524ce71a644339a96a77e3c39c85ff5352864eb553e5bf09bc881116"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/wall/treasure_wall_2.nbt"
+hash = "acf6674088734777ffe5ba2a26edbe4e6ee376e02462dc89f08585d0f2c4196e"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/wall/treasure_wall_3.nbt"
+hash = "a8b766c4518894af373f1c73d649885cc7cd775aa1d2a62b9d8e7cabe0493305"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/wall/treasure_wall_4.nbt"
+hash = "5ffbdf151638bd8973c05fdb314fb3f1f1c0367107ba6173ceee9b32fb577a21"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/treasure/wall/treasure_wall_5.nbt"
+hash = "f8c941b2144a8eeee60cac67cb60afe55cf344f2cbb6ab3073afcf2fd60097d9"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/walls/hall_wall.nbt"
+hash = "472050f6c19cee297a2ac9771d264286e572cea7d03f48f39fef822e9454d450"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/walls/hall_wall_cobble.nbt"
+hash = "aebec4463b3c15f5e1ae15bf6cdb0b24e1e37c9d8d64dbf75ea2175b52fff185"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/structures/nether/walls/hall_wall_old.nbt"
+hash = "c134467bb5f602cc76d5b5299565c7acb90ab166e24ba626b8cce1870ede684d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/main.json"
+hash = "0c31c63d59be1b22635287a96aad0c437f0c83f1fe37ff83a9d40931b70bc8c1"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/rooms/armoury.json"
+hash = "1582d2a01297c950149bf94805c25a0e4a249767a9481981c1f996be22ea8239"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/rooms/grand_library.json"
+hash = "1d44def39dcdcb26bc592a25715d7e587a3fc2b45cc50d30d348486f859384ec"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/rooms/library_md.json"
+hash = "5edce7e9ae1a126da87966d96b9f21eb3d09044b11249424ca501fb87312eb34"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/rooms/mess.json"
+hash = "6b8b0750973c87107b7ee9035a972d4119d2d59bbf507ecae4b27ddf4687f5f6"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/rooms/portal_room.json"
+hash = "14e8e0ccb14ee15ab255699402a1783fc43dd4db85748b64fade23dd9c0fd54e"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/rooms/prison_lg.json"
+hash = "8e23c4ea0157091b7bdae3cb2b5c5f48119e52fb41278ae6b45a6c37684b409d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/statues.json"
+hash = "ed46dc579e85cf0d0c9f92d8a5512e961f5b7ac3dc8024d588a3f6c7c6fd94d4"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/end/terminators.json"
+hash = "0febbd8802d4ea6b7a9af4eade62d902ff4a271a959051bbbc9c3572cbcce851"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/main.json"
+hash = "683040c4b2742d8888d951cd4fdc6770ff961a7bb8c923dd26dcdba7c0931c49"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/rooms/armoury.json"
+hash = "9a0444a5146f65988e1b8b5b7e83c3f6a87fe8534c8e286e8446d8efcd4ea50b"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/rooms/grand_library.json"
+hash = "16c63a309ea6f379ba70a3c43d0082b2ff7b74d60f6f0ecae61047a561fb4a8a"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/rooms/library_md.json"
+hash = "27ecb8e7d625aeeff4ecca0a7869fc1a1dda327f1dd129c4170ecebfe89868ac"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/rooms/mess.json"
+hash = "6688a2393c16fc61d04fb64d217a58927c7aac93e0dc42f09175b4c473ac7f9b"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/rooms/portal_room.json"
+hash = "5662cdb44aae0bc76e4fbd9b22b1999d8e5f2aab59d6f3821d6054036d5393ba"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/rooms/prison_lg.json"
+hash = "41a7855091683431cacfbf4ae3117169dac770516d932cc65abcc6a52bd409b5"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/statues.json"
+hash = "2cbcd5c510fbb0135a1bbab9cf6b64b126c8483d6ff9087b90bd6de77e3cb790"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/processor_list/nether/terminators.json"
+hash = "2cbcd5c510fbb0135a1bbab9cf6b64b126c8483d6ff9087b90bd6de77e3cb790"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/hall_doorway.json"
+hash = "47622c975df61639ac486545fbbd442a416063c09f861c7e22bc6c858e135740"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/hall_wall.json"
+hash = "a17eb30c321158399a9a4a6056ec97d22ae970f058f5017372257e60c7068639"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/hall_wall_cobble.json"
+hash = "10d6908f0987b51c1e858f2b59bb5dc3bc7a9826251107348aa8bf9430502542"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/hallway.json"
+hash = "4e92ace563559cc5b11f520dc3d89ce7d553636388f751d0b48795632f8aaf9b"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/statue.json"
+hash = "b085f46e85dba4371fc339c336feb6a12d6b58295ce8686a77c75d4faa32217d"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/terminators.json"
+hash = "88971ff63b77ef7056f98319e88fe92a0eebf428143a819d998fdf4a2433b0f7"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/treasure_corner.json"
+hash = "976b5e6c91cc193bce5445e56a2f1afb838aa54849b89147dfd2859185deb70c"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/treasure_portal.json"
+hash = "b2c4c53ac9870839b8498097075d1e7072dc26da1f1b48294dc2ac45bc3a1f66"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/end/treasure_wall.json"
+hash = "28edbc6b29c99aa9c02d5649adcc5f948a47f04ed1ce5d48b0c73290899747bf"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/hall_doorway.json"
+hash = "828b2c883dabed42aa59006bd6c90f9801cdc4ae18ce3cf4bf318bffa030e3fc"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/hall_wall.json"
+hash = "750112a425c8b4653a659a0e2cdd32a9bb4777688515a9dd397e5cd6d13c0b60"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/hall_wall_cobble.json"
+hash = "39d5e82986b0702e7bdd0db91fb7d3cd67330946da5dec40e315f8556856821b"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/hallway.json"
+hash = "ae594321560651d1f2906ed405d326de0a6c2bd94f3cdca7451966206d13c6f9"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/statue.json"
+hash = "1c5626027efab63548d54a7fff9ee80b9742b18160f45b20a8ac5046e4987810"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/terminators.json"
+hash = "ec3a17c762c79f3da60bc0127e66331ab2f6a870f422ff06df5e1287470e3cab"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/treasure_corner.json"
+hash = "19883ff29186731a0ed440ff0f3e0ffac3eea407d8db1b78dafd7430968c5888"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/treasure_portal.json"
+hash = "d108ea6aa14552302cec48a60b57f0a3fdaf63777e48c78661becd5b7a7c1188"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/betterstrongholds/worldgen/template_pool/nether/treasure_wall.json"
+hash = "b31c5ef0a54c0b9d82f1f606815a32b84a1a414fbea57669d84a4b14e382d6d0"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/repurposed_structures/structures/strongholds/end/empty_crossing.nbt"
+hash = "3ad96bd972a9c439be864c635693a377daa704e3f7ed7ad416066b8a7c9b9162"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/repurposed_structures/structures/strongholds/end/portal_room.nbt"
+hash = "49a247eef2ff057759898cac58a4e3c8059c4267b85fbc1cd0ecd73cbf8d579e"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/repurposed_structures/structures/strongholds/nether/empty_crossing.nbt"
+hash = "9b51b3fd85f764661e184ef7e0a7c654483ca06f51a4ce3dde32856a7b218db1"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/repurposed_structures/structures/strongholds/nether/portal_room.nbt"
+hash = "5be239fb0f9161f5ca9f6a9c2d1d06cec2b5e5c0b41caf4543a165545cbd0795"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/repurposed_structures/worldgen/template_pool/strongholds/end/start_pool.json"
+hash = "c5a1c4f3c7ce0de95df002a921ff1190ee4bd75dd7bc5fbf9172c829d1e6bf8b"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/data/repurposed_structures/worldgen/template_pool/strongholds/nether/start_pool.json"
+hash = "6fd1c8c273417936e2a8160c5a826968697b46e734ad235d7f72920a023e28fa"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-BetterStrongholds/pack.mcmeta"
+hash = "ef9172cb4fe555f55cd8e839cb9b1084ced96b04e6227e729e1482b101a6601e"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/farmersdelight/structures/villages/badlands/houses/compost_pile_1.nbt"
+hash = "6b7d72fdb5f85ae9e18faf4f3f561af0995dc14397a24700f8a667d9029c4b02"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/farmersdelight/structures/villages/birch/houses/compost_pile_1.nbt"
+hash = "7136f014b8b3bad8ea39044e8b0d4ea75dfa2a40f7014e4c8db9ef65fc63db74"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/farmersdelight/structures/villages/dark_forest/houses/compost_pile_1.nbt"
+hash = "f256825118f7f084f498bb5e46a827a376303e429cad1e932ae386c3ab613b76"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/farmersdelight/structures/villages/giant_taiga/houses/compost_pile_1.nbt"
+hash = "572562e20cb4f7d9d4b023a5c02b5e0f6a1033cd08cc2e9d544a72a30d0e2be3"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/farmersdelight/structures/villages/jungle/houses/compost_pile_1.nbt"
+hash = "ac4d7aeffff101f8ab90cdb36ddc86c6041ca6128c0978a2c5d8ffdb9cae1e3a"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/farmersdelight/structures/villages/mountains/houses/compost_pile_1.nbt"
+hash = "8b9ba29054a73cfc5dfa27eaaff48d30f33676cb56f06eee29f5eb2567810328"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/farmersdelight/structures/villages/mushroom/houses/compost_pile_1.nbt"
+hash = "7ddb7555866db3d464d818a2f19b706730655ae11510dea3a0682cb47fe07707"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/farmersdelight/structures/villages/mushroom/houses/mushroom_farm.nbt"
+hash = "a9b92943b59afc7b65ee0e64db12b665c0676975978e154681207b6af6981bb2"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/farmersdelight/structures/villages/oak/houses/compost_pile_1.nbt"
+hash = "56bbad00089fe486063715e41483d2dd1fb9552d32d3a88b0d3bd4c39679de04"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/farmersdelight/structures/villages/swamp/houses/compost_pile_1.nbt"
+hash = "326607dfd6c86c31c1c5d61a03c01bf45f204b8f6bf3a2135bb2547d980394fb"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/pool_additions/villages/badlands/houses.json"
+hash = "acc610a123f7131387d0df6c387be91cd817386f9d1049cc805dd218378099ed"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/pool_additions/villages/birch/houses.json"
+hash = "bae18b4195d68f323faa3558791668e5fe3e7da8952b431350074d16116f8068"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/pool_additions/villages/dark_forest/houses.json"
+hash = "1a26190e016bffb1a40cee1ad5ff200b7fad2921aee2d8b36be5e34f2bf9501c"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/pool_additions/villages/giant_taiga/houses.json"
+hash = "6086fe66457c7097c3a22eac9779d2105522565f9d80ff7eabee263b39c817bc"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/pool_additions/villages/jungle/houses.json"
+hash = "04b06d99d3e36fb1a0979facf7a9439c18d94b22595d99d37ddbe4549db14614"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/pool_additions/villages/mountains/houses.json"
+hash = "18098dd675020bdccf2dc6fb5e0da709449e1d583155dd9fbe627dee4f5e08b6"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/pool_additions/villages/mushroom/houses.json"
+hash = "ffa006eb0d84e13b1e0a2e624bfe9bd7c6c767e50dfadf1398894c18804d5904"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/pool_additions/villages/oak/houses.json"
+hash = "a94d2e1c79e147f29c9ef102d2f398d9ce19707ec4c7df437e2fff4e72b961e3"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/pool_additions/villages/swamp/houses.json"
+hash = "89dce3be18a46320f11ced689a7c85a30c79724129911233d50c5ef7c7209082"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_badlands.json"
+hash = "bb7e1fb9a4fef6fbae44c79fe9328bd4ac20128781f92ec9e64e17b4640352bc"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_birch.json"
+hash = "092ce8cfcfb0b36b7e0e193a6f0f6cd8f5170debcb6c8008375145641a8259b7"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_dark_oak.json"
+hash = "3582d10023894c8fcae6bb81a08173dfdcc5607e03adf77b67fc2bce94a9e516"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_giant_taiga.json"
+hash = "386b59e91ac53b4d7f2838cd949ae7b9de55a4cd3dc123d8bb31e31eb1ac9719"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_jungle.json"
+hash = "36a674771ffc95ee0ad0d52420ae69a40343d94e64147ef9be84633fd4ccdcac"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_mountains.json"
+hash = "3d12d87660c3621c8234f5dbe1a5f824bf7649268987779a0c2ff80000e45b5a"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_mushroom.json"
+hash = "8f391b795c258f1ae0e679d6a328e427c952b4210c4d9559ceeb6904a38e048c"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_oak.json"
+hash = "594001c78b4f83afcf310bccb9a9fb452cba97740b6aac388d076a6fec168246"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_swamp.json"
+hash = "538fd396a5dba3e480b2d09f65660645472e225ce9e9f99c4f9380018ef3aff5"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/worldgen/processor_list/villages/badlands/crop_randomizer.json"
+hash = "13a226855761bd8e05604d1854f732894a3d82aecbacb9a837c06b1c8f49dd50"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/worldgen/processor_list/villages/birch/crop_randomizer.json"
+hash = "9e71d976c45855747e4bf8414cec9d5a5ea485cc2d056a9b18dd551c2085b6a6"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/worldgen/processor_list/villages/dark_forest/crop_randomizer.json"
+hash = "9f134ddf3d845dc44a1c561759d0f1b578ba0c93af7dadad8ead41f1836aa3c3"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/worldgen/processor_list/villages/giant_taiga/crop_randomizer.json"
+hash = "7eb9e4f16a974a9b767b95910b2523ca27f44753f6ad4997084a303959a0c539"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/worldgen/processor_list/villages/jungle/crop_randomizer.json"
+hash = "c22af0c8e3ec5a3aae119d517b48b24166db1821d40e93034717936907e11953"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/worldgen/processor_list/villages/mountains/crop_randomizer.json"
+hash = "118ae0b1854fa63b59ecd6e0cfb0b2e8db64c380ae906c0701ab20ac6123d251"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/worldgen/processor_list/villages/mushroom/mushroom_randomizer.json"
+hash = "c72c37f823304900abccdd37147323804ce89ced9ff27af0c8bbc8c29959a696"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/worldgen/processor_list/villages/oak/crop_randomizer.json"
+hash = "f58fe53b37a7e03f2802d20a3ea4d50543f719694ab7ce176b8a1b0605368b9b"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/data/repurposed_structures/worldgen/processor_list/villages/swamp/crop_randomizer.json"
+hash = "0641b43379c1ca62113d20c5223f97a69a9b92fb2926e4f6b63e01b39cc172ab"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-FarmersDelight/pack.mcmeta"
+hash = "53e50123edddc4834dc10a1de6e8bb9b1a769f9ecb6fe5c3897a0d3fa42e2c18"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/outposts/badlands/features.json"
+hash = "bb034353193276098d69b3277973867df338fc93921e63ff7c323b47c4db6774"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/outposts/birch/features.json"
+hash = "b750d300e28be7f926b8ea5d3a08ca6504e1d52eb0d6e792bb09c76379746161"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/outposts/crimson/features.json"
+hash = "d43ca8f334cd36ef4156ef28d1c158112ea0a93b163835f7bd46c41dd8f55fcd"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/outposts/desert/features.json"
+hash = "56de7522e9d137608b8742ae6f748359aac3484a339303de961ca801f4ff40a5"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/outposts/end/features.json"
+hash = "13afc5f1d8e2712856048e28bebb89e4ee194256ac8326d0054d431e0c2b7e23"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/outposts/giant_tree_taiga/features.json"
+hash = "ee1e66b2452280d9bc31219096179d410804e94e7740fa261ec105aa4a9eda43"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/outposts/icy/features.json"
+hash = "e281d072a3c2099bfbb4c2e3fd9a0e5070671318d195917eb4af129c834eb9f3"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/outposts/jungle/features.json"
+hash = "062a98f98cdbd0ca8b6006fef4ccb52a20ddf968f61a54df725ee0bc5173de2f"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/outposts/mangrove/features.json"
+hash = "abe780363d2e7cfba1257983555d3935f22a982abf0cbef0d235f230e9879516"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/outposts/nether_brick/features.json"
+hash = "d43ca8f334cd36ef4156ef28d1c158112ea0a93b163835f7bd46c41dd8f55fcd"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/outposts/oak/features.json"
+hash = "98f2a78affd3ea41c405f97232d98809982a3164e03c36b5627c08e2107e7366"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/outposts/snowy/features.json"
+hash = "090d30f2130a4c384202e6f3a913d81de57b1f7cad747831531f529d02eeefd8"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/outposts/taiga/features.json"
+hash = "926b834fd714cc23d2680c0fabd20f0049cace70c5d6d40b599af8fee25589a1"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/outposts/warped/features.json"
+hash = "0822509806a5405759d622fce9057c4b47b466062aad78004b57f6f3aa5159d1"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/villages/birch/zombie/villagers.json"
+hash = "7ae9f6793d149741a44dd7f06920e58ade689ea50270ba197cb3b72ac2510f22"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/villages/dark_forest/zombie/villagers.json"
+hash = "83cc7486ed0467df357e93901f47ae56a7d493b74e36c4ba6ca6e390835b7805"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/villages/giant_tree_taiga/zombie/villagers.json"
+hash = "e35c46793badf6150753d33ea913dbf45ef671c65d1805a6e7e4e367e23fc013"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/villages/jungle/zombie/villagers.json"
+hash = "cd1aa90107066a3c80ce71234795add87638c82645f9e0ba24505c8d7bdeffb1"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/villages/mountains/zombie/villagers.json"
+hash = "bd1f752ad7d001749233ea6c21ff0b809662884ae7599315e89548c9a3852152"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/villages/oak/zombie/villagers.json"
+hash = "69c58119922a92a047584642534f7a52fc416452e4aa5a8e5c6a779ddff5edf4"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/pool_additions/villages/swamp/zombie/villagers.json"
+hash = "3db9e0c48fe8db3148982452f0b2e20a33492d9acfda85286cb8fcbb11e92801"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/badlands/base_plate.nbt"
+hash = "1fa72bf7f4c307cd90dc66ae79d69328c086df3376462a9d04cf4bc1740f2231"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/badlands/watchtower.nbt"
+hash = "6cc29d69880c41e2d9b387feedd714e3e26f020b44a556674c1089ffb64eb4d5"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/badlands/watchtower_aged.nbt"
+hash = "fc525d5fef799200fa0bfc9fce903d11237248df9bc16e6e6e91534c59366978"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/birch/base_plate.nbt"
+hash = "e12a350f1790f4b15b56002cbf75eab214d01f5066b1aabca09b09773fb24665"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/birch/watchtower.nbt"
+hash = "9b95d5055c9ee8b00570f84cf991ad07754a6ef170fe046ffad1eca2bba5422c"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/birch/watchtower_aged.nbt"
+hash = "986dd07d5f5cdfe8d79efbfc1a834b60d73ee0c40fe34e9d331f8afeabd2dca5"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/crimson/tower.nbt"
+hash = "cae30500c05916c83b3abc70f1f911babf94ea0b62c2b727bf54eaf684b6d973"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/crimson/tower_aged.nbt"
+hash = "7cd2998a9209d37d8528c56c8c54027d5c1d4498d766d6346395acf7e39fae5c"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/desert/base_plate.nbt"
+hash = "de344a77a5fdca0885726d570f5265aebc6c57881f41e79b50088fe19471dbc2"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/desert/watchtower.nbt"
+hash = "14d862ba2f84a190b44ebf99a9f04ac0be9d7a01c2401915b818347c9a3dce95"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/desert/watchtower_aged.nbt"
+hash = "afe0e7cecff851c0d29b8887de67363cab21c929ab1838420ba13bc989d10cee"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/end/watchtower.nbt"
+hash = "82db6f6501a37261013b931a8720e302f5eb02389c7daa8e92ad8549a859c71e"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/giant_tree_taiga/base_plate.nbt"
+hash = "3fb051d9b23379da8cbdda4c714d500e0b0081e67c673a8ce881c6ddee261cf2"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/giant_tree_taiga/watchtower.nbt"
+hash = "f7d10d4268618f475d553aac706a52a328e5d2b668ba5f0d1aabc69a60416802"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/giant_tree_taiga/watchtower_aged.nbt"
+hash = "126969984e316aae9bb3babacd1d724e1f7088dd3726e1d2c043bca22941f795"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/icy/base_plate.nbt"
+hash = "f79fd5b4902cdf59c0c84c787c6904d6b4fd8fd6e8ae4394ddb3102c610c4997"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/icy/watchtower.nbt"
+hash = "28609dab92c671f80702870de0769589d7722b50cbae55b2db5a1671c6e60dbd"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/icy/watchtower_aged.nbt"
+hash = "1a89635c991dca7ec5c2e3ece59a96e1c48c6538144a009afbda0de4e303d94e"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/jungle/base_plate.nbt"
+hash = "97a2bd3fc09c8a284a28dff3359b56b70815b9e4074a6a7deb7f804296868747"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/jungle/watchtower.nbt"
+hash = "de7d1c33a2abd44428e69950e2a63d858983cfbd6de15b918d11a69e0e052f2c"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/jungle/watchtower_aged.nbt"
+hash = "3342e19c3857c032512a81d6c26ef3fa188931a9fed22dc4c7ebe4527653e4e0"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/mangrove/base_plate.nbt"
+hash = "ef2e929686c9eb24a48125238d048b3b0a86a38b75fc968aac33659bc7560bad"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/mangrove/watchtower.nbt"
+hash = "51b990fefbca176612a4fb77251b3f5fb9c95f9b564eebcb6f000289f3e249bd"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/mangrove/watchtower_aged.nbt"
+hash = "2cc6375b7a895ac33ab115a43051441c79e44967cf311871c40599a82ab47b98"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/nether_brick/tower.nbt"
+hash = "6d2cbb2c502fdc5e6342e48f43b560c796b2a7737a99c8901c76a1b5fd95b9d0"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/nether_brick/tower_aged.nbt"
+hash = "8ee5ddfee851d3bfe671dc6205812a782431afa5b6c479adebf641569ac0c343"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/oak/base_plate.nbt"
+hash = "4328639d17d2ea93609e6529abf5837a1a2637e77eb8d533928edfcdcfd75386"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/oak/watchtower.nbt"
+hash = "018e2009800b5a57aefa8918db29d7b0d4035e023acc4960bf034ee3dbe2d913"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/oak/watchtower_aged.nbt"
+hash = "f586b341b508acc4006789ab999c33cc87a0f26961359fb929c1e257a0164b61"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/snowy/base_plate.nbt"
+hash = "450cf1caa2844cd86b3eb24b86cbb0325802d950fb7cf77c295b232957143f4a"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/snowy/watchtower.nbt"
+hash = "a649f9293519750ad02dfd0ad166451dff7238bcb349ac6558858c24851e0a5f"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/snowy/watchtower_aged.nbt"
+hash = "3d1454199ac5f7b083b6fdef20f8051608ef5ac581c46ea5e40e78f08da41a90"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/taiga/base_plate.nbt"
+hash = "90fe8305b3ae021d31e5a862162d683376a05636779c2e9d146a847e41c8a001"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/taiga/watchtower.nbt"
+hash = "88eb435b7363552ee42500cd481c57a231ba566588ee8c7b70faddacde816d76"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/taiga/watchtower_aged.nbt"
+hash = "60ac96fa854761bb4cb592fa00a62aa4600f173c7095008e61a53fd8eb309eb5"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/warped/tower.nbt"
+hash = "ff84a461c49b7ccc50badbcc87f71550af4037c2b39a9a4f3ac320be72fd881a"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/structures/outposts/warped/tower_aged.nbt"
+hash = "33a8d41e2fb70ce76759bcad14cef78c86ec8006a3a5cbfe2a95c6858df6ec48"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/processor_list/outposts/decay_terracotta.json"
+hash = "5875ef7f19ab6e69a0140211d4c0f016de00c9c7d08e7fad1880118fa47b35cd"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/processor_list/outposts/savageandravagefloor.json"
+hash = "2a3d126708ec6944b14749cd0bd2a687c70fbf1d3df3880f304843ec55468189"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/processor_list/outposts/strongly_demossify.json"
+hash = "5b4f4b6e659d35bb26fb0de83d5cf910c05eb0ac152c6966fd9fcdd7a796896a"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/processor_list/outposts/strongly_mossify.json"
+hash = "9d44135bff2d6a2bfd5cfa47cd99cfb0089f7beb429a4db64c9cc48c60b64184"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/processor_list/outposts/weakly_crying.json"
+hash = "de6882687a37389a76b12a7d43a0a36f8e4475ae713a400ffc0b8ae036890c43"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/processor_list/outposts/weakly_demossify.json"
+hash = "940eaacb8745bd8f7149ea7c3a70258200a5b2f27d6e6c362a12b282c3acd351"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/processor_list/outposts/weakly_mossify.json"
+hash = "718aac1410b65b441df83f6aaa30022875e29548f392ed3c857aea0032e9ee71"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/badlands/towers.json"
+hash = "7e47d7ea65615626363134e70ff94b316cb33e813fd4c4807e37a6cd4d6a6466"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/birch/towers.json"
+hash = "3ab341609c8d554f2593b66ec7495a66e5d3557e3161881b393533e95ad83af4"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/crimson/towers.json"
+hash = "303c0050e451ce3b8b2c641101f48509acda7c49ff8b64b74597f1038719e405"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/desert/towers.json"
+hash = "e63eab08539ec29edf54d6bd80c184d8fe926430f0cd25710da5046786612b5c"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/giant_tree_taiga/towers.json"
+hash = "b2c05d73afe4eeec5bb7f280f45171a769354645a04c375dceb218e9d51430ae"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/icy/towers.json"
+hash = "202d23ed748be0affdb86b119954a9263269f926623e8bd4767602d06878d481"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/jungle/towers.json"
+hash = "7258e65acf64c614093a13314628f483d9b5a18d750eb32ddc51e41a52fc5a05"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/mangrove/towers.json"
+hash = "e79b6537d1cd73746714bfaa90792fc508eb05fddca594827cb3a1b83d725c7c"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/nether_brick/towers.json"
+hash = "d67143edceaacac5b36e41fce8fb6991abd753b0df56a797f602b7741ffb9983"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/oak/towers.json"
+hash = "01b31c0dfacd04017d74af2f9f9ec2666493869dec065893753d6b66ad8da598"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/snowy/towers.json"
+hash = "21fc3395704874d8e992fe004f32c216b42b22de0714f25d7a0dbbceeef025ad"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/taiga/towers.json"
+hash = "d35a6f2e221318f9f5402ebe00f5a3fcf497a22b790f566ad76cc5cb2ad45ba6"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/data/repurposed_structures/worldgen/template_pool/outposts/warped/towers.json"
+hash = "51ab2e48f9b9fdee24203880f1e205fb058b4dea041a2445494c497befc85926"
+
+[[files]]
+file = "global_packs/required_data/RepurposedStructures-SavageRavage/pack.mcmeta"
+hash = "017a5a8c81e45495c4a73b2ca3696bcbb56e3949707bb7fcbe636c574c03d832"
 
 [[files]]
 file = "global_packs/required_data/Tercellation/data/tetra/tags/enchantment/additions/armor.json"
@@ -13630,7 +13630,7 @@ hash = "5e1f6a3323a5b1d2dbb3f0d10cd63a657f3f27b7820ca691048c6083ea128184"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/loot_tables/tower_chest.json"
-hash = "ee55eef8185f37af1b0aed5fccbd1e0b406844d3dad212c757062c222b649f00"
+hash = "677a03bcff294a3786819cf521c0191d5fda68de17eaae5faf25877c7a580683"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/derelict/derelict_tower_bottom.nbt"
@@ -13722,7 +13722,7 @@ hash = "aa7b47a50b46aa463b8d6344f18d99656cd09068a779a5f34825bc680082a66b"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/tags/worldgen/biome/has_structure/ice_tower.json"
-hash = "642ed03965cdc3df3a397dee82df3da346bcc6e8b12e9b2b7265d4ca05ba49fa"
+hash = "24be1a40c07f41b18da8519eff8ce75e3d9dcf6bdb866ea4b45e41aaa3485165"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/tags/worldgen/biome/has_structure/jungle_tower.json"
@@ -14963,6 +14963,14 @@ hash = "1b2b8d864d2d208236729e1e266203a51480eba4e58f2aa1f2ea12d4dbec57a8"
 [[files]]
 file = "scripts/miscchanges/latticefix.zs"
 hash = "e3147c76d26e3b0bb0450e0d0ad2c2255e1cdf3f41729aa0226725a6f6654558"
+
+[[files]]
+file = "scripts/miscchanges/remove_createstufftools.zs"
+hash = "ab30bcff7b088626cb097539850d495818493774dd8decee280d37f4f9cf3fcf"
+
+[[files]]
+file = "scripts/miscchanges/rope_fix.zs"
+hash = "72bdf36de6dac1f5b5ba82366e653ddbcaada6091fc4a19b4178592fae156d4d"
 
 [[files]]
 file = "scripts/miscchanges/startinginventory.zs"
