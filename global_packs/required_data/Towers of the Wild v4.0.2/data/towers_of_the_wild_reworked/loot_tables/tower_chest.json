@@ -100,15 +100,6 @@
           "name": "minecraft:map"
         }
       ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "paraglider:paragliders"
-        }
-      ]
     }
   ]
 }

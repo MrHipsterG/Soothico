@@ -95,10 +95,10 @@
 		Treasure = true
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
-		"Max Level" = 3
+		"Max Level" = 5
 		#Adjust this value to set the health granted per level of the Enchantment. (There are 2 health per heart icon.)
 		#Range: 1 ~ 10
-		"Health / Level" = 4
+		"Health / Level" = 3
 
 	[Enchantments."Ender Disruption"]
 		#If TRUE, the Ender Disruption Enchantment is available for various Weapons.
@@ -120,7 +120,7 @@
 
 	[Enchantments.Outlaw]
 		#If TRUE, the Outlaw Enchantment is available for various Weapons.
-		Enable = false
+		Enable = true
 		#This sets whether or not the Enchantment is considered a 'treasure' enchantment.
 		Treasure = false
 		#This option adjusts the maximum allowable level for the Enchantment.
@@ -244,7 +244,7 @@
 		Treasure = true
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
-		"Max Level" = 3
+		"Max Level" = 4
 		#Adjust this value to set the chance of an additional drop per level of the Enchantment (in percentage).
 		#Range: 1 ~ 100
 		"Effect Chance" = 50
@@ -298,42 +298,42 @@
 		Enable = true
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
-		"Max Level" = 4
+		"Max Level" = 5
 
 	[Overrides."Blast Protection"]
 		#If TRUE, the Blast Protection Enchantment is replaced with a more configurable version which works on more items, such as Horse Armor.
 		Enable = true
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
-		"Max Level" = 4
+		"Max Level" = 5
 
 	[Overrides."Feather Falling"]
 		#If TRUE, the Feather Falling Enchantment is replaced with a more configurable version which works on more items, such as Horse Armor.
 		Enable = true
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
-		"Max Level" = 4
+		"Max Level" = 5
 
 	[Overrides."Fire Protection"]
 		#If TRUE, the Fire Protection Enchantment is replaced with a more configurable version which works on more items, such as Horse Armor.
 		Enable = true
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
-		"Max Level" = 4
+		"Max Level" = 5
 
 	[Overrides."Projectile Protection"]
 		#If TRUE, the Projectile Protection Enchantment is replaced with a more configurable version which works on more items, such as Horse Armor.
 		Enable = true
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
-		"Max Level" = 4
+		"Max Level" = 5
 
 	[Overrides."Fire Aspect"]
 		#If TRUE, the Fire Aspect Enchantment is replaced with a more configurable version which works on more items, such as Axes.
 		Enable = true
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
-		"Max Level" = 2
+		"Max Level" = 3
 
 	[Overrides."Frost Walker"]
 		#If TRUE, the Frost Walker Enchantment is replaced with an improved and more configurable version which works on more items, such as Horse Armor.
@@ -351,14 +351,14 @@
 		Enable = true
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
-		"Max Level" = 2
+		"Max Level" = 3
 
 	[Overrides.Looting]
 		#If TRUE, the Looting Enchantment is replaced with a more configurable version which works on more items, such as Axes.
 		Enable = true
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
-		"Max Level" = 3
+		"Max Level" = 4
 
 	[Overrides.Thorns]
 		#If TRUE, the Thorns Enchantment is replaced with a more configurable version which works on more items, such as Shields and Horse Armor.

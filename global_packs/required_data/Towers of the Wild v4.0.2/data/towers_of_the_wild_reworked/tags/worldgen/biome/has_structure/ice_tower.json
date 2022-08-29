@@ -3,7 +3,11 @@
     "values": [
         "minecraft:snowy_plains",
         "minecraft:snowy_slopes",
-        "minecraft:snowy_taiga"
+        "minecraft:snowy_taiga",
+        "byg:frosted_coniferous_forest",
+        "byg:shattered_glacier",
+        "byg:frosted_taiga"
+
     ]
 }
   
