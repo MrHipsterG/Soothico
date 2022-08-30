@@ -264,7 +264,7 @@
 	#Silkworm spawn config.
 	[mob_spawns.silkworm_spawn]
 		#Whether or not silkworm eggs drop from leaves
-		leafDrops = true
+		leafDrops = false
 		#Chance to spawn whenever a leaf is broken (1 in X)
 		leafDropChance = 65
 		#Chance for silkworm eggs to spawn a silkworm (1 in X, 1 is guaranteed)

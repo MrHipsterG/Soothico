@@ -10,7 +10,12 @@
         "minecraft:desert",
         "minecraft:swamp",
         "#minecraft:is_mountain",
-        "#minecraft:is_hill"
+        "#minecraft:is_hill",
+        "#byg:is_badlands",
+        "#byg:is_forest",
+        "#byg:is_mountain",
+        "#byg:is_hill"
+        
     ]
 }
   

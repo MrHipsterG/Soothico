@@ -8,7 +8,19 @@
         "minecraft:forest",
         "minecraft:swamp",
         "#minecraft:is_mountain",
-        "#minecraft:is_hill"
+        "#minecraft:is_hill",
+        "byg:autumnal_valley",
+        "byg:sierra_badlands",
+        "byg:coconino_meadow",
+        "byg:firecracker_shrubland",
+        "byg:allium_fields",
+        "byg:orchard",
+        "byg:prairie",
+        "byg:amaranth_fields",
+        "byg:rose_fields",
+        "byg:temperate_grove",
+        "#byg:is_hill",
+        "#byg:is_mountain"
     ]
 }
   

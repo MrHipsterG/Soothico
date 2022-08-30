@@ -1170,7 +1170,7 @@ hash = "3f5933692142b06f8c65e1a421a4eb1bc21ffb065e95662eb3b6987a9b35da1c"
 
 [[files]]
 file = "config/snowrealmagic-common.toml"
-hash = "20d8376b9b18d8b1d5f9afee5e1eec0a3e2743fe1d7976ddbaba49d663b14d62"
+hash = "23275ade91148ff759229c7a7e9d58e24c22243b577f861755a3bfb070e185ac"
 
 [[files]]
 file = "config/solcarrot-client.toml"
@@ -1442,7 +1442,7 @@ hash = "0c1fc4076bc09094afc3e40f0b2949e85478a4c4fd83db7ffcc3f287fabd752b"
 
 [[files]]
 file = "defaultconfigs/paraglider-server.toml"
-hash = "41d84b2a57b7c30d9dfb8a32adf0d83ca553eb2080bc5a30b3c2f541fb2c9088"
+hash = "6b3437695faf06e35ee9189b84ab34432b5aaca9105e51eb210285b0051801b2"
 
 [[files]]
 file = "defaultconfigs/sereneseasons-server.toml"
@@ -1450,7 +1450,7 @@ hash = "178df75aa7422fee60bda0c0dc85699492e6d901532ec1ee28b0a4556473aaa8"
 
 [[files]]
 file = "defaultconfigs/snowrealmagic-common.toml"
-hash = "4e55b5f907eefbc832894f18d8deb9c01f21cb43279e181cf71d15156dc0b386"
+hash = "23275ade91148ff759229c7a7e9d58e24c22243b577f861755a3bfb070e185ac"
 
 [[files]]
 file = "defaultconfigs/solcarrot-server.toml"
@@ -13630,7 +13630,7 @@ hash = "5e1f6a3323a5b1d2dbb3f0d10cd63a657f3f27b7820ca691048c6083ea128184"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/loot_tables/tower_chest.json"
-hash = "677a03bcff294a3786819cf521c0191d5fda68de17eaae5faf25877c7a580683"
+hash = "c13b7f6396e22aa27cb11c8e645790ebfddcac11d8cd17076326d9aee2ee63f7"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/structures/derelict/derelict_tower_bottom.nbt"
@@ -13714,23 +13714,23 @@ hash = "da85d9260c57d962eec740fbaf415d4f96d646e9684403a23be4714167a5cec4"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/tags/worldgen/biome/has_structure/derelict_grass_tower.json"
-hash = "e0db1d5ad610d7e420f71092654a6a665e51f0161b508ac5d3072b5649e25b7e"
+hash = "a08fc137f05b4d4ab39cde6b7c6cd4d229a711e30d40c9416629bf11920f50dd"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/tags/worldgen/biome/has_structure/derelict_tower.json"
-hash = "aa7b47a50b46aa463b8d6344f18d99656cd09068a779a5f34825bc680082a66b"
+hash = "9b193abc90ae7f27b47371b9426818af229fd5760729046b0fc6a0f88945425f"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/tags/worldgen/biome/has_structure/ice_tower.json"
-hash = "24be1a40c07f41b18da8519eff8ce75e3d9dcf6bdb866ea4b45e41aaa3485165"
+hash = "0295c47a59fcab2e78026999f43d670d141fe37bf41e9c0b8a0a8849449d1da0"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/tags/worldgen/biome/has_structure/jungle_tower.json"
-hash = "9ae515de2e3ed2cd6c308ce57551050b7f444d080269054cd515f42eea223d88"
+hash = "00a083b9d407fe97e10c421824bfc02e034d16ff8f254ff68faa79d2c8b0bf67"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/tags/worldgen/biome/has_structure/regular_tower.json"
-hash = "0e10388aacd2deccfe03c7a0cf93505974df599fc50ce5ebd51bf18468c9b004"
+hash = "254ae9722f363c3cd00c7518767af43c0c0ddbc6d997baaf5c5f34ef303341b9"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/configured_structure_feature/derelict.json"
@@ -13754,23 +13754,23 @@ hash = "5008af8cc3779246648767bb24f4a9ed19decbfa09fbdbb0f3e23da2bbcbca87"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/derelict.json"
-hash = "dda1021079015855a9f48584cf46de742c2fd7365dcac7c867ca3ac53534b583"
+hash = "5cd2d569d2a38787ba88cb16ca05c652026cd3d08fd609f46a9d28f7c6043c2a"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/derelict_grass.json"
-hash = "79b29494248a3c15d42e20902d8467bf49f1941a84ead1ef10ad3b9372437bef"
+hash = "9d769c7c588d1c5de1c1ee843cdc02fb8902b947b330c9713ff2ef1297473bb3"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/ice.json"
-hash = "6e3e32e83e585a382cbca973ce244d891553b93c90fe1efa0511f213bce3002b"
+hash = "9b59678d4d8491be4c680f86018b7cda72f4d9f865f034513a6cb4ebd932524b"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/jungle.json"
-hash = "b61916e20b90a1afa85c2075995f6bcb74c2d8fd12dae38e7fc729480cd868a4"
+hash = "85ca1c81afa13fab62725f96356f11b3aa7e17f5befedf10d0b4251f29098b03"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/regular.json"
-hash = "0b749d2a88e0298831b1f09fa6ce1dcce599b784f923de5beda50af85dbb9f35"
+hash = "68189b9263c0dc8bee9f0fee49ee3f42ec7220982ad61cbed0c9cc1866c05f79"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/template_pool/derelict/bottom.json"

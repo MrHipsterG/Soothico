@@ -1,7 +1,8 @@
 {
     "replace": false,
     "values": [
-        "#minecraft:is_jungle"
+        "#minecraft:is_jungle",
+        "#byg:is_jungle"
     ]
 }
   
