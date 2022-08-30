@@ -1418,11 +1418,11 @@ hash = "56d2d8f8b8760fc2892ebf6523f17fa10836acfa5a276a96322d1a392aee2486"
 
 [[files]]
 file = "defaultconfigs/mysticalworld-common.toml"
-hash = "5987897c4bcfd1052ad1a755bcf8c571f0ec429270d4da7dbdd493d261b143e4"
+hash = "5cdd185801abf6c957aa81b6e7f872d8bd8429607f99321c04eec0dbc3e2d483"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
-hash = "c9fe9017db16fe8b983219796f65dd2c0d89d62391f561de1542a09501aa872c"
+hash = "ba2378425520d3c0178cfcc8a67e33f32db24523da2f78cc08343704f96f13db"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-expired-claim-config.toml"
@@ -1434,7 +1434,7 @@ hash = "c9fe9017db16fe8b983219796f65dd2c0d89d62391f561de1542a09501aa872c"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server.toml"
-hash = "4405b67391fe36a9d1a3637a0274f50178fde5ec5cef70be087c63bd3e1a994e"
+hash = "aff3d4ca1367cc123b8c8669e9ef0df99c7bdcac869f8ae6d1479877fe45e70f"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
@@ -1442,7 +1442,7 @@ hash = "0c1fc4076bc09094afc3e40f0b2949e85478a4c4fd83db7ffcc3f287fabd752b"
 
 [[files]]
 file = "defaultconfigs/paraglider-server.toml"
-hash = "6b3437695faf06e35ee9189b84ab34432b5aaca9105e51eb210285b0051801b2"
+hash = "683d593eeab4daa4950eec9eafed74cd9d6711c18f267c9c164efffd50d6e4cc"
 
 [[files]]
 file = "defaultconfigs/sereneseasons-server.toml"
@@ -14702,11 +14702,6 @@ hash = "ed39b1964751b303f2d943f8a69a89d70792ed657c25c61f45d8ca13cb19906c"
 metafile = true
 
 [[files]]
-file = "mods/snow-real-magic.pw.toml"
-hash = "e29523e1e858e44c58d1a512999e632db6213dc806451625bdcc69e8d86b96b1"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "22b35352113cd9bc6a06aad0eb15b8c9a1568f35e773b961790f7102e921ca97"
 metafile = true
@@ -14999,6 +14994,10 @@ hash = "7f9bc4b422c179799e6336ee274eba78709f3007285f4023f172124e0658d280"
 [[files]]
 file = "scripts/recipes/deepslategeodes.zs"
 hash = "7525a69d50a3f0f6542104ea9a67600c9edb45cd5225de780f2b59141a64bfc6"
+
+[[files]]
+file = "scripts/recipes/holosphere.zs"
+hash = "ec88fccf1d25dcbad546a6b04a2296471f0a6c87555d19f98265dc732213250e"
 
 [[files]]
 file = "scripts/recipes/knife.zs"
