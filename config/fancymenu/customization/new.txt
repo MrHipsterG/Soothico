@@ -237,7 +237,7 @@ customization {
   width = 108
   action = deep_customization_element:title_screen_branding
   actionid = f4b42e1f-bcdd-4606-b005-ebd29b5d623a1657409550814
-  y = 647
+  y = 678
   height = 40
 }
 
@@ -248,7 +248,7 @@ customization {
   width = 228
   action = deep_customization_element:title_screen_forge_copyright
   actionid = f5c7e0a5-a600-4834-a7c1-a3c59c6549dc1657409550814
-  y = 669
+  y = 700
   height = 9
 }
 
@@ -353,6 +353,6 @@ customization {
   y = 101
   scale = 2.0
   alignment = centered
-  value = 2.11
+  value = 2.2
 }
 
