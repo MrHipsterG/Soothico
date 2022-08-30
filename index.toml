@@ -729,10 +729,6 @@ file = "config/ding.toml"
 hash = "158789b958e7550badcfce80dde463b94c240608d2d62e2c4cf6c720682b07ca"
 
 [[files]]
-file = "config/doggytalents-client.toml"
-hash = "3a739a53579778bac160ddba1e99e92aac8ee5248ed2768bf2634b1fd239b11d"
-
-[[files]]
 file = "config/drippyloadingscreen/config.cfg"
 hash = "4ae9091d828f88b767fa971b38551cd46076efa362e4643c225624a65f8a3b01"
 
@@ -838,7 +834,7 @@ hash = "b5cffd3794b18b349f7ac80f1874cab33ba98e94f43178040ee617d044b2f883"
 
 [[files]]
 file = "config/fancymenu/customization/new.txt"
-hash = "1456b2080616448bb4faa6597ddcbe0218aaeca3902b08c1b08b87a871669808"
+hash = "8b1c33be20f5a610259c77ec920a4202a049b20ed0d321b5b9089c462daedb53"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
