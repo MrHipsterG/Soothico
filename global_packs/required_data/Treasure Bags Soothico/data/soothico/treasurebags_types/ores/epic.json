@@ -1,0 +1,12 @@
+{
+	"group": "epic_bags",
+	"displayName": {
+		"text": "Miner's Bag"
+	},
+	"lootTable": "soothico:ores/bag/epic_table",
+	"rarity": "epic",
+	"bagColor": "#165777",
+	"bagOverlayColor": "#CD95C9",
+	"bagStringColor": "#D41EC8",
+	"dropsFromGroups": []
+}

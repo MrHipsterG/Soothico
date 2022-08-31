@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"weight": 80,
+					"name": "soothico:ores/common_table"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 20,
+					"name": "soothico:ores/uncommon_table"
+				}
+			]
+		}
+	]
+}

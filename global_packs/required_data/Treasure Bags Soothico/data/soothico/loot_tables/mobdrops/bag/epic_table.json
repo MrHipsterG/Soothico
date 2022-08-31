@@ -1,0 +1,30 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"name": "soothico:mobdrops/epic_table"
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"name": "soothico:mobdrops/rare_table"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "soothico:mobdrops/uncommon_table"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "soothico:mobdrops/common_table"
+				}
+			]
+		}
+	]
+}

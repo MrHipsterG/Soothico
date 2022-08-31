@@ -1,0 +1,12 @@
+{
+	"group": "uncommon_bags",
+	"displayName": {
+		"text": "Hunter's Bag"
+	},
+	"lootTable": "soothico:mobdrops/bag/uncommon_table",
+	"rarity": "uncommon",
+	"bagColor": "#981F1F",
+	"bagOverlayColor": "#DAF171",
+	"bagStringColor": "#F1ED71",
+	"dropsFromGroups": []
+}

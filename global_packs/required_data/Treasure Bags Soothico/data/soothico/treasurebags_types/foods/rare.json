@@ -1,0 +1,12 @@
+{
+	"group": "rare_bags",
+	"displayName": {
+		"text": "Chef's Bag"
+	},
+	"lootTable": "soothico:foods/bag/rare_table",
+	"rarity": "rare",
+	"bagColor": "#D1DA51",
+	"bagOverlayColor": "#94D1D3",
+	"bagStringColor": "#86EAED",
+	"dropsFromGroups": []
+}

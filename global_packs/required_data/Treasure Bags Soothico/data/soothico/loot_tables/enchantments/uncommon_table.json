@@ -1,0 +1,41 @@
+{
+	"type": "minecraft:entity",
+	"pools": [
+		{
+			"rolls": {
+				"min": 0,
+				"max": 3
+			},
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:book",
+					"count": 1,
+					"functions": [
+						{
+							"function": "minecraft:enchant_randomly"
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "create:experience_nugget",
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 10,
+								"max": 64
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

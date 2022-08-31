@@ -1,0 +1,30 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"name": "soothico:foods/epic_table"
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"name": "soothico:foods/rare_table"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "soothico:foods/uncommon_table"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "soothico:foods/common_table"
+				}
+			]
+		}
+	]
+}

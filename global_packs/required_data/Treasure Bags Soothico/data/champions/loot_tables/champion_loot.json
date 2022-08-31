@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "treasurebags:set_bag_type",
-							"type": "soothico:common_ores"
+							"type": "soothico:ores/common"
 						}
 					],
 					"name": "treasurebags:treasure_bag"
@@ -19,7 +19,7 @@
 					"functions": [
 						{
 							"function": "treasurebags:set_bag_type",
-							"type": "soothico:common_mobdrops"
+							"type": "soothico:mobdrops/common"
 						}
 					],
 					"name": "treasurebags:treasure_bag"
@@ -29,7 +29,7 @@
 					"functions": [
 						{
 							"function": "treasurebags:set_bag_type",
-							"type": "soothico:common_foods"
+							"type": "soothico:foods/common"
 						}
 					],
 					"name": "treasurebags:treasure_bag"
@@ -55,7 +55,7 @@
 					"functions": [
 						{
 							"function": "treasurebags:set_bag_type",
-							"type": "soothico:uncommon_ores"
+							"type": "soothico:ores/uncommon"
 						}
 					],
 					"name": "treasurebags:treasure_bag"
@@ -65,7 +65,7 @@
 					"functions": [
 						{
 							"function": "treasurebags:set_bag_type",
-							"type": "soothico:uncommon_mobdrops"
+							"type": "soothico:mobdrops/uncommon"
 						}
 					],
 					"name": "treasurebags:treasure_bag"
@@ -75,7 +75,27 @@
 					"functions": [
 						{
 							"function": "treasurebags:set_bag_type",
-							"type": "soothico:uncommon_foods"
+							"type": "soothico:foods/uncommon"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:enchantments/uncommon"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:musical/uncommon"
 						}
 					],
 					"name": "treasurebags:treasure_bag"
@@ -101,7 +121,7 @@
 					"functions": [
 						{
 							"function": "treasurebags:set_bag_type",
-							"type": "soothico:rare_ores"
+							"type": "soothico:ores/rare"
 						}
 					],
 					"name": "treasurebags:treasure_bag"
@@ -111,7 +131,7 @@
 					"functions": [
 						{
 							"function": "treasurebags:set_bag_type",
-							"type": "soothico:rare_mobdrops"
+							"type": "soothico:mobdrops/rare"
 						}
 					],
 					"name": "treasurebags:treasure_bag"
@@ -121,27 +141,7 @@
 					"functions": [
 						{
 							"function": "treasurebags:set_bag_type",
-							"type": "soothico:rare_foods"
-						}
-					],
-					"name": "treasurebags:treasure_bag"
-				},
-				{
-					"type": "minecraft:item",
-					"functions": [
-						{
-							"function": "treasurebags:set_bag_type",
-							"type": "soothico:rare_musical"
-						}
-					],
-					"name": "treasurebags:treasure_bag"
-				},
-				{
-					"type": "minecraft:item",
-					"functions": [
-						{
-							"function": "treasurebags:set_bag_type",
-							"type": "soothico:rare_enchantments"
+							"type": "soothico:foods/rare"
 						}
 					],
 					"name": "treasurebags:treasure_bag"
@@ -167,7 +167,7 @@
 					"functions": [
 						{
 							"function": "treasurebags:set_bag_type",
-							"type": "soothico:epic_ores"
+							"type": "soothico:ores/epic"
 						}
 					],
 					"name": "treasurebags:treasure_bag"
@@ -177,7 +177,7 @@
 					"functions": [
 						{
 							"function": "treasurebags:set_bag_type",
-							"type": "soothico:epic_mobdrops"
+							"type": "soothico:mobdrops/epic"
 						}
 					],
 					"name": "treasurebags:treasure_bag"
@@ -187,7 +187,7 @@
 					"functions": [
 						{
 							"function": "treasurebags:set_bag_type",
-							"type": "soothico:epic_foods"
+							"type": "soothico:foods/epic"
 						}
 					],
 					"name": "treasurebags:treasure_bag"

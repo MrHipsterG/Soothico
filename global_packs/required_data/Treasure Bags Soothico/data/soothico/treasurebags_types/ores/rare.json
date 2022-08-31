@@ -1,0 +1,12 @@
+{
+	"group": "rare_bags",
+	"displayName": {
+		"text": "Miner's Bag"
+	},
+	"lootTable": "soothico:ores/bag/rare_table",
+	"rarity": "rare",
+	"bagColor": "#165777",
+	"bagOverlayColor": "#94D1D3",
+	"bagStringColor": "#86EAED",
+	"dropsFromGroups": []
+}

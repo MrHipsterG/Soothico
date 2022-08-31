@@ -1,0 +1,12 @@
+{
+	"group": "epic_bags",
+	"displayName": {
+		"text": "Hunter's Bag"
+	},
+	"lootTable": "soothico:mobdrops/bag/epic_table",
+	"rarity": "epic",
+	"bagColor": "#981F1F",
+	"bagOverlayColor": "#CD95C9",
+	"bagStringColor": "#D41EC8",
+	"dropsFromGroups": []
+}

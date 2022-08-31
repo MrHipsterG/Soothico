@@ -1,0 +1,12 @@
+{
+	"group": "epic_bags",
+	"displayName": {
+		"text": "Chef's Bag"
+	},
+	"lootTable": "soothico:foods/bag/epic_table",
+	"rarity": "epic",
+	"bagColor": "#D1DA51",
+	"bagOverlayColor": "#CD95C9",
+	"bagStringColor": "#D41EC8",
+	"dropsFromGroups": []
+}
