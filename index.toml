@@ -3866,127 +3866,167 @@ hash = "1b876da1bb567d6855a2fc522fbed04eb2c5999034bf835778044410e2a28cae"
 
 [[files]]
 file = "global_packs/required_data/Treasure Bags Soothico/data/champions/loot_tables/champion_loot.json"
-hash = "3f73b1f66bdc60bb39c6cdd5723e9bb5c907e462162e5fff12d09958e03bed50"
+hash = "f388b8556815e27538ed0da1f2f6e0a97680975796da269a33c8586b7e282c06"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/common_foods_table.json"
-hash = "1d7161ea7a804fdfcbd023a31f9669c9e52b18b4a832d19c6c901ef85406f515"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/enchantments/uncommon_table.json"
+hash = "25225bebb79ca75e90626ea4e079d9f417e0c2cf87dd0d7c68876a70500e5696"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/common_mobdrops_table.json"
-hash = "0cba9fa2d2cbe1893ab59134637dee0ac3d802e97ad2263cfdb1057173f09eae"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/foods/bag/common_table.json"
+hash = "ab7e45615d4dba12b0a73fddeec0b62f7a328a3f6d278709111bc80e80867c7d"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/common_ores_table.json"
-hash = "2391cd1be589c70968744a36810725a94cc4c5e770b4bfb5c2e6099fce97a08b"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/foods/bag/epic_table.json"
+hash = "8f0c24af0deb52fab53ea036892c3a1640e5e9428facddca8fced9a5616559e7"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/epic_foods_table.json"
-hash = "a6b99487210bf63e646cc40336aa10f0ad8d1fe9fcaf5f00d57851175723b09d"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/foods/bag/rare_table.json"
+hash = "e9e5153f32061c5c75e0df395e04eb51bf63039a9d1f8f97149be5cadfa7efa9"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/epic_mobdrops_table.json"
-hash = "7b76bee5aeb900243d5f766c74bea804fac5cd527e1600a567001e7dfd93dd56"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/foods/bag/uncommon_table.json"
+hash = "d7319f21cf4619ae1d533907f271dc24177ad9c1dea7dfc46713f893efab9cf6"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/epic_ores_table.json"
-hash = "916a473107d18ab6b87b0ed116514da971da11c6333a298bd559c9293cece7ed"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/foods/common_table.json"
+hash = "3cc54ab27216415957e2bae341f30c1de7d3f3a43e87ae61d0b216c3fc7498e6"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/rare_enchantments_table.json"
-hash = "82c11591c66169bb8a29b930408b7b61216156a33c5ed5214305675916342e0d"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/foods/epic_table.json"
+hash = "3e703b9d9cce0fac3dd6fbe5123654d09ea8d85525bfa45eda0fc5a12a256355"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/rare_foods_table.json"
-hash = "9ac13c7d68c61883e505adf1872d080ec114abf9369cccf169676b7dc17ecc67"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/foods/rare_table.json"
+hash = "052f7f71b1061482fc5a047e5039375fa86362d244644938ac9ef99eb37d15dd"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/rare_mobdrops_table.json"
-hash = "2ec5a13f8efd5ed62ff8f1947f70d2d85f8c71b1d9c48a772d71b31563c2a649"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/foods/uncommon_table.json"
+hash = "450e19fedd9c30ded7a399480046f335c900383f99079b419aa0fc23775129b8"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/rare_musical_table.json"
-hash = "1ae5cf336f2c9c39fdb4b43658c17633fea0191a1dcb97af8964b13ba27dbcea"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/mobdrops/bag/common_table.json"
+hash = "7965cccb582d00dba70ef0b174de01fa8332e8f87b7a8983ea18456d5289a261"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/rare_ores_table.json"
-hash = "b8e43b2181d88f97e17fcb8be0cf6bc6b8178a0b4546a87fd952423eb40d6af2"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/mobdrops/bag/epic_table.json"
+hash = "10fb01b6256a4794724fd51fe0227dd2629536f053b0d2864ab9b67246504613"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/template_loot_table.json"
-hash = "46739b71ca545bab8b0e2704684af5598d518790a309cca29d4adf511b84ef67"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/mobdrops/bag/rare_table.json"
+hash = "442c6e33d18f2482f1357b8d012a06c6bf4168d7de43d82cb6af1d2986943b4b"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/uncommon_foods_table.json"
-hash = "aaaf8d684950b972ae1e69216a2f5c44e711ced99c4bffe3b6c7caed0f06dc10"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/mobdrops/bag/uncommon_table.json"
+hash = "10146e99474bacb2dde62968a4c3d5523ccdf80ee29255ba599c57fba96d2c08"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/uncommon_mobdrops_table.json"
-hash = "37abed345272bead4e6c33d5d1c6b8142ec7b130e22334d80e6c94e80d1303ad"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/mobdrops/common_table.json"
+hash = "6dadd2d6ec928b97588359d4ec7772895b62799e76ec901ab53d7d327f8d2087"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/uncommon_ores_table.json"
-hash = "aac6586741e73ba9ad0a385a3d387362c937f529c272e7c12e27572080625d56"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/mobdrops/epic_table.json"
+hash = "6c5f7dd54f8b22f8a9fb1533ef64f45e0066b145fd9b6eb3f671a60e5445d27d"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/common_foods.json"
-hash = "4599bd18541ed8c835d1b36fd9efef4cf7206d1dd67109b095879d806beb2d1d"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/mobdrops/rare_table.json"
+hash = "674413fed59f66693dae5ed5b3873e0950757a5a8e135b5e03600d3d4699fe1c"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/common_mobdrops.json"
-hash = "9cfa2bfbbdac93565ca6881b2569b765a1507fa748e518e54037c237d46cb0da"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/mobdrops/uncommon_table.json"
+hash = "e9d7ca2001f081e0a7a7db20492a7e5cf3b5292c871cbc2e5426e383e98aceb7"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/common_ores.json"
-hash = "d3d2acc424855c71d114e877b06bcd1a71191af57ac8834a56fa2afcb44fca58"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/musical/uncommon_table.json"
+hash = "9d6d88bbac451ad9b3095d22f17c75aa308e8135fb1f8288ee05122f369a295b"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/epic_foods.json"
-hash = "d1548cb6dea28f48a4d227a52660e3d0c69de1854e2d40fd5a740a555387cdd4"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/ores/bag/common_table.json"
+hash = "5bd347fee86f0bd48101bb0670c0ce8e078030dfffa6b30ecc8017351dd8997e"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/epic_mobdrops.json"
-hash = "ac545e76e6b013c44f5dab2f0373ca7624bb3eac296ea7a6670aab020d6abd4c"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/ores/bag/epic_table.json"
+hash = "0bdfbc7e4df39ba391d51d2a2db49836c044ce7aabffcc922a0c30da92ae9c44"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/epic_ores.json"
-hash = "c146155a8e5e31459bbaa2dcc3de5a47eabf2a1b91bc8d390e17a5e0b2e29d2b"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/ores/bag/rare_table.json"
+hash = "e247fe74703229211a20a084d6dddd676b60aa16a1e93b4866c7975e004f4677"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/rare_enchantments.json"
-hash = "a720be7975ef69a1f55efbff0337e9b357af9b71cd4c90201ded13f0831fbdfb"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/ores/bag/uncommon_table.json"
+hash = "e841de4be5fcdf1d36dbf9d75c83d57671ff606bba43b38dde088f55c1ada1e1"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/rare_foods.json"
-hash = "decc0a0ef785ccb254e6446250e93b27c51a7b8cd8ddb20e0bd0573d2835636b"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/ores/common_table.json"
+hash = "1cc58ad49863e74b2456059151063f2973f12647df8eb33f341655b6e263b36e"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/rare_mobdrops.json"
-hash = "69b7da0445709f6e17f7c9c8e8317cfb2cd07fae292a079ebc9475cfe47dc9bb"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/ores/epic_table.json"
+hash = "949c1a15adadc7d1873c758b55e1472f907eea47559f9be8656200384efdfa3d"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/rare_musical.json"
-hash = "b0eca91466e0f158dd417ef9b05a65fe4db75948a549f8daa18fc27d154c8dee"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/ores/rare_table.json"
+hash = "23fc7223d486a9d70470ca57b2f2de4cdb56d4cdeb941fc1f7c95afa049dc896"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/rare_ores.json"
-hash = "7792c12584b47555ac6213a48e5daa0590fbdd03602565f5e5d1c38ea7b54032"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/ores/uncommon_table.json"
+hash = "bbb7c3728127c8e80ded5995970862212fa2845bce24c37afc7d68c6aa6363d3"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/template.json"
-hash = "795a06e6292814135a7b311b8b102e94f4a03996ca8db8a599e0db5bb41b1115"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/enchantments/uncommon.json"
+hash = "fa37c731e161fdd779fa68689bd02ddb57b61268073bd3bb96abce12a362c759"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/uncommon_foods.json"
-hash = "3a86aeb358821fa6919a32e67aaf214050894cfd4caa68d8e9aad902bd64b822"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/foods/common.json"
+hash = "a21cdd04d70fa85a0377750f235503f400cf100bf63d384a5b46dab4ec6edfea"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/uncommon_mobdrops.json"
-hash = "4caf552e8e1b19e4561a74bc23494f48f96f54d380271cfc54c8c7f49afa795e"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/foods/epic.json"
+hash = "01f4afa1f313569285d727a67e3a4462dd38d64087f2d7b17b00c914c29ab384"
 
 [[files]]
-file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/uncommon_ores.json"
-hash = "c465cae653c98a83b028cd63298f9bdb51dc9cba2015472069a21b1fa7e8c0bb"
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/foods/rare.json"
+hash = "60fb255def2e41b9daa7e9d187fad5c7887330ab935856ad3663d3def6b0cdc5"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/foods/uncommon.json"
+hash = "b0dd1831c440f9aebfad2e14cef041680614f0b99f84ef5d6451818be0558384"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/mobdrops/common.json"
+hash = "87d644ab2f99973bb5704eb196181c5a2ca078cb7da30b83019de299c9d43afc"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/mobdrops/epic.json"
+hash = "9b7bbc96df78846cbe9c0f83d5c81dd5dad098ca428df53e85bc2682cdc1f0c1"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/mobdrops/rare.json"
+hash = "1fd557a922c8a970fa3de098f7cbe5537faaf11b350b4b18bd07707a06ea9b46"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/mobdrops/uncommon.json"
+hash = "10b80af6fb2dd70ef47664dffe547bc999537ac8d32ab8b82b5e0f74e0c0da36"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/musical/uncommon.json"
+hash = "5b8b52473ae6a209af95f9ec80b0798ea45663de9f76a0b2668e18b622e7e955"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/ores/common.json"
+hash = "59d5b55f8243765775f1a7704ad76629ccf0d5768b9b6d962c61e17aa65240ed"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/ores/epic.json"
+hash = "0b711fd616c7c13876ea657be2ab9d0d70a5d917cb8c2a319242a9f16fdb43bd"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/ores/rare.json"
+hash = "255b2f430ceeaf0303176ddd86bf99dd9469cd73b6b3d8edb618c9d370726e76"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/ores/uncommon.json"
+hash = "4bb553b973fdf31a43095d46b6c0c66715c74f9ae31a1506948481f9dfcfcfd2"
 
 [[files]]
 file = "global_packs/required_data/Treasure Bags Soothico/data/treasurebags/loot_tables/starting_inventory.json"
@@ -5069,7 +5109,7 @@ hash = "96be8f7edcaff4f636f2da0825534449cf3f69c9a9d77bec84f74bc0bd9a49bf"
 
 [[files]]
 file = "scripts/recipes/tin.zs"
-hash = "c711e86a47f3cad39df8ef15c45b3b522d8fdd234d763a4f9710b8425fe0ec39"
+hash = "b301a7b30e29562236c1962c94aac72f6111fc7963edc2e1d68cf7df4cffa1d6"
 
 [[files]]
 file = "scripts/removing and adding recipe.template"
