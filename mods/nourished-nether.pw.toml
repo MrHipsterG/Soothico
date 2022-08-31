@@ -1,13 +1,13 @@
-name = "Nourished Nether"
-filename = "Nourished Nether V13.2.jar"
+name = "Nourished Nether (Forge)"
+filename = "Nourished Nether Release V14.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "dc332a3bff660b95cbc7ebd3db40873a07ac1f90"
+hash = "bedae1b100137a27c1a7c06b58ed2c293c62f835"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3939484
+file-id = 3952518
 project-id = 479296

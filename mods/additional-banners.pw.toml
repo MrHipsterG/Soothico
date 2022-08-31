@@ -1,13 +1,13 @@
 name = "Additional Banners"
-filename = "AdditionalBanners-Forge-1.18.2-7.0.6.jar"
+filename = "AdditionalBanners-Forge-1.18.2-7.0.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0db183ceda0f6724895a651453160b9a6905bfac"
+hash = "768e26593635b3a5d2aa59713190ed853f71a462"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3835686
+file-id = 3909188
 project-id = 230137

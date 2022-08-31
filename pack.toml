@@ -1,12 +1,12 @@
 name = "Soothico"
 author = "HypsX"
-version = "2.11"
+version = "2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "41b418c2405866f475a1ee4d74b36bf1081f201c622ad8e2b115bfd737af3182"
+hash = "4f518368b0ae864d6dd3ad1ba460903ef1481a6bd0aac7cdb8eba61fcf486fa5"
 
 [versions]
 forge = "40.1.60"
