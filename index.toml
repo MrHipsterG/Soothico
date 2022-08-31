@@ -1422,7 +1422,7 @@ hash = "23275ade91148ff759229c7a7e9d58e24c22243b577f861755a3bfb070e185ac"
 
 [[files]]
 file = "defaultconfigs/solcarrot-server.toml"
-hash = "cec0d2a9b196186bb065a5d93a2c5d78d6089099c76b1954c450071e6fbbc0d1"
+hash = "9c80b1e84e1201328f3c61d688cedb93efa846ffced61015a11a3bc15c6724b9"
 
 [[files]]
 file = "defaultconfigs/veinmining-server.toml"
