@@ -5109,7 +5109,7 @@ hash = "96be8f7edcaff4f636f2da0825534449cf3f69c9a9d77bec84f74bc0bd9a49bf"
 
 [[files]]
 file = "scripts/recipes/tin.zs"
-hash = "b301a7b30e29562236c1962c94aac72f6111fc7963edc2e1d68cf7df4cffa1d6"
+hash = "428e56d95d20a91205b97305638ec29a9455b2dd929bf8432812227f096f23e0"
 
 [[files]]
 file = "scripts/removing and adding recipe.template"

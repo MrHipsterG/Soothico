@@ -9,7 +9,7 @@ craftingTable.addShaped("soothico.cookingpot", <item:farmersdelight:cooking_pot>
 	
 craftingTable.removeByName("cookingforblockheads:oven");
 craftingTable.addShaped("soothico.oven", <item:cookingforblockheads:oven>, [
-    [<tag:items:minecraft:black_stained_glass>, <tag:items:minecraft:black_stained_glass>, <tag:items:minecraft:black_stained_glass>], 
+    [<tag:items:forge:glass/black>, <tag:items:forge:glass/black>, <tag:items:forge:glass/black>], 
     [<item:mysticalworld:tin_ingot>, <item:minecraft:furnace>, <item:mysticalworld:tin_ingot>], 
     [<item:mysticalworld:tin_ingot>, <item:mysticalworld:tin_ingot>, <item:mysticalworld:tin_ingot>]]);
 	
