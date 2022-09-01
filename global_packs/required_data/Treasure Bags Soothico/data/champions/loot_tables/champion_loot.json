@@ -33,6 +33,16 @@
 						}
 					],
 					"name": "treasurebags:treasure_bag"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:create/common"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
 				}
 			],
 			"conditions": [
@@ -99,6 +109,16 @@
 						}
 					],
 					"name": "treasurebags:treasure_bag"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:create/uncommon"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
 				}
 			],
 			"conditions": [
@@ -145,6 +165,16 @@
 						}
 					],
 					"name": "treasurebags:treasure_bag"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:create/rare"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
 				}
 			],
 			"conditions": [
@@ -188,6 +218,16 @@
 						{
 							"function": "treasurebags:set_bag_type",
 							"type": "soothico:foods/epic"
+						}
+					],
+					"name": "treasurebags:treasure_bag"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "treasurebags:set_bag_type",
+							"type": "soothico:create/epic"
 						}
 					],
 					"name": "treasurebags:treasure_bag"

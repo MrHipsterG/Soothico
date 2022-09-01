@@ -713,6 +713,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "7a358336166dcd52f6490ae6d4c5ac87a312b929e3c94908cc325479f3dc8c5c"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "f5a2c08c496c7fb8efa9d7086acbe3eb8e4367988775d61efd4fa07615c0583b"
+
+[[files]]
 file = "config/defaultoptions/servers.dat"
 hash = "da9ffc2ae2911f5e94151c5057241f1b20250c147a39b1565514eb1e8914407d"
 
@@ -1087,6 +1091,10 @@ hash = "2e19ce956057b47999b99180c57c3cc591a58b7eeec739aa70c3c88c5adbcce5"
 [[files]]
 file = "config/repurposed_structures-forge/wells.toml"
 hash = "7e38f3b54ef38c2f631a7bc1d16ac0525cf0a16d3f6f8c6016be2d8c05532021"
+
+[[files]]
+file = "config/rubidium-mixins.properties"
+hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
 
 [[files]]
 file = "config/rubidium-options.json"
@@ -3866,7 +3874,39 @@ hash = "1b876da1bb567d6855a2fc522fbed04eb2c5999034bf835778044410e2a28cae"
 
 [[files]]
 file = "global_packs/required_data/Treasure Bags Soothico/data/champions/loot_tables/champion_loot.json"
-hash = "f388b8556815e27538ed0da1f2f6e0a97680975796da269a33c8586b7e282c06"
+hash = "cf9d3e19fb8e1ad9b91053a7e0e12733046f97e9c0a5f6e2b5ef0b3121337175"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/create/bag/common_table.json"
+hash = "128dce9a9a752edd75ba73ba25dd6a89fe4b7803d9b559e0b8fdca920d0bd8fe"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/create/bag/epic_table.json"
+hash = "4083e66d3e00086c78c4471c0fadc17e6fcb966a2919faf28948e206e832eec3"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/create/bag/rare_table.json"
+hash = "a01609941af10e80e6c6774a5dc3dfcd22a1475cdcd7250045e460900c8bc09b"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/create/bag/uncommon_table.json"
+hash = "f585a143bcb4da70631b2a9d72314014f3b9fdae9a9cd7e3996c3437d35f5b37"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/create/common_table.json"
+hash = "2e32a5c41cc00170d419101bc6efcd620d5d91285ca350820c31aa395b8d8174"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/create/epic_table.json"
+hash = "c06f3895f2927ef2cc0bc08d0266c44acd70accabc3c53ea1ff1a4754beffbb8"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/create/rare_table.json"
+hash = "67978c9448730696375ca142578217b9a875ba345d83d320cf2c53b95dbf1031"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/create/uncommon_table.json"
+hash = "585c60e87dc165e0f031417e735aa3ae19913a56421dce9aa3e2c53912263bbe"
 
 [[files]]
 file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/enchantments/uncommon_table.json"
@@ -3971,6 +4011,22 @@ hash = "23fc7223d486a9d70470ca57b2f2de4cdb56d4cdeb941fc1f7c95afa049dc896"
 [[files]]
 file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/loot_tables/ores/uncommon_table.json"
 hash = "bbb7c3728127c8e80ded5995970862212fa2845bce24c37afc7d68c6aa6363d3"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/create/common.json"
+hash = "8e30cd5bce5ee8408db9dc1383a1a73eb951aca011622d258f25a4ce52aa0b2d"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/create/epic.json"
+hash = "693c69db840288540d143ee551d4c8e04697a2da418623cb073d6cb4492c1110"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/create/rare.json"
+hash = "b6ce237b2a8083edac51ef69707def297219b447cb7c80f0cf0adfd6cedaf330"
+
+[[files]]
+file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/create/uncommon.json"
+hash = "e8dfeaf9708854035f6a8f19df39775e1671e1095fcc3fb548134ca9ed6dafad"
 
 [[files]]
 file = "global_packs/required_data/Treasure Bags Soothico/data/soothico/treasurebags_types/enchantments/uncommon.json"

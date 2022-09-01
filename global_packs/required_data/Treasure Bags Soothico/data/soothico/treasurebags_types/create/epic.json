@@ -1,0 +1,12 @@
+{
+	"group": "epic_bags",
+	"displayName": {
+		"text": "Engineer's Bag"
+	},
+	"lootTable": "soothico:create/bag/epic_table",
+	"rarity": "epic",
+	"bagColor": "#92674B",
+	"bagOverlayColor": "#CD95C9",
+	"bagStringColor": "#D41EC8",
+	"dropsFromGroups": []
+}

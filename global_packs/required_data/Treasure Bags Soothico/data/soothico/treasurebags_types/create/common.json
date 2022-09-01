@@ -1,0 +1,12 @@
+{
+	"group": "common_bags",
+	"displayName": {
+		"text": "Engineer's Bag"
+	},
+	"lootTable": "soothico:create/bag/common_table",
+	"rarity": "common",
+	"bagColor": "#92674B",
+	"bagOverlayColor": "#D3D3D3",
+	"bagStringColor": "#808080",
+	"dropsFromGroups": []
+}

@@ -1,0 +1,12 @@
+{
+	"group": "uncommon_bags",
+	"displayName": {
+		"text": "Engineer's Bag"
+	},
+	"lootTable": "soothico:create/bag/uncommon_table",
+	"rarity": "uncommon",
+	"bagColor": "#92674B",
+	"bagOverlayColor": "#DAF171",
+	"bagStringColor": "#F1ED71",
+	"dropsFromGroups": []
+}
