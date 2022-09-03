@@ -26,7 +26,7 @@ hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
 [[files]]
 file = "config/YungsBridges-forge-1_18.toml"
-hash = "c805af54005b73dc6088f10f57da5cdf5915531f8913060674872710504c3647"
+hash = "afc678e7a1eaf70b3b2c361ad9a8089309c1e0b341999f9e67678e4c984b596d"
 
 [[files]]
 file = "config/YungsExtras-forge-1_18.toml"
@@ -1110,7 +1110,7 @@ hash = "e441a4d0d6f8ca65617c56691c044351fd49da819a39b251e8389d1a9be7e990"
 
 [[files]]
 file = "config/savage_and_ravage-common.toml"
-hash = "fa92dfb45c7c6a15467bfda82497408e3f8cae238f28da585dd5014b064d2f6c"
+hash = "aa00138ee255bee871c5579b6c7799952e1624aafdaa03b05c9c1cfebfd747b3"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -1163,10 +1163,6 @@ hash = "48e045efb78607ff217eb278f817f1036039d99e38715ef9a9c6e1f5bafbc24c"
 [[files]]
 file = "config/sophisticatedcore-common.toml"
 hash = "47306936d1362cf2559e0f833a367cf252eda0c663748b6d29436321a2a8d878"
-
-[[files]]
-file = "config/sophisticatedstorage-client.toml"
-hash = "2ba887d545925c40c5caa82814c96ffb327127310100393ec88dbfc6cccf2150"
 
 [[files]]
 file = "config/sophisticatedstorage-common.toml"
@@ -1254,7 +1250,7 @@ hash = "0730320ed376d0fc052126a0c94efad5c2735f5419f6a006a7061ae382312bbd"
 
 [[files]]
 file = "config/valhelsia_structures-common.toml"
-hash = "600984c83850f4364ffcc18f7678b151948e1f0b484ca0cc3472a461a2576d41"
+hash = "dcc4c9a1e041467f1a5548a0bec5d78a0db115ddaa1024e0c29b7d4b7e4f8114"
 
 [[files]]
 file = "config/veinmining-client.toml"
@@ -1422,7 +1418,7 @@ hash = "0c1fc4076bc09094afc3e40f0b2949e85478a4c4fd83db7ffcc3f287fabd752b"
 
 [[files]]
 file = "defaultconfigs/paraglider-server.toml"
-hash = "545bd21d95c2b9e2126e9e031ae22c6f89c01570a355a3f7052695ff8a880258"
+hash = "683d593eeab4daa4950eec9eafed74cd9d6711c18f267c9c164efffd50d6e4cc"
 
 [[files]]
 file = "defaultconfigs/sereneseasons-server.toml"
@@ -1443,14 +1439,6 @@ hash = "66d14eccfbdbdd927fe8e1ed7f49040827955ad461d35535b48fd1afcd571238"
 [[files]]
 file = "defaultconfigs/voicechat-server.toml"
 hash = "d68eea2c894c4a9cfe50597022eb92f133e9e249505daa95d1ef85c002e728d6"
-
-[[files]]
-file = "global_packs/required_data/Dungeon Crawl Soothico/data/dungeoncrawl/worldgen/structure_set/dungeons.json"
-hash = "7da40957e1a6ecd6d89927113f245f4eeb889b6053e835a4ba5f7377e35acbcb"
-
-[[files]]
-file = "global_packs/required_data/Dungeon Crawl Soothico/pack.mcmeta"
-hash = "02700f6f179174dc4460f9e85c3be4746c9a16196b851dc7fc9fd928e2f96647"
 
 [[files]]
 file = "global_packs/required_data/Dungeons Arise Soothico/data/dungeons_arise/tags/worldgen/biome/has_structure/abandoned_temple_biomes.json"
@@ -3818,23 +3806,23 @@ hash = "5008af8cc3779246648767bb24f4a9ed19decbfa09fbdbb0f3e23da2bbcbca87"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/derelict.json"
-hash = "026cd4b2b1afbfaaaac73c4dba7c11f99b2f1ac9448e31750578a59e1da8bb8c"
+hash = "5cd2d569d2a38787ba88cb16ca05c652026cd3d08fd609f46a9d28f7c6043c2a"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/derelict_grass.json"
-hash = "3b4f4c4019b0944ebd2a5e2b0972d0182623de0593dfe74e3e5a2c85b87a3f53"
+hash = "9d769c7c588d1c5de1c1ee843cdc02fb8902b947b330c9713ff2ef1297473bb3"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/ice.json"
-hash = "64ec092eea5e60a795fc890bf7c256699bc237b1e43ac45133cf7906c390b199"
+hash = "9b59678d4d8491be4c680f86018b7cda72f4d9f865f034513a6cb4ebd932524b"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/jungle.json"
-hash = "7e933dfffde5c0b704193a46c3724d6c46d13d92ecb6ed602b3a2affd9128457"
+hash = "85ca1c81afa13fab62725f96356f11b3aa7e17f5befedf10d0b4251f29098b03"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/structure_set/regular.json"
-hash = "897b27f85e2cc7c01c4b2309e284241bb9f5983d86e2aa30f4cba9edffab5555"
+hash = "68189b9263c0dc8bee9f0fee49ee3f42ec7220982ad61cbed0c9cc1866c05f79"
 
 [[files]]
 file = "global_packs/required_data/Towers of the Wild v4.0.2/data/towers_of_the_wild_reworked/worldgen/template_pool/derelict/bottom.json"
@@ -4440,7 +4428,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "b574a0f870099ef1e69a167cc43256e9274992283f8735c6aaf692fa990cb838"
+hash = "03c629371b59f73b440068608bcac3f7d55d1bf264c73926d55a328058a94fe1"
 metafile = true
 
 [[files]]
@@ -5135,6 +5123,10 @@ hash = "57d0416a4938625f0c24fc90f6d492861644c9d4d95bfbda602024a2a3008ab4"
 [[files]]
 file = "scripts/recipes/calcite.zs"
 hash = "e41c428211d79f618d5bf827b3fc8b89844d1c6b84f1383caf242a9ad97ca27d"
+
+[[files]]
+file = "scripts/recipes/coins.zs"
+hash = "28a82428f5aca844346918c64f9e8d7b7555907cccb54792367df8465403831c"
 
 [[files]]
 file = "scripts/recipes/computers.zs"
