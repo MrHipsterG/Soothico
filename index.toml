@@ -4537,6 +4537,11 @@ hash = "cb8e4ce651a7487c444aea6fd6699e67807e455d171dbfbf4efff07b2b9d7ca7"
 metafile = true
 
 [[files]]
+file = "mods/hats-cosmetics.pw.toml"
+hash = "58c4993ef4a2ae6a53773228bfc7e5adca85115a68199d875d8318b091fb58ff"
+metafile = true
+
+[[files]]
 file = "mods/honey-expansion-add-on-for-farmers-delight.pw.toml"
 hash = "c978bf1012a05f70f3dd3ecf2b78732369c9f1bc0a0d29aad5b19fb67235c56c"
 metafile = true
@@ -4772,6 +4777,11 @@ hash = "84b75fa77eb9ac25b32e515c8153200dd2bd6587f7b617ea1a0eaca0cdea88a1"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "538110c41fa71c27058a38b1660a02eff1521ca8011aa4e08ae722fdcb64d35b"
+metafile = true
+
+[[files]]
 file = "mods/quark-oddities.pw.toml"
 hash = "c49c7cbefca8c5d7412c6e52afa915c813a02555e1316d88f9fbfe47d9606f45"
 metafile = true
@@ -4934,6 +4944,11 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "7cae22166ff53a631f38c7b0e7c2c77d2980f27b45c871d5b985cf1baa1f9740"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "7dfb918a920c3bb82a663a71571e9da813fe633ba04ea2cfb4b040c6ab0a2705"
 metafile = true
 
 [[files]]
