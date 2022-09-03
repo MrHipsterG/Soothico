@@ -5133,6 +5133,10 @@ file = "scripts/recipes/computers.zs"
 hash = "863f4493577f4f5bed8a5e855b701d53d1152dc587d1580a55b0ba18a43bc090"
 
 [[files]]
+file = "scripts/recipes/corundumdye.zs"
+hash = "529f4d53437a3485a20c77028e419ccd06bb1b7630797df2ab905629250479cf"
+
+[[files]]
 file = "scripts/recipes/crushingrecipes.zs"
 hash = "5202f4c9cfa09450d855ac3966c9cee6ae54ae336534eb0c0f7374345670d816"
 
