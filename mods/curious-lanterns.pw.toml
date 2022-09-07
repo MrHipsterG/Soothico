@@ -1,13 +1,13 @@
 name = "Curious Lanterns"
-filename = "curiouslanterns-1.18.2-1.1.2.jar"
+filename = "curiouslanterns-1.18.2-1.1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "30b21dd0cbcaed8f11e02ac1f61c6bb5c65c0415"
+hash = "6231e951719ad44dd5ea377518e2c5995ea6118b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3958105
+file-id = 3972180
 project-id = 621377
