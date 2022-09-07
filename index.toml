@@ -4607,6 +4607,11 @@ hash = "33564b537c9b71fa59a1360331096a13b343139d1c85659f3c17c45ac11fcf77"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
+metafile = true
+
+[[files]]
 file = "mods/l_ender-s-cataclysm.pw.toml"
 hash = "c35e30b6c03c9203281508aa695c26bd377a0a4dca707b08f9ccc0dbcc69d8e4"
 metafile = true
@@ -4834,6 +4839,11 @@ metafile = true
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "e10f1c7e2728235d38abc58b71b59aa5b32c9596a6722c4bd2d6cf4eb34ed5dc"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "ffea1ea2d4041e89208207944f343f9c413bfbbbd40c824d9009f484ac1d5e43"
 metafile = true
 
 [[files]]
