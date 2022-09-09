@@ -1117,14 +1117,6 @@ file = "config/savage_and_ravage-common.toml"
 hash = "fa92dfb45c7c6a15467bfda82497408e3f8cae238f28da585dd5014b064d2f6c"
 
 [[files]]
-file = "config/sereneseasons/fertility.toml"
-hash = "8bf5b171b7675f4351c75120aa085a353171399af8aee913c7ee82e12e649a1c"
-
-[[files]]
-file = "config/sereneseasons/seasons.toml"
-hash = "54e706d2a7662b4799182abd5963c1bfa9682df54142dd6861e7e69bb4de408d"
-
-[[files]]
 file = "config/sidebar_buttons.json"
 hash = "1c7fd461503da34fd6043c48ea3661746dde86e9d85854ef78dfa6c8c683a267"
 
@@ -1150,7 +1142,7 @@ hash = "3f5933692142b06f8c65e1a421a4eb1bc21ffb065e95662eb3b6987a9b35da1c"
 
 [[files]]
 file = "config/snowrealmagic-common.toml"
-hash = "23275ade91148ff759229c7a7e9d58e24c22243b577f861755a3bfb070e185ac"
+hash = "3db837c501695d6ea52ed75ef53bc8911e6378d556da333fbd1c27a15ef80c8e"
 
 [[files]]
 file = "config/solcarrot-client.toml"
@@ -1427,14 +1419,6 @@ hash = "0c1fc4076bc09094afc3e40f0b2949e85478a4c4fd83db7ffcc3f287fabd752b"
 [[files]]
 file = "defaultconfigs/paraglider-server.toml"
 hash = "545bd21d95c2b9e2126e9e031ae22c6f89c01570a355a3f7052695ff8a880258"
-
-[[files]]
-file = "defaultconfigs/sereneseasons-server.toml"
-hash = "178df75aa7422fee60bda0c0dc85699492e6d901532ec1ee28b0a4556473aaa8"
-
-[[files]]
-file = "defaultconfigs/snowrealmagic-common.toml"
-hash = "23275ade91148ff759229c7a7e9d58e24c22243b577f861755a3bfb070e185ac"
 
 [[files]]
 file = "defaultconfigs/solcarrot-server.toml"
@@ -4830,11 +4814,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "bf456a8b8cb6621830a2d6d42fd333e1cc7c4de3bbad04a4b08f5026f55eb3ce"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "ef0eedc431376191b14470afe63b70adff00c002fc17628f43962ce9f62e33b9"
 metafile = true
 
 [[files]]
