@@ -4238,7 +4238,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ec9425bcd76f5a1bda59915c528a362abde0f1f2fe9e462468b5f78e56fc096f"
+hash = "a57e921f872596ca19e411d726b7f6db272267f2dd712322a3168ce0f404fd44"
 metafile = true
 
 [[files]]
@@ -4323,7 +4323,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
-hash = "8ef84d5aeace0da2992c1c8ce37c59bf66c4734cb2a5e8f5475b1d6461a63568"
+hash = "80e496d483519d9ad5b377b1083208ccca89fed5d47afa5680a467cffcd550fa"
 metafile = true
 
 [[files]]
@@ -4748,7 +4748,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "15e23d9b0d8eb598964d1a14a9622721b2df3106c013b66eabd167e96b08b62c"
+hash = "5227a88e89a573b505d851b2dceb37fca39aa0871cf370488ff06b03ebaa28ef"
 metafile = true
 
 [[files]]
@@ -4843,7 +4843,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "ffea1ea2d4041e89208207944f343f9c413bfbbbd40c824d9009f484ac1d5e43"
+hash = "b34952ddd6841882e2ece139e1b2c7ce9573e866b914e3c52917f3caf0d2f450"
 metafile = true
 
 [[files]]
@@ -4903,7 +4903,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1b9542519847bf8c022731d33a48ef647fdaf3f71b9f6c541ebff543f10c4387"
+hash = "8f9058b0180cce1e40523e95a4558abe9147a1f928e8fba05704deeb29637f78"
 metafile = true
 
 [[files]]
