@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "Soothico has a minimap and world map! You can access a minimap by crafting a Compass, whereas the world map is, by default, bound to the M key. Here, you can claim areas for you and your party to keep everything safe!"
+            "text": "Soothico has a minimap and world map! You can access a minimap by crafting a Compass, whereas the world map is, by default, bound to the M key. Here, you can claim areas for you and your party to keep everything safe by right clicking to select an area, and claiming it from there. The mod we use for this is 'Open Claims and Parties' if you want to learn more!"
         }
     ]
 }

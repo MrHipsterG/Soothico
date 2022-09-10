@@ -1,0 +1,14 @@
+
+#Jer Integration override options
+[jer-integration]
+	#Enable / Disable patch for Applied Energistics 2
+	ae2 = false
+	#Enable / Disable patch for Create
+	create = true
+	#Enable / Disable patch for Immersive Engineering
+	immersiveengineering = false
+	#Enable / Disable patch for Tinkers' Construct
+	tconstruct = false
+	#Enable / Disable patch for Mekanism
+	mekanism = false
+
