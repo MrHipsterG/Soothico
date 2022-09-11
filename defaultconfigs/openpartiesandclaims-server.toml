@@ -65,6 +65,8 @@
 		#Whether to synchronize world chunk claims to the game clients. Enables client-side mods to access the claims data, e.g. to display it on a map. ALL - all claims are synced. OWNED_ONLY - only the claims that the client player owns and server claims are synced. NOT_SYNCED - claims are not synced.
 		#Allowed Values: NOT_SYNCED, OWNED_ONLY, ALL
 		claimsSynchronization = "ALL"
+		#The FTB Ranks permission that gives non-OP players the ability to make server claims and enable server claim mode.
+		serverClaimFTBPermission = "xaero.pac_server_claims"
 
 		[serverConfig.claims.protection]
 			#The type of the list defined in "friendlyChunkProtectedEntityList". ONLY - include only the listed entities. ALL_BUT - include all but the listed entities.
@@ -82,5 +84,9 @@
 			#Entities to exclude from chunk protection. Just an entity ID in the list, e.g. "minecraft:horse" allows entity interaction with an empty hand if a claim owner's config agrees. An entity ID with a prefix "force$" allows empty hand interactions without asking the claim owner's config. Prefix "break$" allows killing the entity, if the claim owner's config agrees. Prefix "force_break$" allows killing the entity across the server. Add the same entity multiple times to use multiple prefixes. For example ["minecraft:villager", "break$minecraft:villager"]
 			entityProtectionExceptionList = ["minecraft:villager", "force$minecraft:minecart"]
 			#By default, use of some items is allowed in protected chunks, e.g. bows, shield, tridents, splash potions, to let the players protect themselves. To remove such exceptions for specific items, add them to this list. For example ["minecraft:trident", "minecraft:shield"]
-			additionalBannedItemsList = []
+			additionalBannedItemsList = ["supplementaries:slingshot"]
+			#By default, most item uses are disabled in protected chunks. To make an exception for a specific item, add it to this list. This option has a higher priority than "additionalBannedItemsList". For example ["minecraft:fishing_rod", "minecraft:ender_pearl"]
+			itemUseProtectionExceptionList = []
+			#Entities that can be prevented from entering the claim. Just an entity ID in the list, e.g. "minecraft:falling_block" prevents the entity from entering if the optional entity barrier is enabled in the claim owner's config. An entity ID with a prefix "force$" prevents the entity from entering without asking the claim owner's config.
+			entityClaimBarrierList = ["force$minecraft:falling_block", "force$supplementaries:slingshot_projectile"]
 
