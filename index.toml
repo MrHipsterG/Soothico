@@ -1418,7 +1418,7 @@ hash = "c9fe9017db16fe8b983219796f65dd2c0d89d62391f561de1542a09501aa872c"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server.toml"
-hash = "aff3d4ca1367cc123b8c8669e9ef0df99c7bdcac869f8ae6d1479877fe45e70f"
+hash = "15fa456e4d20f3166dfb9fd70b326660e8414c9bb28ed12fc33d4f287838fe3f"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
