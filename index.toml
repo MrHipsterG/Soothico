@@ -1406,7 +1406,7 @@ hash = "5cdd185801abf6c957aa81b6e7f872d8bd8429607f99321c04eec0dbc3e2d483"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
-hash = "ba2378425520d3c0178cfcc8a67e33f32db24523da2f78cc08343704f96f13db"
+hash = "4b91e60005b8b1dce04110b77ad9431b17ebbbcd3d841945f3468fd9a9a306e8"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-expired-claim-config.toml"
