@@ -3,7 +3,7 @@
 	#List of cosmetic-only items. All items in this list will have their effects disabled
 	#To blacklist all items, use "artifacts:*"
 	#Note: blacklisting an item while it is equipped may have unintended side effects
-	cosmetics = ["everlasting_beef","eternal_steak","snorkel","night_vision_goggles","scarf_of_invisibility","helium_flamingo","bunny_hoppers","running_shoes"]
+	cosmetics = ["snorkel","night_vision_goggles","scarf_of_invisibility","helium_flamingo","bunny_hoppers","running_shoes"]
 
 	[items.antidote_vessel]
 		#Affects how many times a negative effect can be shortened before breaking
@@ -87,7 +87,7 @@
 		#Affects how many times this item can be eaten before breaking
 		#Setting this to 0 will make this item unbreakable
 		#Range: 0 ~ 32767
-		durability = 0
+		durability = 5
 		#Cooldown (in ticks) before the item can be eaten again
 		#Range: > 0
 		cooldown = 300
@@ -99,7 +99,7 @@
 		#Affects how many times this item can be eaten before breaking
 		#Setting this to 0 will make this item unbreakable
 		#Range: 0 ~ 32767
-		durability = 0
+		durability = 5
 		#Cooldown (in ticks) before the item can be eaten again
 		#Range: > 0
 		cooldown = 300
