@@ -37,11 +37,11 @@
 			#When enabled, claimed chunk protection includes protection against fire spread.
 			fromFireSpread = true
 			#When enabled, claimed chunk protection includes friendly (+ server configured) entities in the chunks being protected against players who don't have access to the chunks.
-			entitiesFromPlayers = false
+			entitiesFromPlayers = true
 			#When enabled, claimed chunk protection includes friendly (+ server configured) entities in the chunks being protected against mobs.
 			entitiesFromMobs = true
 			#When enabled, claimed chunk protection includes friendly (+ server configured) entities in the chunks being protected against non-player entities without a living owner (e.g. dispenser-fired arrows, falling anvils, redstone-activated TNT).
-			entitiesFromAnonymousAttacks = false
+			entitiesFromAnonymousAttacks = true
 			#When enabled, claimed chunk protection includes friendly (+ server configured) entities in the chunks being protected against all explosions not directly activated by the chunk owner.
 			entitiesFromExplosions = true
 			#When enabled, claimed chunk protection includes chorus fruit teleportation prevention for players who don't have access to the chunks.
@@ -59,11 +59,11 @@
 			#When enabled, claimed chunk protection includes protection from "item use" for chunks directly next to the claimed ones. Item use in this context usually means things that still work while looking at the sky (not block or entity) or items that use custom ray-tracing for blocks/fluids/entities (e.g. things you can place on water). Item use protection exceptions (e.g. food, potions etc) still apply.
 			neighborChunksItemUse = true
 			#When enabled, in addition to some forced exceptions across the server, more block interactions with an empty hand are allowed, which are also configured by the server. It is meant for things like levers, doors etc. You can use the non-ally mode to test it out.
-			allowSomeBlockInteractions = true
+			allowSomeBlockInteractions = false
 			#When enabled, in addition to some forced exceptions across the server, more blocks are allowed to be broken, which are also configured by the server. You can use the non-ally mode to test it out.
 			allowSomeBlockBreaking = false
 			#When enabled, in addition to some forced exceptions across the server, more entity interactions with an empty hand are allowed, which are also configured by the server. It is meant for things like villager trading, minecarts, boats etc. You can use the non-ally mode to test it out.
-			allowSomeEntityInteractions = true
+			allowSomeEntityInteractions = false
 			#When enabled, in addition to some forced exceptions across the server, more entities are allowed to be attacked and killed, which are also configured by the server. You can use the non-ally mode to test it out.
 			allowSomeEntityKilling = false
 
@@ -73,5 +73,5 @@
 			enabled = true
 			#When enabled, the chunks you have marked for forceloading stay loaded even when you are offline (can significantly affect server performance!).
 			#If your forceload limit is affected by your FTB Ranks rank/permissions, then you need to login at least once after a server (re)launch for it to take effect while you are offline.
-			offlineForceload = true
+			offlineForceload = false
 
