@@ -826,7 +826,7 @@ hash = "b5cffd3794b18b349f7ac80f1874cab33ba98e94f43178040ee617d044b2f883"
 
 [[files]]
 file = "config/fancymenu/customization/new.txt"
-hash = "db684ff61e343e801fd75eafbf3c83046a7fe65c6b57a9093660e9852681b08f"
+hash = "f4f0e67d37db897c34b46c5823bc3df5d5937c1b596bcd0fe86c924778dbe079"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -1398,23 +1398,23 @@ hash = "5cdd185801abf6c957aa81b6e7f872d8bd8429607f99321c04eec0dbc3e2d483"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
-hash = "4b91e60005b8b1dce04110b77ad9431b17ebbbcd3d841945f3468fd9a9a306e8"
+hash = "0119f88c2a7d2b2dd82cfd8c89f7e4e9644cc7c7fccebec974aa16e195a3c76b"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-expired-claim-config.toml"
-hash = "c9fe9017db16fe8b983219796f65dd2c0d89d62391f561de1542a09501aa872c"
+hash = "0119f88c2a7d2b2dd82cfd8c89f7e4e9644cc7c7fccebec974aa16e195a3c76b"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
-hash = "c9fe9017db16fe8b983219796f65dd2c0d89d62391f561de1542a09501aa872c"
+hash = "6c3a272502966d25a5c1e7fae0dbbafc4fdd4ec117f20dfdc3dc043192f386b6"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server.toml"
-hash = "d613dfd9235a5b362ac9b775a432372a75d32b08cabbd5fbbdf7335bc9d2e6b9"
+hash = "46d85f904ff82793b57897c41b8b67a4857d8bbdd79a772d268c70a672c5152b"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
-hash = "0c1fc4076bc09094afc3e40f0b2949e85478a4c4fd83db7ffcc3f287fabd752b"
+hash = "2ed965fa52d98e1188ccaa7558c83017f42900193a3229f30ce73e8d9a5c65af"
 
 [[files]]
 file = "defaultconfigs/paraglider-server.toml"
@@ -4453,7 +4453,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "a5c7b5d56e00f3bbaf5e44de55978b76d2066f6c5f76accfa51737b6940c61d0"
+hash = "7d1b0d2aa87de754d2eb07b9e4700a2d230aa218342fd64ce5d658a679130d0c"
 metafile = true
 
 [[files]]
@@ -4918,7 +4918,7 @@ metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
-hash = "20c00bdabf0cdf4c0caa820d8d0d571d7dd236d680bf2fdbfa074ea76d92dc64"
+hash = "ec9017c44566817565b59e03085b17272f71d2a0f1fb05599314ef7b451812cf"
 metafile = true
 
 [[files]]
@@ -5020,6 +5020,10 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "72cbd386ac71da48a6059a931adc4fa9e5b7cb5f0c73c1dc4fe610afad5565be"
 metafile = true
+
+[[files]]
+file = "openpartiesandclaims-server.toml"
+hash = "fecb39a25b2e5062a5d52e77473aa274eaa235654f601c6f9dc0a210e2294e6a"
 
 [[files]]
 file = "patchouli_books/soothico_guide/book.json"
@@ -5152,6 +5156,10 @@ hash = "28a82428f5aca844346918c64f9e8d7b7555907cccb54792367df8465403831c"
 [[files]]
 file = "scripts/recipes/computers.zs"
 hash = "863f4493577f4f5bed8a5e855b701d53d1152dc587d1580a55b0ba18a43bc090"
+
+[[files]]
+file = "scripts/recipes/conflicts.zs"
+hash = "3140ac14e48acb39a6c668fa50ab8e0cc1881eee65b7bbf3342f19ce038b6582"
 
 [[files]]
 file = "scripts/recipes/corundumdye.zs"
