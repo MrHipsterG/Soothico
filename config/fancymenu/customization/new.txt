@@ -353,6 +353,6 @@ customization {
   y = 101
   scale = 2.0
   alignment = centered
-  value = 2.21
+  value = 2.22
 }
 
