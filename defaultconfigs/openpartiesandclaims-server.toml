@@ -4,7 +4,7 @@
 	#Range: > 1
 	autosaveInterval = 10
 	#A list of options in the player config that individual players can reconfigure. If an option is in neither of the configurable option lists, then the value in the default player config is used across the server. Check the default player config .toml file for the option names.
-	playerConfigurablePlayerConfigOptions = ["playerConfig.claims.name", "playerConfig.claims.color", "playerConfig.parties.name", "playerConfig.allowSomeBlockInteractions", "playerConfig.blocksFromExplosions", "playerConfig.entitiesFromPlayers", "playerConfig.entitiesFromMobs", "playerConfig.entitiesFromFire"]
+	playerConfigurablePlayerConfigOptions = ["playerConfig.claims.name", "playerConfig.claims.color", "playerConfig.parties.name", "playerConfig.claims.protection.allowSomeBlockInteractions", "playerConfig.claims.blocksFromExplosions", "playerConfig.claims.protection.entitiesFromPlayers", "playerConfig.claims.protection.entitiesFromMobs", "playerConfig.claims.protection.entitiesFromFire"]
 	#A list of additional options in the player config that OPs can reconfigure for players. This is meant for options that should be configured per player but not by the players. If an option is in neither of the configurable option lists, then the value in the default player config is used across the server. Check the default player config .toml file for the option names.
 	opConfigurablePlayerConfigOptions = ["playerConfig.claims.bonusChunkClaims", "playerConfig.claims.bonusChunkForceloads"]
 	#How many sub-configs (sub-claims) can each player create.
