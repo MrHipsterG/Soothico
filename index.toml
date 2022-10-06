@@ -1410,7 +1410,7 @@ hash = "6c3a272502966d25a5c1e7fae0dbbafc4fdd4ec117f20dfdc3dc043192f386b6"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server.toml"
-hash = "46d85f904ff82793b57897c41b8b67a4857d8bbdd79a772d268c70a672c5152b"
+hash = "e090dec212e846ae15c76d2d0be42ec890853b914554498495b0fb85af303e03"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
@@ -4197,6 +4197,11 @@ hash = "fb7a9b17b3abe9262f08795e74224d425ec412bcda643f0e8c370dfcbf69ea33"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "8aa8cf66f38711e70abb448f0b467095cef3be6608b4305c8c0971eee86f394f"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "e543f92a1ed2f536ef5f236be91e0207356d042de5106962395e66c90fa726e2"
 metafile = true
@@ -4439,6 +4444,11 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "beeb35fd8dae1c6d43188cd42c2a13979590ca8c721c9db5a12cd944f9d6f97a"
+metafile = true
+
+[[files]]
+file = "mods/etched.pw.toml"
+hash = "a4b6d64430596cfa635a9783871a61cd7a28dbe84e55be7eb95f0e21a8ea4396"
 metafile = true
 
 [[files]]
@@ -4777,6 +4787,11 @@ hash = "56a2b8d1299f6782a24c01db92fb41004b8568195a20213f98bdc9ca8aa9fbfc"
 metafile = true
 
 [[files]]
+file = "mods/pollen.pw.toml"
+hash = "511a863671a2f7a9c6e032c1e5ebeee5403fc9e72a88404f6d06ecb91bfd52d4"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "fd23901d4a45b54c71e1f5e00150f5e3b0058c1b0d1a37355b5f235c3d92bfad"
 metafile = true
@@ -5020,10 +5035,6 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "72cbd386ac71da48a6059a931adc4fa9e5b7cb5f0c73c1dc4fe610afad5565be"
 metafile = true
-
-[[files]]
-file = "openpartiesandclaims-server.toml"
-hash = "fecb39a25b2e5062a5d52e77473aa274eaa235654f601c6f9dc0a210e2294e6a"
 
 [[files]]
 file = "patchouli_books/soothico_guide/book.json"
