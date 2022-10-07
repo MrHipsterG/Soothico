@@ -53,7 +53,7 @@
 			#When enabled, claimed chunk protection includes protection against being affected by pistons outside of the protected chunks. This does not protect wilderness.
 			pistonBarrier = true
 			#When enabled, claimed chunk protection includes protection from "item use" for chunks directly next to the claimed ones. Item use in this context usually means things that still work while looking at the sky (not block or entity) or items that use custom ray-tracing for blocks/fluids/entities (e.g. things you can place on water). Item use protection exceptions (e.g. food, potions etc) still apply.
-			neighborChunksItemUse = true
+			neighborChunksItemUse = false
 			#When enabled, in addition to some forced exceptions across the server, more block interactions with an empty hand are allowed, which are also configured by the server. It is meant for things like levers, doors etc. You can use the non-ally mode to test it out.
 			allowSomeBlockInteractions = true
 			#When enabled, in addition to some forced exceptions across the server, more blocks are allowed to be broken, which are also configured by the server. You can use the non-ally mode to test it out.
