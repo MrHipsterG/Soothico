@@ -27,7 +27,7 @@ import mods.create.SequencedAssemblyManager;
 
 craftingTable.addShaped("soothico.monitor", <item:computercraft:monitor_normal>, [
     [<item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <item:mcwwindows:andesite_window>, <item:createdeco:cast_iron_sheet>], 
+    [<item:createdeco:cast_iron_sheet>, <tag:items:forge:glass_panes>, <item:createdeco:cast_iron_sheet>], 
     [<item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>]]);
 
 // Pocket Computer shaped recipe.
