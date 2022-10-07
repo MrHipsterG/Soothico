@@ -1,0 +1,1 @@
+<recipetype:create:splashing>.addRecipe("soothico.maggot", [<item:alexsmobs:maggot> % 30], <item:minecraft:rotten_flesh>, 200);
