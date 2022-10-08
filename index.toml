@@ -4277,7 +4277,7 @@ metafile = true
 
 [[files]]
 file = "mods/art-of-forging-a-tetra-addon.pw.toml"
-hash = "bb4ac3e876f5fd9fa30311f2107e34bc3c4be115413ec4699ce70f9c291b846c"
+hash = "70433fb8d57a1e19705de4132e71e07b2f45b89f2a3cbd9edc8e9ec7e4fbcc40"
 metafile = true
 
 [[files]]
@@ -4347,7 +4347,7 @@ metafile = true
 
 [[files]]
 file = "mods/champions.pw.toml"
-hash = "2f0f122e17cbd529009030ea790ed64c3c88967d2cb5bcd1678079aa56f6a6f7"
+hash = "e3a9278ce9561afae0a6776989770d323931a49441b74edcc91716787ca11245"
 metafile = true
 
 [[files]]
@@ -4382,7 +4382,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "ea2263383ce561da37933d0b9cbfe48b677d0ac4d817f701e71223e0c1944baf"
+hash = "304da4e062359e6035d85e1d5cae73ab0ca7fc8060a381d08f5e4efe9c5a9773"
 metafile = true
 
 [[files]]
@@ -4402,7 +4402,7 @@ metafile = true
 
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
-hash = "eadd01342c4affc59a7e097e8c60596f1b52c12dc399d3b838bc080674de8183"
+hash = "10f0b0aa8c93e257274721443a1bdd118b915831086210be090174a5cd68c095"
 metafile = true
 
 [[files]]
@@ -4787,7 +4787,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "1cf9de7c4f23a426b8cfadac340304e031e3043ad564a78caac685f2f521c559"
+hash = "011e5453b4935e9ede78ebace9fc865940a3f7c612ef9bf2c39f00b77c63bbbc"
 metafile = true
 
 [[files]]
@@ -4802,7 +4802,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "10994e17859a987a0deac81bd611e84ad3e53a87f23892dabb92b365ec79fbea"
+hash = "651728c670c2390d597ea25ec5037467ac7d8688087fe66e28372f80d93557ea"
 metafile = true
 
 [[files]]
@@ -4887,7 +4887,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "d5ac9777834c5dabf3de10d1e388db8a6f62704a20692622426d4c26dfc9c85c"
+hash = "7a17509b987e79da1374bcc25c29f441e976cd28ca692892dd78d0e3a641994f"
 metafile = true
 
 [[files]]
@@ -5012,7 +5012,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "049155c61d63db52fb79434338dca225fea504328c9013cc68b324280a8efea5"
+hash = "eb153753474dec722a70c190e632c2d30fae07b022a3666617113ac1607c7474"
 metafile = true
 
 [[files]]
@@ -5037,7 +5037,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
-hash = "809dfff943976dd9e8c11721ddcdcdf3130e0f9b3ae67bf98089f3cb5e056222"
+hash = "0a2ed6e0c459db6b4ccff925795aac16c597837b57aacf0e25c339859819de72"
 metafile = true
 
 [[files]]
@@ -5057,7 +5057,7 @@ metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
-hash = "c51870b31cda6595ce06e8f746410c8f1d42695f5cf19c32961b058aa4d281cc"
+hash = "2bafefb786f267ffa8593ec978377b77e781b28da3bd2d9643c6f13ff6d8bfcd"
 metafile = true
 
 [[files]]
