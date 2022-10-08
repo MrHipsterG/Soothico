@@ -61,7 +61,7 @@
 	#Range: 0.0 ~ 1000.0
 	playerExhaustionMultiplier = 1.0
 	#List of whitelisted/blacklisted blocks or block tags
-	blocks = ["#forge:ores"]
+	blocks = ["#forge:ores", "#minecraft:logs"]
 	#Whether the blocks configuration is a whitelist or a blacklist
 	#Allowed Values: BLACKLIST, WHITELIST
 	blocksPermission = "WHITELIST"
