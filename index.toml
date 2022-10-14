@@ -1330,7 +1330,7 @@ hash = "adbcba35c3cf8e74fdf73de7d6c1e260ce209d2fc5cf6dbb58797455166501bc"
 
 [[files]]
 file = "defaultconfigs/carryon-server.toml"
-hash = "9b20240016e9e4de58a8d49a2b8d0aa4238c7bd86f95b50dde460ae71d06142e"
+hash = "c36a5c65c60a9a32a967cbfcd1201bfaa68a3c1a6728fcf0e503631ebb9059e9"
 
 [[files]]
 file = "defaultconfigs/champions-affixes.toml"
@@ -4347,7 +4347,7 @@ metafile = true
 
 [[files]]
 file = "mods/champions.pw.toml"
-hash = "e3a9278ce9561afae0a6776989770d323931a49441b74edcc91716787ca11245"
+hash = "89a84e2dc61698a9abc8404922facccf1334a878e0fae90849d76673c8046c9e"
 metafile = true
 
 [[files]]
@@ -4711,6 +4711,11 @@ hash = "5fb725c19415ba5de8496eaf365668aaed55bf1d4cfa1a898602ddf19d09e304"
 metafile = true
 
 [[files]]
+file = "mods/it-shall-not-tick.pw.toml"
+hash = "fd6a8a7516b7ca3482a98865f55b517a9a86b51f75a2720f899d07bf69fbd5c6"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "43bd658177949fbe857b5a50fc93fd9acf8cdbe04fedba41031e28f6d2b3a3e0"
 metafile = true
@@ -4807,7 +4812,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "15bbbd9ac406643d16df003b9678b1ba3eb78268e624adcfd1167379751c29ef"
+hash = "86ab65765ac40a3e2c720cab29eeb711655ebb997040b45abe9c751ecb5a5c87"
 metafile = true
 
 [[files]]
@@ -4882,7 +4887,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
-hash = "c79c2bdaa878fe3697500682e4041dc99f67f6e638219aa91337f0b952992090"
+hash = "3127bfa37c9b3137ba85a1485260386d208a95ce79174252429fdc0f36f7ecfa"
 metafile = true
 
 [[files]]
@@ -4902,7 +4907,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "4263ce79cb1ff47f095478e42a630ab85974dcebdb578e4a0f7bc5e113ae858b"
+hash = "5a466fadca7f0d41082bd242cd0041ca87e4bfeb3472871169fa86be69e8b0d4"
 metafile = true
 
 [[files]]
@@ -4947,7 +4952,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "afc003a7bbb6e2398295b0795e8f186244a0f6524c636966f98800ba76951987"
+hash = "ad1cfedae37282c27a0934d2f92b3426812a8f953f6f91e9085e213427f92a7f"
 metafile = true
 
 [[files]]
@@ -5002,7 +5007,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "4a8e384093c595b157704dfc38ad91eacc07798291dd7e619e04bf55c20b6e70"
+hash = "b8c4cf4090fe21185bb4da8711cfa7cac1590cbd99e54ee473a709bc3a9b68c5"
 metafile = true
 
 [[files]]
