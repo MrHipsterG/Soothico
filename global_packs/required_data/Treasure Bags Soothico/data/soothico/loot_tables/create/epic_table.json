@@ -44,7 +44,7 @@
 				},
 				{
 					"type": "minecraft:item",
-					"name": "create_stuff_additions:grapplin_whisk",
+					"name": "create_things_and_misc:brass_speaker",
 					"functions": [
 						{
 							"function": "minecraft:set_count",
