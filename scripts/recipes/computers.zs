@@ -21,33 +21,32 @@ import mods.create.SequencedAssemblyManager;
  craftingTable.removeByName("computercraft:wired_modem");
  craftingTable.removeByName("computercraft:cable");
 
+// Adds Create tags to the ComputerCraft items.
 
-  
-// Monitor shaped recipe.
+ <tag:blocks:create:wrench_pickup>.add(<block:computercraft:monitor_normal>);
+ <tag:blocks:create:wrench_pickup>.add(<block:computercraft:monitor_advanced>);
+ <tag:blocks:create:wrench_pickup>.add(<block:computercraft:turtle_normal>);
+ <tag:blocks:create:wrench_pickup>.add(<block:computercraft:turtle_advanced>);
+ <tag:blocks:create:wrench_pickup>.add(<block:computercraft:speaker>);
+ <tag:blocks:create:wrench_pickup>.add(<block:computercraft:disk_drive>);
+ <tag:blocks:create:wrench_pickup>.add(<block:computercraft:printer>);
+ <tag:blocks:create:wrench_pickup>.add(<block:computercraft:wireless_modem_normal>);
+ <tag:blocks:create:wrench_pickup>.add(<block:computercraft:wireless_modem_advanced>);
+ <tag:blocks:create:wrench_pickup>.add(<block:computercraft:cable>);
 
-craftingTable.addShaped("soothico.monitor", <item:computercraft:monitor_normal>, [
-    [<item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <tag:items:forge:glass_panes>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>]]);
+// Monitor recipe.
 
-// Pocket Computer shaped recipe.
+<recipetype:create:item_application>.addRecipe("soothico.monitor", [<item:computercraft:monitor_normal>], <item:create:andesite_casing>, <tag:items:forge:glass_panes>, false);
 
-craftingTable.addShaped("soothico.pocket_computer", <item:computercraft:pocket_computer_normal>, [
-    [<item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <item:create:electron_tube>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <item:mcwwindows:andesite_window>, <item:createdeco:cast_iron_sheet>]]);
-	
-// Computer Sequenced Assembly recipe.
-	
-<recipetype:create:sequenced_assembly>.addRecipe(<recipetype:create:sequenced_assembly>.builder("soothico.computer")
-													  .transitionTo(<item:computercraft:monitor_normal>)
-                                                      .require(<item:computercraft:monitor_normal>)
-                                                      .loops(2)
-                                                      .addOutput(<item:computercraft:computer_normal> * 1, 32)
-                                                      .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<item:create:electron_tube>))
-                                                      .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<item:createdeco:cast_iron_sheet>)));
-													  
-// Advanced Pocket Computer Sequenced Assembly recipe.
+// Computer recipe.
+
+<recipetype:create:item_application>.addRecipe("soothico.computer", [<item:computercraft:computer_normal>], <item:computercraft:monitor_normal>, <item:create:electron_tube>, false);
+
+// Pocket Computer recipe.
+
+<recipetype:create:pressing>.addRecipe("soothico.pocketcomputer", [<item:computercraft:pocket_computer_normal>],  <item:computercraft:computer_normal>, 200);
+
+// Advanced Pocket Computer upgrading recipe.
 
 <recipetype:create:sequenced_assembly>.addRecipe(<recipetype:create:sequenced_assembly>.builder("soothico.advanced_pocket_computer")
 													  .transitionTo(<item:computercraft:pocket_computer_normal>)
@@ -56,14 +55,21 @@ craftingTable.addShaped("soothico.pocket_computer", <item:computercraft:pocket_c
                                                       .addOutput(<item:computercraft:pocket_computer_advanced> * 1, 32)
                                                       .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<item:create:brass_sheet>))
                                                       .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<item:create:brass_sheet>)));
-													  
-// Turtle shaped recipe.
 
-craftingTable.addShaped("soothico.turtle", <item:computercraft:turtle_normal>, [
-    [<item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <item:computercraft:computer_normal>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <tag:items:forge:chests>, <item:createdeco:cast_iron_sheet>]]);
-	
+// Advanced Pocket Computer pressing recipe.
+
+<recipetype:create:pressing>.addRecipe("soothico.pocketcomputerpress", [<item:computercraft:pocket_computer_advanced>],  <item:computercraft:computer_advanced>, 200);
+													  
+// Turtle recipe.
+
+<recipetype:create:sequenced_assembly>.addRecipe(<recipetype:create:sequenced_assembly>.builder("soothico.turtle")
+													  .transitionTo(<item:computercraft:turtle_normal>)
+                                                      .require(<item:computercraft:computer_normal>)
+                                                      .loops(1)
+                                                      .addOutput(<item:computercraft:turtle_normal> * 1, 32)
+                                                      .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<tag:items:forge:chests>))
+                                                      .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<item:create:brass_hand>)));
+
 // Advanced Turtle Sequenced Assembly Recipe. (Turtle-Upgrade).
 
 <recipetype:create:sequenced_assembly>.addRecipe(<recipetype:create:sequenced_assembly>.builder("soothico.turtleupgrade")
@@ -81,9 +87,8 @@ craftingTable.addShaped("soothico.turtle", <item:computercraft:turtle_normal>, [
                                                       .require(<item:computercraft:computer_advanced>)
                                                       .loops(1)
                                                       .addOutput(<item:computercraft:turtle_advanced> * 1, 32)
-                                                      .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<item:create:brass_sheet>))
-                                                      .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<item:create:brass_sheet>))
-                                                      .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<item:sophisticatedstorage:iron_chest>)));
+                                                      .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<tag:items:forge:chests>))
+                                                      .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<item:create:brass_hand>)));
 													  
 // Advanced Computer Sequenced Assembly Recipe
 
@@ -100,38 +105,30 @@ craftingTable.addShaped("soothico.turtle", <item:computercraft:turtle_normal>, [
 <recipetype:create:sequenced_assembly>.addRecipe(<recipetype:create:sequenced_assembly>.builder("soothico.advmonitor")
 													  .transitionTo(<item:computercraft:monitor_advanced>)
                                                       .require(<item:computercraft:monitor_normal>)
-                                                      .loops(2)
+                                                      .loops(1)
                                                       .addOutput(<item:computercraft:monitor_advanced> * 1, 32)
                                                       .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<item:create:brass_sheet>)));
 													  
 // Speaker shaped recipe.
 
-craftingTable.addShaped("soothico.speaker", <item:computercraft:speaker>, [
-    [<item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <item:minecraft:note_block>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <item:minecraft:redstone>, <item:createdeco:cast_iron_sheet>]]);
-	
+<recipetype:create:item_application>.addRecipe("soothico.speaker", [<item:computercraft:speaker>], <item:create:andesite_casing>, <item:minecraft:note_block>, false);
+
 // Disk Drive shaped recipe.
 
-craftingTable.addShaped("soothico.diskdrive", <item:computercraft:disk_drive>, [
-    [<item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <item:minecraft:redstone>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <item:minecraft:redstone>, <item:createdeco:cast_iron_sheet>]]);
-	
+<recipetype:create:item_application>.addRecipe("soothico.diskdrive", [<item:computercraft:disk_drive>], <item:create:andesite_casing>, <item:minecraft:observer>, false);
+
 // Printer shaped recipe.
 
-craftingTable.addShaped("soothico.printer", <item:computercraft:printer>, [
-    [<item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <item:minecraft:redstone>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <tag:items:forge:dyes>, <item:createdeco:cast_iron_sheet>]]);
-	
-// Wireless Modem shaped recipe.
+<recipetype:create:item_application>.addRecipe("soothico.printer", [<item:computercraft:printer>], <item:create:andesite_casing>, <item:minecraft:dispenser>, false);
 
-craftingTable.addShaped("soothico.modem", <item:computercraft:wireless_modem_normal>, [
-    [<item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <item:minecraft:ender_eye>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>]]);
-	
+// Wired Modem recipe.
+
+<recipetype:create:deploying>.addRecipe("soothico.modem", <item:create:iron_sheet>, <item:create:electron_tube>, [(<item:computercraft:wired_modem> * 2)], false);
+
+// // Wireless Modem recipe.
+
+<recipetype:create:deploying>.addRecipe("soothico.wirelessmodem", <item:computercraft:wired_modem>, <item:minecraft:ender_eye>, [(<item:computercraft:wireless_modem_normal>)], false);
+
 // Ender Modem Sequenced Assembly Recipe
 
 <recipetype:create:sequenced_assembly>.addRecipe(<recipetype:create:sequenced_assembly>.builder("soothico.endermodem")
@@ -143,16 +140,9 @@ craftingTable.addShaped("soothico.modem", <item:computercraft:wireless_modem_nor
 													  .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<item:create:brass_sheet>))
                                                       .addStep<mods.createtweaker.DeployerApplicationRecipe>((rb) => rb.require(<item:create:precision_mechanism>)));
 													  
-// Wired Modem shaped recipe.
+// Network Cable shaped recipe.
 
-craftingTable.addShaped("soothico.wiredmodem", <item:computercraft:wired_modem>, [
-    [<item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <item:minecraft:redstone>, <item:createdeco:cast_iron_sheet>], 
-    [<item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>, <item:createdeco:cast_iron_sheet>]]);
-	
-// Network Cable s1haped recipe.
-
-craftingTable.addShaped("soothico.cccable", <item:computercraft:cable> * 16, [
-    [<item:minecraft:air>, <item:createdeco:cast_iron_sheet>, <item:minecraft:air>], 
-    [<item:createdeco:cast_iron_sheet>, <item:create:electron_tube>, <item:createdeco:cast_iron_sheet>], 
-    [<item:minecraft:air>, <item:createdeco:cast_iron_sheet>, <item:minecraft:air>]]);
+craftingTable.addShaped("soothico.cccable", <item:computercraft:cable> * 8, [
+    [<item:minecraft:air>, <item:minecraft:dried_kelp>, <item:minecraft:air>], 
+    [<item:minecraft:dried_kelp>, <item:create:copper_sheet>, <item:minecraft:dried_kelp>], 
+    [<item:minecraft:air>, <item:minecraft:dried_kelp>, <item:minecraft:air>]]);
