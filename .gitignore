@@ -2,7 +2,6 @@ saves/
 logs/
 crash-reports/
 local/
-options.txt
 .curseclient
 usercache.json
 usernamecache.json
@@ -18,7 +17,6 @@ immersive_paintings/
 immersive_paintings_cache/
 debug/
 fancymenu_data/
-resourcepacks/
 servers.dat_old
 icon.png
 imgui.ini

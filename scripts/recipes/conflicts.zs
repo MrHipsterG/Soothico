@@ -77,6 +77,10 @@ craftingTable.removeByName("additionaladditions:bundle");
 craftingTable.removeByName("nourished_nether:netherite_nugget");
 furnace.removeByName("nourished_nether:smelt_netherite_gear");
 
+furnace.removeByName("nourished_nether:smelt_soul_soil");
+furnace.removeByName("nourished_nether:smelt_soul_sand");
+<recipetype:create:haunting>.addRecipe("soothico.haunt_soul_sand", [<item:nourished_nether:soul_glass>], <item:minecraft:soul_sand>);
+
 craftingTable.removeByName("blue_skies:bluebright_crafting_table");
 craftingTable.removeByName("blue_skies:starlit_crafting_table");
 craftingTable.removeByName("blue_skies:frostbright_crafting_table");
