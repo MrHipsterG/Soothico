@@ -25,8 +25,6 @@ import mods.create.SequencedAssemblyManager;
 
  <tag:blocks:create:wrench_pickup>.add(<block:computercraft:monitor_normal>);
  <tag:blocks:create:wrench_pickup>.add(<block:computercraft:monitor_advanced>);
- <tag:blocks:create:wrench_pickup>.add(<block:computercraft:turtle_normal>);
- <tag:blocks:create:wrench_pickup>.add(<block:computercraft:turtle_advanced>);
  <tag:blocks:create:wrench_pickup>.add(<block:computercraft:speaker>);
  <tag:blocks:create:wrench_pickup>.add(<block:computercraft:disk_drive>);
  <tag:blocks:create:wrench_pickup>.add(<block:computercraft:printer>);
