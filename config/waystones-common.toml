@@ -10,7 +10,7 @@
 	minimumBaseXpCost = 5.0
 	#The maximum base xp cost (may be exceeded by multipliers defined below), set to 0 to disable all distance-based XP costs
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	maximumBaseXpCost = 20.0
+	maximumBaseXpCost = 30.0
 	#How much xp is needed per leashed animal to travel with you
 	#Range: > -2147483648
 	xpCostPerLeashed = 1
@@ -22,7 +22,7 @@
 	globalWaystoneXpCostMultiplier = 1.0
 	#The multiplier applied to the base xp cost when teleporting using a Warp Stone item (not the Waystone block, Konstantin)
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	warpStoneXpCostMultiplier = 0.0
+	warpStoneXpCostMultiplier = 1.5
 	#The multiplier applied to the base xp cost when teleporting from one waystone to another.
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 	waystoneXpCostMultiplier = 1.0
