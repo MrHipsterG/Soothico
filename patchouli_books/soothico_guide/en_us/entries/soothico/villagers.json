@@ -1,0 +1,11 @@
+{
+    "name": "Villager Changes",
+    "icon": "minecraft:emerald",
+    "category": "patchouli:test_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "We have a datapack called 'Less OP Villagers', which nerfs villager trades to encourage exploration and adventure. It contains the following changes: They sell Iron equipment instead of Diamond equipment. They no longer sell Mending books. The enchanted books they sell are reduced by one level."
+        }
+    ]
+}
