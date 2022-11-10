@@ -40,7 +40,7 @@ craftingTable.removeByName("upgradednetherite:corrupt_upgraded_netherite_ingot")
 
 // Adds new recipe for Featherite ingot.
 
-<recipetype:create:mixing>.addRecipe("soothico.featherite", <constant:create:heat_condition:superheated>, [<item:upgradednetherite:feather_upgraded_netherite_ingot>], [<item:minecraft:netherite_ingot>, (<item:minecraft:feather> * 8), <item:quark:bottled_cloud>], [<fluid:minecraft:lava> * 250], 200);
+<recipetype:create:mixing>.addRecipe("soothico.featherite", <constant:create:heat_condition:superheated>, [<item:upgradednetherite:feather_upgraded_netherite_ingot>], [<item:minecraft:netherite_ingot>, (<item:minecraft:feather> * 6), <item:quark:bottled_cloud>], [<fluid:minecraft:lava> * 250], 200);
 
 <item:quark:bottled_cloud>.addTooltip("Use a glass bottle at cloud level.");
 
