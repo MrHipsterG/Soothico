@@ -398,7 +398,7 @@
 	"Grab Chickens" = true
 	"Glass Shard" = true
 	"Enhanced Ladders" = true
-	Emotes = true
+	Emotes = false
 	"Dragon Scales" = true
 	"Double Door Opening" = true
 	"Compasses Work Everywhere" = true
