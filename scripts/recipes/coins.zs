@@ -1,5 +1,8 @@
 <recipetype:create:pressing>.addRecipe("soothico.d2gc", [<item:createdeco:gold_coin>], <item:minecraft:diamond>);
-<recipetype:create:milling>.addRecipe("soothico.gc2d", [<item:minecraft:diamond>], <item:createdeco:gold_coin>);
+<recipetype:create:mixing>.addRecipe("soothico.gc2d", <constant:create:heat_condition:none>, [<item:minecraft:diamond>], [<item:createdeco:gold_coin>], [], 200);
+<recipetype:create:mixing>.addRecipe("soothico.gcs2d", <constant:create:heat_condition:none>, [<item:minecraft:diamond> * 4], [<item:createdeco:gold_coinstack>], [], 200);
+<recipetype:create:mixing>.addRecipe("soothico.nc2d", <constant:create:heat_condition:none>, [<item:minecraft:diamond> * 8], [<item:createdeco:netherite_coin>], [], 200);
+<recipetype:create:mixing>.addRecipe("soothico.ncs2d", <constant:create:heat_condition:none>, [<item:minecraft:diamond> * 32], [<item:createdeco:netherite_coinstack>], [], 200);
 
 craftingTable.addShapeless("soothico.gc2nc", <item:createdeco:netherite_coin>, [<item:createdeco:gold_coinstack>, <item:createdeco:gold_coinstack>]);
 craftingTable.addShapeless("soothico.nc2gc", <item:createdeco:gold_coinstack> * 2, [<item:createdeco:netherite_coin>]);
