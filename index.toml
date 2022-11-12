@@ -1306,7 +1306,7 @@ hash = "efb4895bdcc27c70aa1f14185493f1035465c40b97221ca0824d285a263f0ce5"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "fe4d782de1df1133652eb7cab9b0049ccc5129ba882fb72cf53fbea99057e4bc"
+hash = "3906f52f1bc7cbd094725db06591f93bdcdaee54c6d2b1ac04f437a07cf45f93"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -4700,6 +4700,11 @@ hash = "d4243fa6e09c0def7b89eb604f3c2cc784880128e2b240f95b4be7629b2c2cf7"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "f7669cbaabc6660fb1ec708725ca2d85e860fe63c00e106399df91094a7e8e1c"
+metafile = true
+
+[[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "ff7d3a13bf54bc26dd5bc6cf02a29c873536fb6698cded03f2be4c71f7da2b29"
 metafile = true
@@ -5370,7 +5375,7 @@ hash = "e41c428211d79f618d5bf827b3fc8b89844d1c6b84f1383caf242a9ad97ca27d"
 
 [[files]]
 file = "scripts/recipes/coins.zs"
-hash = "28a82428f5aca844346918c64f9e8d7b7555907cccb54792367df8465403831c"
+hash = "3a93e0221605797635834a2a40f59a9f7d97951ac1e1ba32c58b255a9629282f"
 
 [[files]]
 file = "scripts/recipes/computers.zs"
@@ -5423,6 +5428,10 @@ hash = "05e4cf182e1f9b1a26b937f79881aa5fcc4594dafeff7f1fb8407dd9415dea31"
 [[files]]
 file = "scripts/recipes/paragliders.zs"
 hash = "625048ed28dc6a26845cbd4adb739a603c4e4b6885eafbb93c197df9ad9cebc5"
+
+[[files]]
+file = "scripts/recipes/quarkbp.zs"
+hash = "4c2c2228b6331d16de105baf94faa655f253dd9e53c9ec71abca2fdad392280b"
 
 [[files]]
 file = "scripts/recipes/silver.zs"
