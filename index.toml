@@ -4760,11 +4760,6 @@ hash = "5fb725c19415ba5de8496eaf365668aaed55bf1d4cfa1a898602ddf19d09e304"
 metafile = true
 
 [[files]]
-file = "mods/it-shall-not-tick.pw.toml"
-hash = "5fb3a1947238def8e68def60ddc6cc08683e6d60e73843e3aeddbc9dc71b688a"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "c8362227e09875f02cc0b025347ce20d86049b7ebbff704b46dde1b7ea335800"
 metafile = true
