@@ -42,19 +42,19 @@ customization {
 }
 
 customization {
-  path = resources/starhop-logo-with-text.png
+  path = resources/logo.png
   orientation = top-centered
-  x = 0
-  width = 484
+  x = -2
+  width = 450
   action = addtexture
   actionid = b63e3812-6c9a-48d2-b792-f26d7244ae121659900732883
-  y = 56
-  height = 129
+  y = 40
+  height = 150
 }
 
 customization {
   orientation = mid-centered
-  basecolor = #79b857
+  basecolor = #038c25
   shadow = true
   splashfilepath = resources/splash.txt
   rotation = 0.0
@@ -71,7 +71,7 @@ customization {
   orientation = mid-centered
   shadow = true
   x = 4
-  textcolor = #79b857
+  textcolor = #038c25
   action = addtext
   actionid = aadf3bdf-b41c-4fd9-ae63-b164706ed13e1659909739377
   y = -17
