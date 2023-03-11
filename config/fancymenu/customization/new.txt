@@ -222,7 +222,7 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 506
+  x = 293
   width = 268
   action = deep_customization_element:title_screen_forge_top
   actionid = cd94f4f9-8711-42f2-8487-09576f2017db1657409550809
@@ -237,18 +237,18 @@ customization {
   width = 108
   action = deep_customization_element:title_screen_branding
   actionid = f4b42e1f-bcdd-4606-b005-ebd29b5d623a1657409550814
-  y = 647
+  y = 417
   height = 40
 }
 
 customization {
   orientation = top-left
   hidden = false
-  x = 1051
+  x = 625
   width = 228
   action = deep_customization_element:title_screen_forge_copyright
   actionid = f5c7e0a5-a600-4834-a7c1-a3c59c6549dc1657409550814
-  y = 669
+  y = 439
   height = 9
 }
 
@@ -276,7 +276,7 @@ customization {
 
 customization {
   orientation = top-centered
-  splash_color = #50a721
+  splash_color = #038c25
   hidden = false
   x = 152
   width = 60
@@ -331,15 +331,19 @@ customization {
 }
 
 customization {
-  showname = false
-  orientation = mid-right
-  crouching = false
-  x = -358
+  vr:showif:windowheightbiggerthan = true
+  orientation = bottom-right
+  vr:value:windowwidthbiggerthan = 1000
   slim = false
+  scale = 50
+  vr:value:windowheightbiggerthan = 600
+  showname = false
+  crouching = false
+  x = -133
   actionid = 478d97cb-0545-42f9-98b6-c6ac2d7a26381658587619682
   action = addentity
-  y = 231
-  scale = 50
+  y = -109
+  vr:showif:windowwidthbiggerthan = true
   playername = %playername%
   parrot = false
 }
@@ -353,11 +357,11 @@ customization {
   y = 101
   scale = 2.0
   alignment = centered
-  value = 2.24
+  value = 2.3
 }
 
 customization {
-  orientation = bottom-left
+  orientation = bottom-right
   enable_scrolling = true
   shadow = true
   scale = 1.0
@@ -366,11 +370,11 @@ customization {
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = 1080
+  x = -200
   width = 200
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 6950ac6e-1855-44d0-9f1c-20932891698a1668086311250
-  y = -42
+  y = -39
   alignment = left
   height = 40
 }
