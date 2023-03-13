@@ -1,13 +1,13 @@
 name = "Hats & Cosmetics"
-filename = "hats-and-cosmetics-1.2-1.18.2.jar"
+filename = "hats-and-cosmetics-1.4-1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f26c77f0e56284e5a1be53c06b52480c09d14be5"
+hash = "6832509692a57ce11c77b361e4105e4006a55b6a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3846721
+file-id = 4285139
 project-id = 594678

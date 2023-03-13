@@ -1,13 +1,13 @@
 name = "Macaw's Furniture"
-filename = "mcw-furniture-3.0.2-mc1.18.2.jar"
+filename = "mcw-furniture-3.1.0-mc1.18.2forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "264c52655e0012d8fe9be47e14ab06d46ea0ca14"
+hash = "df7356d7551147107dd4d7d46e38109d8d9fb7d6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4018178
+file-id = 4419007
 project-id = 359540

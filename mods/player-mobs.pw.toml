@@ -1,13 +1,13 @@
 name = "Player Mobs"
-filename = "PlayerMobs-1.18.1-2.1.4.17.jar"
+filename = "PlayerMobs-1.18.1-2.2.3.26.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2c14ae040bcbdf5bf3faffa1497c6da6e6ded172"
+hash = "d446a948dff2c605ebf1432e076a0b5c7020c7bf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3993035
+file-id = 4343800
 project-id = 430513

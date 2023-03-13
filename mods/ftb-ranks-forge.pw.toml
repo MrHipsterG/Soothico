@@ -1,13 +1,13 @@
 name = "FTB Ranks (Forge)"
-filename = "ftb-ranks-forge-1802.1.8-build.34.jar"
+filename = "ftb-ranks-forge-1802.1.11-build.71.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c9fdd7597fbbcdbd14723324e85b05493196a496"
+hash = "dbe2f33333ebec79cd1aa1d00bdcfb346ae8c36a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3802692
+file-id = 4167384
 project-id = 314905
