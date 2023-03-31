@@ -1125,6 +1125,10 @@ file = "config/repurposed_structures-forge/wells.toml"
 hash = "00308628e4545a6ead916a0719023cb39794c2030653c38aa893e1d7cf35f2d2"
 
 [[files]]
+file = "config/rubidium-mixins.properties"
+hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
+
+[[files]]
 file = "config/rubidium-options.json"
 hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
 
@@ -4612,11 +4616,6 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "a4b6d64430596cfa635a9783871a61cd7a28dbe84e55be7eb95f0e21a8ea4396"
-metafile = true
-
-[[files]]
-file = "mods/every-compat.pw.toml"
-hash = "8685740adfb2f4a19aa0a825be66bef0c4885f608e247aa7ca9a0caa87e42a49"
 metafile = true
 
 [[files]]
