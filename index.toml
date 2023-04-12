@@ -953,6 +953,14 @@ file = "config/guardvillagers-common.toml"
 hash = "86f4b911ed764aeb2e978e7ddb7ccd86ae4ca5400e32fa9421b1141a5b23da3d"
 
 [[files]]
+file = "config/hexcasting-client.toml"
+hash = "64f5f1148ead676aa88689d066275ed6f885d131e830cd5a38fe6346da2fdeae"
+
+[[files]]
+file = "config/hexcasting-common.toml"
+hash = "6b8615a8c0c583174b76191c1f5a5fcd6f8782fa99314c21535673149ede4cc0"
+
+[[files]]
 file = "config/immersive_paintings.json"
 hash = "793a35d7e8d773e831197a9d32f27fca79d7ea274aa23f747ebf9e94f78f0ca2"
 
@@ -2201,31 +2209,31 @@ file = "global_packs/required_data/Less OP Villagers v1.4.5/pack.png"
 hash = "5656cf2015b98cea43ae581e1374076e90ec05080391da7642d7a5b65016bace"
 
 [[files]]
-file = "global_packs/required_data/Remove Biomepedia v0.1/data/minecraft/tags/functions/load.json"
+file = "global_packs/required_data/Remove Modbooks v0.1/data/minecraft/tags/functions/load.json"
 hash = "422ee2eb38400c9d432cceef2fa18dc0335f3e237805e468dace8c5e45aef3f3"
 
 [[files]]
-file = "global_packs/required_data/Remove Biomepedia v0.1/data/minecraft/tags/functions/tick.json"
+file = "global_packs/required_data/Remove Modbooks v0.1/data/minecraft/tags/functions/tick.json"
 hash = "a940e6582610a3dc4bb291f8da13890f0d471e7b293e8368e5ab674dbd500627"
 
 [[files]]
-file = "global_packs/required_data/Remove Biomepedia v0.1/data/removebiomepedia/functions/adblocker.mcfunction"
-hash = "def8f767001d02def5b1c9b08e9f2921eac2ca0f50a25e1e9c8d292b0525353c"
+file = "global_packs/required_data/Remove Modbooks v0.1/data/removebiomepedia/functions/adblocker.mcfunction"
+hash = "fafbe77b22b3d7b8659c3cc7ad92a7cb3f9543ff19f2021c064eb7d6486e8f3f"
 
 [[files]]
-file = "global_packs/required_data/Remove Biomepedia v0.1/data/removebiomepedia/functions/load.mcfunction"
+file = "global_packs/required_data/Remove Modbooks v0.1/data/removebiomepedia/functions/load.mcfunction"
 hash = "dd0fcafbcdd6ee9f0e6fa7ae5bbb1a1652b671dc1f68e5663b63d2d2d0fa690a"
 
 [[files]]
-file = "global_packs/required_data/Remove Biomepedia v0.1/data/removebiomepedia/functions/tick.mcfunction"
+file = "global_packs/required_data/Remove Modbooks v0.1/data/removebiomepedia/functions/tick.mcfunction"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "global_packs/required_data/Remove Biomepedia v0.1/pack.mcmeta"
+file = "global_packs/required_data/Remove Modbooks v0.1/pack.mcmeta"
 hash = "9f968e3220d19fee842ad3b6adaa2b1894358d169ec9b0b7e1a1a5c8e66003ad"
 
 [[files]]
-file = "global_packs/required_data/Remove Biomepedia v0.1/pack.png"
+file = "global_packs/required_data/Remove Modbooks v0.1/pack.png"
 hash = "4513fa9ba4c0e71ffcdf3928a2f80b32203e8c33fbbbb7dc9a520f0ee2ca0553"
 
 [[files]]
@@ -4739,6 +4747,11 @@ hash = "da6ef07100c08f94cab65fccdc6f8fccb9ea28257c6a056a73cfce87195ec7d8"
 metafile = true
 
 [[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "cb52803e329f4eeeccece6760533e5e665a6ae934499f8e81b641d8e62dd695b"
+metafile = true
+
+[[files]]
 file = "mods/honey-expansion-add-on-for-farmers-delight.pw.toml"
 hash = "177f33025cd928c0464867b1efaafada854ba1459aa53df7d79e1f7e4eb15280"
 metafile = true
@@ -4956,6 +4969,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "2f745271922048aca171a9a974b020c5ab57c686a0281d7ba60d4214cb521c9a"
 metafile = true
 
 [[files]]
@@ -5495,138 +5513,6 @@ hash = "4c03b239928a583579a8055ca86c2872b8bb293c33e17628f5a82596d467002c"
 [[files]]
 file = "scripts/woodcutter/woodcutter-warped.zs"
 hash = "952d2da2d0efc72cc5143291a258e4c4a9c6314dfddedcd9d0a14a30d0e8fce0"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbs-bluebright.zs"
-hash = "bfc356f0432d8a271c6e0ad6ec49c6fc5b16153aa07968c3d3c9128d35072368"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbs-cherry.zs"
-hash = "74f410c85dfa67cd517729ecf9008c5bb73602d2f8bd928693c2e30baeeaf7b3"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbs-dusk.zs"
-hash = "af17f320d3d96d229deb5d0a081b7983938a68c28f9225163fccfe2e556ed0d1"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbs-frostbright.zs"
-hash = "904d827f73455bc6756a4e94b1f727e0f22de6992e4989da1960704d6b3988be"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbs-lunar.zs"
-hash = "5e16ddb845879cfb971ff6c1d4dcdf2eff11cccebba342533da97a7441a86893"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbs-maple.zs"
-hash = "79ef42e1c965ac7a1122a9a7d59e41604cf6841351a5526f2b224b338f540198"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbs-starlit.zs"
-hash = "b753469f767c7764bc1513169fb1a557b8a81892e19802361a94b6cff7bcb790"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-aspen.zs"
-hash = "731dd15589ca971cfc3223522bfdd187b7efbae2c6072e9d864902b178dc68eb"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-baobab.zs"
-hash = "43fdd2d6ae03a2c7f59e1da21f76f5ed6b565127747c32d3e6c03adec005a331"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-blueenchanted.zs"
-hash = "8e587ef2563ac039f2602c84740da10e7b2cc0278b33881d39899dcfc37b4907"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-bulbis.zs"
-hash = "37bf289afbf81ae9211db88985be3178dd6213233e841964b04f796404a04038"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-cherry.zs"
-hash = "6f813b932761c94b9ad692c9ba966e61af26255cb8f4cf610cedd265815de549"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-cika.zs"
-hash = "c576a3b800abd5f907be4702f53be19892f93ed228b3c66dc7774cc1d3021cb2"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-cypress.zs"
-hash = "488dd1ecadecd3bcd8eb6ec98ab156f1b702e3ad1e53f18da837ec323ac7352b"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-ebony.zs"
-hash = "6ab0669242e555da391475e73a884b36647013b6e55a1b8a077173d80e67beab"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-ether.zs"
-hash = "e51abea5d607c74215db85dcb068b3666fd7e4ec81aefae4dfe3e9374b4caf19"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-fir.zs"
-hash = "8664511ed49bcadd1dca0e71fd80e08c88522bda81596eb0f8a80ca3e8972fb5"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-greenenchanted.zs"
-hash = "7c927bcb1b37c0f294fa36effc53b874f627ed33f83b16e57f5c8f39abf0404c"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-holly.zs"
-hash = "b6cc92ba6bfefd7b49a18a07c8a7608232cdd01ac8771d86eaa8dabbbb25e795"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-jacaranda.zs"
-hash = "ad3671ffd26827187e47ac5e830413360d86b3f0df4fa4c960120090dd75275c"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-lament.zs"
-hash = "3ceadb03b8d68379d3c7e1fbafae3dd595a7997fed790f006222c995059502e0"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-mahogany.zs"
-hash = "27d12eaf204dd516766c1f22abbeeea6b8e5471305736d44dc69b05f00c93560"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-mangrove.zs"
-hash = "0721734cc6c069a7bb97d7fa79b339fb8f2adb5383a360c3c3a9725b86fbdefa"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-maple.zs"
-hash = "d34aea21ad2ed2ec4f3c126d3509b05265e2a8a1d99e28820fce4a46b524d57f"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-nightshade.zs"
-hash = "1a03a3b23e13b48c8fdf40a96d6c4ccb821cfe9565a38c8a93e9ff8b08d2912f"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-palm.zs"
-hash = "15b6fcaa0466a06f1b878a61d621881d4a4cebe326bf6ae4fb88717877c8e287"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-pine.zs"
-hash = "dc7a3b0ecf7e0c9174fbcb739f892c8113cc4505dedeae2684c74a66a053691d"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-rainboweucalyptus.zs"
-hash = "f84961cd2fb2769053a3d00fb7e71448caf5646d981a81af315647d13066f836"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-redwood.zs"
-hash = "3c096c6ac76a77b95cd1d80b33c1ddf115b235fe41d29a05e23efbaf9609a17e"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-skyris.zs"
-hash = "bd26cb8a71eabce0e357d2d359a20cb17a303ca5293d6498827ff49945de6c64"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-willow.zs"
-hash = "f2927da4e08ea15769d9f8d0c43a15139ea40d715992071c6b1d16ccd4a2d9ca"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-witchhazel.zs"
-hash = "90219fbd839f57e2c3df03e2fc0c23fe82a352fba6cfbd858cd3192254b3c945"
-
-[[files]]
-file = "scripts/woodcutter/woodcutterbyg-zelkova.zs"
-hash = "c13a6feb7fde35287f230a04bedf9fd7c6f764e2a61002e623beec00ba57875f"
 
 [[files]]
 file = "scripts/woodcutter/woodcutterq-blossom.zs"
