@@ -953,6 +953,14 @@ file = "config/guardvillagers-common.toml"
 hash = "86f4b911ed764aeb2e978e7ddb7ccd86ae4ca5400e32fa9421b1141a5b23da3d"
 
 [[files]]
+file = "config/hexcasting-client.toml"
+hash = "64f5f1148ead676aa88689d066275ed6f885d131e830cd5a38fe6346da2fdeae"
+
+[[files]]
+file = "config/hexcasting-common.toml"
+hash = "6b8615a8c0c583174b76191c1f5a5fcd6f8782fa99314c21535673149ede4cc0"
+
+[[files]]
 file = "config/immersive_paintings.json"
 hash = "793a35d7e8d773e831197a9d32f27fca79d7ea274aa23f747ebf9e94f78f0ca2"
 
@@ -2201,31 +2209,31 @@ file = "global_packs/required_data/Less OP Villagers v1.4.5/pack.png"
 hash = "5656cf2015b98cea43ae581e1374076e90ec05080391da7642d7a5b65016bace"
 
 [[files]]
-file = "global_packs/required_data/Remove Biomepedia v0.1/data/minecraft/tags/functions/load.json"
+file = "global_packs/required_data/Remove Modbooks v0.1/data/minecraft/tags/functions/load.json"
 hash = "422ee2eb38400c9d432cceef2fa18dc0335f3e237805e468dace8c5e45aef3f3"
 
 [[files]]
-file = "global_packs/required_data/Remove Biomepedia v0.1/data/minecraft/tags/functions/tick.json"
+file = "global_packs/required_data/Remove Modbooks v0.1/data/minecraft/tags/functions/tick.json"
 hash = "a940e6582610a3dc4bb291f8da13890f0d471e7b293e8368e5ab674dbd500627"
 
 [[files]]
-file = "global_packs/required_data/Remove Biomepedia v0.1/data/removebiomepedia/functions/adblocker.mcfunction"
-hash = "def8f767001d02def5b1c9b08e9f2921eac2ca0f50a25e1e9c8d292b0525353c"
+file = "global_packs/required_data/Remove Modbooks v0.1/data/removebiomepedia/functions/adblocker.mcfunction"
+hash = "fafbe77b22b3d7b8659c3cc7ad92a7cb3f9543ff19f2021c064eb7d6486e8f3f"
 
 [[files]]
-file = "global_packs/required_data/Remove Biomepedia v0.1/data/removebiomepedia/functions/load.mcfunction"
+file = "global_packs/required_data/Remove Modbooks v0.1/data/removebiomepedia/functions/load.mcfunction"
 hash = "dd0fcafbcdd6ee9f0e6fa7ae5bbb1a1652b671dc1f68e5663b63d2d2d0fa690a"
 
 [[files]]
-file = "global_packs/required_data/Remove Biomepedia v0.1/data/removebiomepedia/functions/tick.mcfunction"
+file = "global_packs/required_data/Remove Modbooks v0.1/data/removebiomepedia/functions/tick.mcfunction"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "global_packs/required_data/Remove Biomepedia v0.1/pack.mcmeta"
+file = "global_packs/required_data/Remove Modbooks v0.1/pack.mcmeta"
 hash = "9f968e3220d19fee842ad3b6adaa2b1894358d169ec9b0b7e1a1a5c8e66003ad"
 
 [[files]]
-file = "global_packs/required_data/Remove Biomepedia v0.1/pack.png"
+file = "global_packs/required_data/Remove Modbooks v0.1/pack.png"
 hash = "4513fa9ba4c0e71ffcdf3928a2f80b32203e8c33fbbbb7dc9a520f0ee2ca0553"
 
 [[files]]
