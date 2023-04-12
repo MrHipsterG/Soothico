@@ -1,13 +1,13 @@
 name = "Load My Resources [Forge]"
-filename = "loadmyresources_1.0.1_MC_1.18.jar"
+filename = "loadmyresources_forge_1.0.4_MC_1.18-1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "644cbb962e84ec90a2f4334b8eb571b438a552c1"
+hash = "2fad55e83b080509bfc3267be7c29345a795e136"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3544605
+file-id = 4118354
 project-id = 534502
