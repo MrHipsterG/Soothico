@@ -1,0 +1,11 @@
+{
+	id: "6078D9122876D025"
+	group: ""
+	order_index: 5
+	filename: "hex_crafting"
+	title: "Hex Casting"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+	quest_links: [ ]
+}
