@@ -4979,6 +4979,11 @@ hash = "13178bc94d32f9b96e0fc78b8014eabd0ed3b1a21931f2f6027ff0eebc5e7e33"
 metafile = true
 
 [[files]]
+file = "mods/pluto.pw.toml"
+hash = "d157980f6e4b7a62b870b9a86aafb8f07342800a6ffcffb945567c6b5203af2e"
+metafile = true
+
+[[files]]
 file = "mods/pollen.pw.toml"
 hash = "234a07addb29fb16503b9e45c15feacfe1dbd7604788d72e3930aefad352f141"
 metafile = true
@@ -5021,6 +5026,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "2f18c42ee016430436278ff89e09cdfd6a8ca9928b90be9dca0954704c888952"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "b8e36189e8de79f382ee64c19413492e517fd4ca1f4fb9dd8efc09a05b2d16c1"
 metafile = true
 
 [[files]]
