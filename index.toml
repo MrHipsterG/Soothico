@@ -1010,7 +1010,7 @@ hash = "498b70b3fe252967e7dbc728916df2a565a083a1860bd9b25d91aa4b9b69d18a"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
-hash = "95484813d08d923030996a17435f07100a328c16ebc76d707b34c0e57bccb86e"
+hash = "20051db50b460dac70e8a7fde0e2401e6dce76c5cabac364fac5fcc450206eb3"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
@@ -4445,6 +4445,11 @@ hash = "4d5cfa79f9675b5bd2a8711d48977ad63b7d198eb46c5cc7bb165a8f909101ac"
 metafile = true
 
 [[files]]
+file = "mods/cobblefordays.pw.toml"
+hash = "46a5008339fe37282cbe0fb769b6eae8b794720dd57df1ffa9fcf204721bdedf"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "9a56d3c04cb0669a68cfb29278d32144719d3016edb77f178286bc53d597b32e"
 metafile = true
@@ -5441,6 +5446,10 @@ hash = "a9cc3e22449edbd873ba477b96ee6e7d8394598b29b5423e34505aea75f9c70d"
 [[files]]
 file = "scripts/recipes/calcite.zs"
 hash = "43037b68bee9ce6d8be8c9abde93d062fc5607a0d2dbe51d769e4fb13326423b"
+
+[[files]]
+file = "scripts/recipes/cobblefordays.zs"
+hash = "46de100464f771463ac4619c82484b82cb5347609d9237cadc49cc487f55ca8c"
 
 [[files]]
 file = "scripts/recipes/coins.zs"
