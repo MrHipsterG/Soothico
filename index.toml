@@ -1010,7 +1010,7 @@ hash = "498b70b3fe252967e7dbc728916df2a565a083a1860bd9b25d91aa4b9b69d18a"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
-hash = "20051db50b460dac70e8a7fde0e2401e6dce76c5cabac364fac5fcc450206eb3"
+hash = "358ce6535f98403f124021c5be28cb300bfbb59813ec5a0dba77af62f39486b5"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
@@ -1474,7 +1474,7 @@ hash = "7df4c7e30460222c24e6d5f6875ee0270e0d37cdbfb675c392a6e22e6b4435c5"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server.toml"
-hash = "a35535ce32b390ae1107be7ec539c1cc7e4a413a91071140341c0dcc34a11ee2"
+hash = "66781a851af21406708a60f87551cf8b8f0d884d79b06db21f3ce2b941be3979"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
