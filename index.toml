@@ -937,6 +937,38 @@ file = "config/forge-common.toml"
 hash = "55c992b7e9fe0c07ae54f36f31104a85ebda7571a01f623ff20df4acfdcc9b0c"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create.snbt"
+hash = "27e9dee3e20bea606e11b312105bb42134c3440ac368a0e05b6e8f8a62fcf978"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/equipment.snbt"
+hash = "6613b2d1725d86b14c831f5a3524c86055c7cfd4abf228a27fbfde1f9313ea12"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/hex_crafting.snbt"
+hash = "baa8ffb1738a55b5ab6c36de6ca17ddf5416d35652a72bf9497495c5d55ab4b5"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/storage.snbt"
+hash = "609ffa3f2c3a5e4f0f5d5394f2fff04fe9ebcbf97b596e551f222489a21e6855"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/tetra.snbt"
+hash = "19006f3f70cc2b9f75e4defcb92f72a89231ba073de86502b6775701a2b72aab"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/welcome_to_soothico.snbt"
+hash = "edbc974d46e2847ac7d14776e9a27d76825f5d6ab2b1957968eac03fbd315d3c"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "94955b4a7d182aa0150f2a94313ffb17367952851fa05dfddb92332a2ec3064a"
+
+[[files]]
 file = "config/global_data_and_resourcepacks.toml"
 hash = "79191ae5c6c8ad07371dd4158e0cae3e53e5af0796060dc7045357ddc27c0a5b"
 
@@ -1131,10 +1163,6 @@ hash = "c21921f03014bdd061fc83803277218093d6b7c0a6175dd931d2d46045701a5f"
 [[files]]
 file = "config/repurposed_structures-forge/wells.toml"
 hash = "00308628e4545a6ead916a0719023cb39794c2030653c38aa893e1d7cf35f2d2"
-
-[[files]]
-file = "config/rubidium-mixins.properties"
-hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
 
 [[files]]
 file = "config/rubidium-options.json"

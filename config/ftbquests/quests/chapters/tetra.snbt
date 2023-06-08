@@ -1,0 +1,514 @@
+{
+	id: "40ED712EE900013A"
+	group: ""
+	order_index: 1
+	filename: "tetra"
+	title: "Tetra"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [
+		{
+			x: -0.5d
+			y: -14.5d
+			width: 2.0d
+			height: 2.0d
+			rotation: 0.0d
+			image: "tetra:textures/mob_effect/small_strength.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 2.5d
+			y: -14.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "tetra:textures/items/module/holo/frame/default.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 1.0d
+			y: -15.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "tetra:textures/items/geode.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+	]
+	quests: [
+		{
+			x: 1.0d
+			y: -14.0d
+			description: ["Tetra is a mod based around the creation, tinkering and modification of your very own custom tools and weapons!"]
+			size: 2.0d
+			id: "5389414D84330BC3"
+			tasks: [{
+				id: "339D34B8A9345BE1"
+				type: "checkmark"
+				title: "Welcome to Tetra!"
+			}]
+			rewards: [{
+				id: "4993D7296C9168E6"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+		{
+			x: 1.0d
+			y: -12.5d
+			dependencies: ["5389414D84330BC3"]
+			id: "6E74D14830CABD2E"
+			tasks: [{
+				id: "097FB1F0833F58C3"
+				type: "advancement"
+				title: "Basic Tinkering"
+				advancement: "tetra:upgrades/root"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "4330EE1EBC27517D"
+				type: "item"
+				item: {
+					id: "treasurebags:treasure_bag"
+					Count: 1b
+					tag: {
+						silentlib.LootContainer: {
+							LootTable: "soothico:ores/bag/common_table"
+							BagType: "soothico:ores/common"
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: -10.5d
+			description: ["You'll need two hammers! You can't expect to hammer a hammer without a hammer, can you?"]
+			dependencies: ["6E74D14830CABD2E"]
+			id: "5232D4823F87987F"
+			tasks: [{
+				id: "30764E22729E55D0"
+				type: "advancement"
+				title: "Tier II"
+				advancement: "tetra:upgrades/hammer_2"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "67009FD955A1BA0C"
+				type: "item"
+				item: {
+					id: "treasurebags:treasure_bag"
+					Count: 1b
+					tag: {
+						silentlib.LootContainer: {
+							LootTable: "soothico:ores/bag/common_table"
+							BagType: "soothico:ores/common"
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: -9.5d
+			dependencies: ["5232D4823F87987F"]
+			id: "3F3F8FB597E9FE22"
+			tasks: [{
+				id: "6208CC4F94BE6A67"
+				type: "advancement"
+				title: "Tier III"
+				advancement: "tetra:upgrades/hammer_3"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "20F16FFA6B91F3C4"
+				type: "item"
+				item: {
+					id: "treasurebags:treasure_bag"
+					Count: 1b
+					tag: {
+						silentlib.LootContainer: {
+							LootTable: "soothico:ores/bag/rare_table"
+							BagType: "soothico:ores/rare"
+						}
+					}
+				}
+			}]
+		}
+		{
+			title: "Tier IV"
+			x: 1.0d
+			y: -8.5d
+			dependencies: ["3F3F8FB597E9FE22"]
+			id: "62170CC2C4D943A9"
+			tasks: [{
+				id: "1B67822A447B6669"
+				type: "advancement"
+				title: "Tier IV"
+				advancement: "tetra:upgrades/hammer_4"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "23C9E9C20EE5D474"
+				type: "item"
+				item: {
+					id: "treasurebags:treasure_bag"
+					Count: 1b
+					tag: {
+						silentlib.LootContainer: {
+							LootTable: "soothico:ores/bag/rare_table"
+							BagType: "soothico:ores/rare"
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: -7.5d
+			dependencies: ["62170CC2C4D943A9"]
+			id: "4B14EFC4B136F798"
+			tasks: [{
+				id: "4F699DF36240C5FF"
+				type: "advancement"
+				title: "Tier VI"
+				advancement: "tetra:upgrades/hammer_5"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "6D2094515233F112"
+				type: "item"
+				item: {
+					id: "treasurebags:treasure_bag"
+					Count: 1b
+					tag: {
+						silentlib.LootContainer: {
+							LootTable: "soothico:ores/bag/epic_table"
+							BagType: "soothico:ores/epic"
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: -6.5d
+			dependencies: ["4B14EFC4B136F798"]
+			id: "3518A4555E96482F"
+			tasks: [{
+				id: "218DC4B9FA31F086"
+				type: "advancement"
+				title: "Tier VII"
+				advancement: "tetra:upgrades/hammer_6"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "3881E8681E5E3B44"
+				type: "item"
+				item: {
+					id: "treasurebags:treasure_bag"
+					Count: 1b
+					tag: {
+						silentlib.LootContainer: {
+							LootTable: "soothico:ores/bag/epic_table"
+							BagType: "soothico:ores/epic"
+						}
+					}
+				}
+			}]
+		}
+		{
+			title: "I'm Playing Spelunky"
+			x: 3.0d
+			y: -10.5d
+			dependencies: ["6E74D14830CABD2E"]
+			id: "5223776267C090A2"
+			tasks: [{
+				id: "01BE647A9702026E"
+				type: "advancement"
+				advancement: "tetra:spelunking/root"
+				criterion: ""
+			}]
+		}
+		{
+			x: 2.0d
+			y: -9.5d
+			dependencies: ["5223776267C090A2"]
+			id: "047B9557D170D0B7"
+			tasks: [{
+				id: "4D4DFB45FEC8AEFD"
+				type: "item"
+				item: "tetra:pristine_lapis"
+			}]
+			rewards: [{
+				id: "184B5156F264CD37"
+				type: "item"
+				item: {
+					id: "treasurebags:treasure_bag"
+					Count: 1b
+					tag: {
+						silentlib.LootContainer: {
+							LootTable: "soothico:ores/bag/rare_table"
+							BagType: "soothico:ores/rare"
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: -9.5d
+			dependencies: ["5223776267C090A2"]
+			id: "5F671E4E46A55418"
+			tasks: [{
+				id: "3C6D7368AA9ACD99"
+				type: "item"
+				item: "tetra:pristine_emerald"
+			}]
+			rewards: [{
+				id: "218FF7C6D5D13160"
+				type: "item"
+				item: {
+					id: "treasurebags:treasure_bag"
+					Count: 1b
+					tag: {
+						silentlib.LootContainer: {
+							LootTable: "soothico:ores/bag/rare_table"
+							BagType: "soothico:ores/rare"
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: -9.0d
+			dependencies: ["5223776267C090A2"]
+			id: "733E7EB1E143EE2B"
+			tasks: [{
+				id: "4960D58308B7D843"
+				type: "item"
+				item: "tetra:pristine_diamond"
+			}]
+			rewards: [{
+				id: "49CAC0E2E39B434C"
+				type: "item"
+				item: {
+					id: "treasurebags:treasure_bag"
+					Count: 1b
+					tag: {
+						silentlib.LootContainer: {
+							LootTable: "soothico:ores/bag/rare_table"
+							BagType: "soothico:ores/rare"
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: -10.5d
+			description: ["Right click on a workbench with your new hammer!"]
+			dependencies: ["6E74D14830CABD2E"]
+			id: "08A2D1DA43ECBB09"
+			tasks: [{
+				id: "406E364EDF94343C"
+				type: "advancement"
+				title: "Bench Mk II"
+				advancement: "tetra:upgrades/workbench"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "68127F341AC2D78D"
+				type: "item"
+				item: {
+					id: "treasurebags:treasure_bag"
+					Count: 1b
+					tag: {
+						silentlib.LootContainer: {
+							LootTable: "soothico:ores/bag/uncommon_table"
+							BagType: "soothico:ores/uncommon"
+						}
+					}
+				}
+			}]
+		}
+		{
+			title: "Utility Belt"
+			x: 0.0d
+			y: -9.5d
+			description: ["Craft a utility belt out of some string!"]
+			dependencies: ["08A2D1DA43ECBB09"]
+			id: "60BD740EF8D922FD"
+			tasks: [{
+				id: "61B47E295BEF2850"
+				type: "item"
+				item: {
+					id: "tetra:modular_toolbelt"
+					Count: 1b
+					tag: {
+						"toolbelt/belt_material": "belt/rope"
+						id: "f48332e9-3bb6-4eab-8d6e-a58dc8285dac"
+						"toolbelt/belt": "toolbelt/belt"
+						"toolbelt/slot1": "toolbelt/strap_slot1"
+						"toolbelt/strap_slot1_material": "strap1/leather"
+					}
+				}
+			}]
+			rewards: [{
+				id: "708A4039DB07CD74"
+				type: "item"
+				item: {
+					id: "treasurebags:treasure_bag"
+					Count: 1b
+					tag: {
+						silentlib.LootContainer: {
+							LootTable: "soothico:ores/bag/uncommon_table"
+							BagType: "soothico:ores/uncommon"
+						}
+					}
+				}
+			}]
+		}
+		{
+			title: "Slice Time!"
+			x: -1.0d
+			y: -9.0d
+			description: ["Place a vanilla sword in a workbench to upgrade it!"]
+			dependencies: ["08A2D1DA43ECBB09"]
+			id: "1E77947ADCEFF4E6"
+			tasks: [{
+				id: "4E77182483FD79A6"
+				type: "advancement"
+				advancement: "tetra:upgrades/sword_upgrade"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "67B7B6E568C38069"
+				type: "item"
+				item: {
+					id: "treasurebags:treasure_bag"
+					Count: 1b
+					tag: {
+						silentlib.LootContainer: {
+							LootTable: "soothico:ores/bag/uncommon_table"
+							BagType: "soothico:ores/uncommon"
+						}
+					}
+				}
+			}]
+		}
+		{
+			title: "Ready, Aim, Fire!"
+			x: -2.0d
+			y: -9.5d
+			description: ["Place a vanilla bow in the workbench to adjust it!"]
+			dependencies: ["08A2D1DA43ECBB09"]
+			id: "1EB9A50BB20AB027"
+			tasks: [{
+				id: "554FA0B76D0CE470"
+				type: "advancement"
+				advancement: "tetra:upgrades/bow_upgrade"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "55EC89DF3665BAEE"
+				type: "item"
+				item: {
+					id: "treasurebags:treasure_bag"
+					Count: 1b
+					tag: {
+						silentlib.LootContainer: {
+							LootTable: "soothico:ores/bag/uncommon_table"
+							BagType: "soothico:ores/uncommon"
+						}
+					}
+				}
+			}]
+		}
+		{
+			title: "I Could Do This All Day"
+			x: -2.5d
+			y: -10.5d
+			description: ["Put a vanilla shield in the workbench to upgrade it!"]
+			dependencies: ["08A2D1DA43ECBB09"]
+			id: "34D0C2B4A8822B07"
+			tasks: [{
+				id: "09573E568B51AD6A"
+				type: "advancement"
+				advancement: "tetra:upgrades/shield_upgrade"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "7DCDF56735E86103"
+				type: "item"
+				item: {
+					id: "treasurebags:treasure_bag"
+					Count: 1b
+					tag: {
+						silentlib.LootContainer: {
+							LootTable: "soothico:ores/bag/uncommon_table"
+							BagType: "soothico:ores/uncommon"
+						}
+					}
+				}
+			}]
+		}
+		{
+			title: "Pick and Choose"
+			x: -2.0d
+			y: -11.5d
+			description: ["Place a vanilla pickaxe in the workbench to adjust it!"]
+			dependencies: ["08A2D1DA43ECBB09"]
+			id: "388B67D073C55393"
+			tasks: [{
+				id: "524A93892540C4A4"
+				type: "advancement"
+				advancement: "tetra:upgrades/tool_upgrade"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "1E94E07E21C6EADF"
+				type: "item"
+				item: {
+					id: "treasurebags:treasure_bag"
+					Count: 1b
+					tag: {
+						silentlib.LootContainer: {
+							LootTable: "soothico:ores/bag/uncommon_table"
+							BagType: "soothico:ores/uncommon"
+						}
+					}
+				}
+			}]
+		}
+		{
+			title: "Gilding And You"
+			x: 4.5d
+			y: -10.5d
+			description: ["You can find gilding scrolls in the Nether, which if you hang them up by a workbench, can let you increase the magic capacity on a tool as a honing option."]
+			id: "6918D005A5F86009"
+			tasks: [{
+				id: "0BC7DF902D821635"
+				type: "advancement"
+				advancement: "tetra:spelunking/find_scroll_gild"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "1391CC5A668F35F8"
+				type: "xp"
+				xp: 100
+			}]
+		}
+	]
+	quest_links: [ ]
+}

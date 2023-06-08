@@ -1,0 +1,20 @@
+{
+	id: "0D0E972B66A3ED6A"
+	group: ""
+	order_index: 0
+	filename: "welcome_to_soothico"
+	title: "Welcome to Soothico!"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: -2.5d
+		y: -15.0d
+		id: "7AB70060F422A99D"
+		tasks: [{
+			id: "14EA73345D8F6C18"
+			type: "checkmark"
+			title: "Welcome!"
+		}]
+	}]
+	quest_links: [ ]
+}
