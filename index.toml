@@ -62,7 +62,7 @@ hash = "86b10c179cf64ca99328619d88171d8298db26640fc6ff3e09c53dbaa92e0743"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "1e2a2bd9f448bd903899708e03bbab590f0704127a643c050ac1b715a2199e5f"
+hash = "347c97b040bb982b21b8f5ca288fba1b7a9462d3078b15ae69f281a299dfbf8d"
 
 [[files]]
 file = "config/alexsmobs/alligator_snapping_turtle_spawns.json"
@@ -1250,7 +1250,7 @@ hash = "70da8cd57cd321ae43ec3774995de812116c67163c0ae8859965a3599e3aeefa"
 
 [[files]]
 file = "config/tetra.toml"
-hash = "5e0418ee36219f71a94ed23daf1aa2eb20b06a97843534732341fc836f37874f"
+hash = "853fe15c338e8f66d4eef0414244c66163a97623a7c8ccfb2403a6a6de9d6231"
 
 [[files]]
 file = "config/tetrapak-common.toml"
@@ -5360,8 +5360,12 @@ file = "resources/splash.txt"
 hash = "f56ad87347bf2a9be3c2c2440bc2091426fceafd60d41a6bd93f78ec11d2c1e5"
 
 [[files]]
-file = "scripts/balance/neptuniumbalance.zs"
-hash = "d9bc442946feaf8427087ec4a12589ea75ea5dcc863a7e27283a62e833a5caa6"
+file = "scripts/balance/tetrabalance.zs"
+hash = "42c0c9de1fcc927508c225156f99e389549b43228edcd52e15d10eea3ea0f644"
+
+[[files]]
+file = "scripts/balance/upgradednetheritebalance.zs"
+hash = "48d92fbb68acdaac3014b6e167c934ced97b52f5fd8a5fcdfd82139114c9d116"
 
 [[files]]
 file = "scripts/food/berryunity.zs"
@@ -5405,7 +5409,7 @@ hash = "ed0f7cb1148d1f684ed0fb8673ca97ae14cf44b6804c7223a9f7cab0a69f01e6"
 
 [[files]]
 file = "scripts/miscchanges/tarantulahawk_elytra.zs"
-hash = "8446c6cb8559239d06311d8a4db8b6df1ccac3bfe2b70c2fd9a28721fef6c479"
+hash = "b170d1fedddd02188ad0a91aba7f4df5bb811359160736f94c4bcf52bb8eab50"
 
 [[files]]
 file = "scripts/miscchanges/tooltips.zs"
