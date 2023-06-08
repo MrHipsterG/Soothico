@@ -1,0 +1,1 @@
+craftingTable.removeByName("tetra:temp/planar_stabilizer");
