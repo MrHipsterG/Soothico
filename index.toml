@@ -730,7 +730,7 @@ hash = "7d50466fd185eb5b8962c56f106e70a27c32f16a40a9024460d07d5b87bfaec6"
 
 [[files]]
 file = "config/drippyloadingscreen/config.cfg"
-hash = "9bef416a0e25321e3dd93baa279a643e0153ecb9305c330d13cc6976e1ab9326"
+hash = "d965c4257a40fede3a3ec737bccc5b470a02f381fa18ba4c36f1bc40f614f467"
 
 [[files]]
 file = "config/drippyloadingscreen/customization/default.dllayout"
@@ -4300,7 +4300,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
-hash = "009d1f8a8fb42ae5efa8357eb1c1c47dda13ac29034b1e50890cc129a470913b"
+hash = "39b33a34b4d819e55e18c7e0497e5d31fa1f0543f66f277f407424d77e99663c"
 metafile = true
 
 [[files]]
@@ -4414,11 +4414,6 @@ hash = "ce2aa209b10a5ca89af90a5cb67292117dee46165dab91538d543782c49dace3"
 metafile = true
 
 [[files]]
-file = "mods/cccbridge.pw.toml"
-hash = "90a98f89c7fd522c158b2ad7ac46a9370e4173fbc434f3e13d69dc9a3f7a243e"
-metafile = true
-
-[[files]]
 file = "mods/champions.pw.toml"
 hash = "c441d3d39f1abd18ffbe9c187b91dde1edf421513cf493ffef9bc33a960f36c2"
 metafile = true
@@ -4520,7 +4515,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "ef0319f9d769e3f1743767f9a81a7e326a49c351f1a0235eac6de8f07be3578b"
+hash = "a870f4e08855ee1eb1845baa93c0f941f8b39842e20f6d43e78fa8b212508a87"
 metafile = true
 
 [[files]]
@@ -4535,12 +4530,12 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "3d22456ed14c5f4abaf5a1b3dfcfaff3626f595f353176eec276f70dffdef6fd"
+hash = "722260d950673eedd85d141e00883d8899b5336a79cfaded12e96359875f4c09"
 metafile = true
 
 [[files]]
 file = "mods/createtweaker.pw.toml"
-hash = "7167f524b5bdf8ecb04380f21bcad86a0e86cfd302614c20dfb14588b213d4a9"
+hash = "038bbe5add6d40856667b3095ed77ae0ca2c2ca5235390904b5cce5c314405c4"
 metafile = true
 
 [[files]]
@@ -5115,7 +5110,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "59583b3b0263c1d2a6bd7210eef0bfaeadcbf6482e8c331f6b5a114dc976e3ca"
+hash = "f996c8739e784cd806269beeea770126da21e219bcdf0a4ddc91d9600b07ffc2"
 metafile = true
 
 [[files]]
@@ -5181,11 +5176,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "526f1411f2287247b09ebe85ce4ba29daaad56f1a817d163ec194f78b11bb8ef"
-metafile = true
-
-[[files]]
-file = "mods/tetra-pak.pw.toml"
-hash = "a1056609a2763cc7402739ab7435f1f2d0f188dc36c0c40724b1c4ae91b12096"
 metafile = true
 
 [[files]]
@@ -5437,7 +5427,7 @@ hash = "453c49163b7ad6948f6e6a4a035f70c734ddd330bf11d363ed35b2a546d92051"
 
 [[files]]
 file = "scripts/miscchanges/startinginventory.zs"
-hash = "ed0f7cb1148d1f684ed0fb8673ca97ae14cf44b6804c7223a9f7cab0a69f01e6"
+hash = "dc549796cdf8c1adb6509472e628293f27a25cece241d740932bbc385ba83478"
 
 [[files]]
 file = "scripts/miscchanges/tarantulahawk_elytra.zs"
