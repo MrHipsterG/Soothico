@@ -4,8 +4,349 @@
 	order_index: 5
 	filename: "hex_crafting"
 	title: "Hex Casting"
+	icon: "hexcasting:wand_akashic"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	images: [
+		{
+			x: -2.0d
+			y: -15.0d
+			width: 2.0d
+			height: 2.0d
+			rotation: 0.0d
+			image: "minecraft:textures/block/budding_amethyst.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -2.0d
+			y: -16.5d
+			width: 1.5d
+			height: 1.5d
+			rotation: 0.0d
+			image: "minecraft:textures/block/amethyst_cluster.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -0.5d
+			y: -14.5d
+			width: 1.5d
+			height: 1.5d
+			rotation: 90.0d
+			image: "minecraft:textures/block/large_amethyst_bud.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -3.5d
+			y: -15.0d
+			width: 1.5d
+			height: 1.5d
+			rotation: -90.0d
+			image: "minecraft:textures/block/medium_amethyst_bud.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 1.5d
+			y: -15.0d
+			width: 2.0d
+			height: 2.0d
+			rotation: 0.0d
+			image: "quark:textures/block/ender_watcher.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -8.0d
+			y: -10.5d
+			width: 1.5d
+			height: 1.5d
+			rotation: 0.0d
+			image: "byg:textures/block/bulbis_bookshelf.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+	]
+	quests: [
+		{
+			title: "A Wizard's Best Friend"
+			x: -2.0d
+			y: -13.0d
+			shape: "rsquare"
+			description: ["The Tool you will be using throughout this mod; Your very own staff! At this point, I would recommend giving the book we gave you in the last quest a good, hard read. It will teach you a lot about what each sigil does, and how you can combine them into all manners of powerful (but costly!) spells. The Quests to the left will teach you about the tools that will become your saving grace throughout this mod, whereas the quests on the right shall be small challenges, to test your Spellcasting Prowess!"]
+			dependencies: ["560F621573F8606B"]
+			id: "6F16DAF957A6F347"
+			tasks: [{
+				id: "18ED0DE05E72F57F"
+				type: "item"
+				title: "Any #hexcasting:wands"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "hexcasting:wands"
+					}
+				}
+			}]
+		}
+		{
+			title: "Visiting a Geode"
+			icon: "minecraft:amethyst_cluster"
+			x: -2.0d
+			y: -15.0d
+			shape: "hexagon"
+			description: ["To start with Hex Crafting, we're going to need Media, and a lot of it! Visit a nearby Geode, and mine absolutely everything in it. Amethyst Dust, Crystals, Shards, even blocks! Grab them all! (If you have Silk Touch, Pick up the Budding Amethyst with that! Budding Amethyst periodically spawns amethyst clusters.)"]
+			size: 1.5d
+			id: "560F621573F8606B"
+			tasks: [{
+				id: "7C5FDB3EE9A74781"
+				type: "observation"
+				icon: "minecraft:budding_amethyst"
+				timer: 0L
+				observe_type: 0
+				to_observe: "minecraft:budding_amethyst"
+			}]
+			rewards: [{
+				id: "7F0EDDA4704C07CA"
+				type: "item"
+				item: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "hexcasting:thehexbook"
+					}
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: -15.0d
+			shape: "diamond"
+			description: ["Congratulations! You almost killed yourself. But in doing so, You managed to unlock the key to ascension; Enlightenment. You can now use Health instead of Media for certain spells. Do be careful with this though, as you can easily finish the job with Greater Spells."]
+			invisible: true
+			id: "02C0FDBC6E6AA4B2"
+			tasks: [{
+				id: "48EAA93EA844706B"
+				type: "advancement"
+				title: "Enlightenment"
+				advancement: "hexcasting:opened_eyes"
+				criterion: ""
+			}]
+		}
+		{
+			title: "Focused Casting"
+			icon: "hexcasting:focus"
+			x: -4.0d
+			y: -13.0d
+			shape: "rsquare"
+			dependencies: ["6F16DAF957A6F347"]
+			id: "3A866FCF4C938BA1"
+			tasks: [{
+				id: "147DF3F96928E8E8"
+				type: "item"
+				item: "hexcasting:focus"
+			}]
+		}
+		{
+			title: "Counting on You"
+			x: -4.25d
+			y: -12.0d
+			description: ["Tired of using that long, obnoxious counting spell? With an Abacus, you can set precise numbers in a matter of seconds! Consult your Hex Notebook for more details."]
+			dependencies: ["6AEDCD8B430854E2"]
+			size: 0.5d
+			id: "76204F469AB21D06"
+			tasks: [{
+				id: "6523ABD64D734486"
+				type: "item"
+				item: "hexcasting:abacus"
+			}]
+		}
+		{
+			title: "Seeing is Believing"
+			x: -5.0d
+			y: -12.75d
+			description: ["The Scrying Lens is a very interesting bauble. It allows you to see the math in certain things at a glance. Redstone Strength, machine values, you name it!"]
+			dependencies: ["6AEDCD8B430854E2"]
+			size: 0.5d
+			id: "0C7C6EDAD7B0B460"
+			tasks: [{
+				id: "70D3EAA161BAACC1"
+				type: "item"
+				item: "hexcasting:lens"
+			}]
+		}
+		{
+			title: "Write that down!"
+			x: -5.0d
+			y: -12.0d
+			description: [
+				"Scrolls are a simplistic way of noting down certain patterns for your spellcrafting needs. They can be used as Decoration, or just to help you remember certain patterns!"
+				"Later on, you can use these to paste certain hard-to-use symbols into your spells, so you don't need to worry about getting it wrong!"
+			]
+			dependencies: ["3A866FCF4C938BA1"]
+			id: "6AEDCD8B430854E2"
+			tasks: [{
+				id: "56568F23391CEA45"
+				type: "item"
+				item: "hexcasting:scroll_small"
+			}]
+		}
+		{
+			title: "A Magical Tree"
+			x: 0.0d
+			y: -13.0d
+			description: ["This one is just a test of your prowess as a Hex Caster. Inside of your Hex Notebook there should be a spell known as 'Edify Tree', try casting it on a Sapling and harvesting the wood that comes from it! Of course, though it may seem simple, it may test some of the things you have learnt along the way."]
+			dependencies: ["6F16DAF957A6F347"]
+			id: "711293BC31C8DB22"
+			tasks: [{
+				id: "697ED1D95E3A38CE"
+				type: "item"
+				item: "hexcasting:akashic_log"
+			}]
+			rewards: [{
+				id: "5149F6CD97CA9591"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+		}
+		{
+			title: "A Blank Slate"
+			x: -6.5d
+			y: -12.0d
+			description: ["Like Scrolls, Slates can also be used to store Patterns, but have a much sleeker look to them. Though used for much more later on, they are also great aesthetic choices."]
+			dependencies: ["6AEDCD8B430854E2"]
+			id: "5B8004F6F970D017"
+			tasks: [{
+				id: "6C375FBE3E00D545"
+				type: "item"
+				item: "hexcasting:slate"
+			}]
+		}
+		{
+			title: "Media and You"
+			icon: "hexcasting:amethyst_dust"
+			x: -2.0d
+			y: -12.0d
+			description: [
+				"For basic spellcasting, you will need Media; Amethyst of large and small quantities. From dust to Charged Amethyst, these shall all be used in the coming days as 'Fuel' for your spells."
+				"Make sure you have plenty on you, as your spells will fail without it!"
+			]
+			dependencies: ["6F16DAF957A6F347"]
+			size: 0.5d
+			id: "43106C96ED3B04D0"
+			tasks: [{
+				id: "50174F342107FE50"
+				type: "checkmark"
+			}]
+		}
+		{
+			title: "Colour of your Soul"
+			icon: "hexcasting:dye_colorizer_black"
+			x: -5.0d
+			y: -9.0d
+			description: [
+				"Pigments allow you to change the color of your Magic. Simply hold it in your off-hand, and use the spell 'Internalize Pigment', and any spell you cast shall recieve a brand new makeover!"
+				"(Patterns > Spells > Internalize Pigment in the Hex Notebook!)"
+			]
+			dependencies: ["6AEDCD8B430854E2"]
+			id: "358EEA14213EBEE5"
+			tasks: [{
+				id: "7E171783084DB2F9"
+				type: "item"
+				item: "hexcasting:dye_colorizer_white"
+			}]
+		}
+		{
+			title: "Spellcasting on the Go: Trinkets"
+			x: -6.0d
+			y: -10.5d
+			description: ["Like Cyphers, Trinkets are very similar in the way that they function, but instead of breaking once they are out of Media, they can instead be recharged! Consult the Hex Notebook on how to Recharge your items!"]
+			dependencies: ["4D9025420F3BB37B"]
+			size: 0.75d
+			id: "08CCEE667BF688C5"
+			tasks: [{
+				id: "6BE08BC096F961DE"
+				type: "item"
+				item: "hexcasting:trinket"
+			}]
+		}
+		{
+			title: "Spellcasting on the Go: Artifacts"
+			x: -6.75d
+			y: -10.5d
+			description: ["Artifacts are very powerful, very useful upgrades to Trinkets. Instead of just having an internal battery, they can use outside sources of Media, too. Amethyst dust, vials, life-force, you name it!"]
+			dependencies: ["08CCEE667BF688C5"]
+			size: 0.75d
+			id: "6F7EBC480EB9A6FA"
+			tasks: [{
+				id: "6B9C12F9E061FF7B"
+				type: "item"
+				item: "hexcasting:artifact"
+			}]
+		}
+		{
+			title: "Spellcasting on the Go: Cyphers"
+			x: -5.0d
+			y: -10.5d
+			description: ["Cyphers are consumable, portable spell holders. They hold a certain amount of media, and break once that amount is used up. Great for quick and easy spells, but you'll probably want to upgrade them later!"]
+			dependencies: ["6AEDCD8B430854E2"]
+			id: "4D9025420F3BB37B"
+			tasks: [{
+				id: "5CC9A7FABC7145FD"
+				type: "item"
+				item: "hexcasting:cypher"
+			}]
+		}
+		{
+			x: -8.0d
+			y: -10.5d
+			description: ["The Spellbook is considered the ultimate choice in spell storage. Able to function like an Artifact, but hold multiple spells at the same time. The price to make it is costly, but the results are well worth it."]
+			dependencies: ["6F7EBC480EB9A6FA"]
+			id: "5A2592A11C639E23"
+			tasks: [{
+				id: "435076885596F8F0"
+				type: "item"
+				item: "hexcasting:spellbook"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -12.0d
+			description: ["a Phial of Media is a useful little tool, though its' creation is a little more on the difficult side of things, all documented within your Hex Notebook. It allows you to precisely use as much Media as needed and not waste a single drop, instead of using full dust for a spell that would use only a pinch."]
+			dependencies: ["711293BC31C8DB22"]
+			id: "24176CE268A471D3"
+			tasks: [{
+				id: "51AF84F50A5F7EB8"
+				type: "item"
+				item: {
+					id: "hexcasting:battery"
+					Count: 1b
+					tag: {
+						"hexcasting:mana": 100000
+						"hexcasting:start_mana": 100000
+					}
+				}
+			}]
+			rewards: [{
+				id: "129DC668F48A6DFC"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+		}
+	]
 	quest_links: [ ]
 }
