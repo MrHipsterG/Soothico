@@ -5452,10 +5452,6 @@ file = "scripts/recipes/corundumdye.zs"
 hash = "f7edfdb53f358520efd490b5a91fd6243889afcd2496249703cb7fff6e19b912"
 
 [[files]]
-file = "scripts/recipes/crushingrecipes.zs"
-hash = "3245db059cf373d545ad14c54d09aa60c8e81909ddb1157bfa9fb2a1f2c4ebe8"
-
-[[files]]
 file = "scripts/recipes/cryingobsidian.zs"
 hash = "7f9bc4b422c179799e6336ee274eba78709f3007285f4023f172124e0658d280"
 
@@ -5477,7 +5473,7 @@ hash = "f852d178c23499b05938ecf7fc9fad0fd9798e6f59bd5d714638f8953068358a"
 
 [[files]]
 file = "scripts/recipes/lead.zs"
-hash = "e975f11a7c5bde8b745f6e9dc852b564acecbb1c1b04bed0a154ef336611b1d1"
+hash = "1fc871ed7fc241650f1bf1dc3429bccb6651858f44600364c18583f4132fa976"
 
 [[files]]
 file = "scripts/recipes/maggot.zs"
