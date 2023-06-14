@@ -4505,7 +4505,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-chunkloading.pw.toml"
-hash = "99c9c05bcfaf416d6e807b30d0821de667b283e9c43562bdf4ea384121d77a7d"
+hash = "ecf370997609f5d2b35c85c6516eca0d4fbf86399d2116fcf6337f2f3bccb6b4"
 metafile = true
 
 [[files]]
@@ -4724,11 +4724,6 @@ hash = "49ac4b54302b17b6df0411394d3cd336ae775df8f981d1fee961c7cb52282e32"
 metafile = true
 
 [[files]]
-file = "mods/flywheel.pw.toml"
-hash = "90139a5b885c66756095b4338797031c2f0b167d0b08b33412fae4366f3537a5"
-metafile = true
-
-[[files]]
 file = "mods/ftb-essentials-forge.pw.toml"
 hash = "b49c26a15abf81d01b5fb7e72ad115c939c38caeafed80f055dba1653d8e6484"
 metafile = true
@@ -4820,7 +4815,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-filters.pw.toml"
-hash = "b7b5403cc7b2eff0e2e3f4d437c384dad3b678d14241955c4ccbbcb764917d47"
+hash = "b5d50a2815512a7e2224173edd77f7b798c29607640f8144e4c3f122d61b40d6"
 metafile = true
 
 [[files]]
@@ -4831,11 +4826,6 @@ metafile = true
 [[files]]
 file = "mods/jeitweaker.pw.toml"
 hash = "df2cae32830ff833abb3c2897cc34d569623b44c196028af677770f0c83c0da4"
-metafile = true
-
-[[files]]
-file = "mods/jer-integration.pw.toml"
-hash = "8342d02ffa8c8a5aae481dd7f22475ced3861756a4088e0c9c9a9e78f43cacf2"
 metafile = true
 
 [[files]]
@@ -5170,7 +5160,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5afd2bbb038204601b83adbb9ed9408be06fc3c6d88f334e7631e59c2dd91252"
+hash = "bbcac108eb3d98535842213f234673bb2725e8abed191c8dc5c3893a3675999a"
 metafile = true
 
 [[files]]
