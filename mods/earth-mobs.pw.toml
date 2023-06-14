@@ -1,13 +1,13 @@
 name = "Earth Mobs"
-filename = "EarthMobs-1.18.2-1.1.2.jar"
+filename = "EarthMobs-1.18.2-1.4.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "68fe951ebb2b1b35fe8a376baa4d2b3960953ee8"
+hash = "184cbeed4a91bbb99a24e929d54022ed99676f94"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3816758
+file-id = 4344148
 project-id = 333256

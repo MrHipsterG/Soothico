@@ -37,7 +37,7 @@
 	#Whether mimicream can be used to duplicate items.
 	mimicreamRepair = true
 	#Blacklist for items that mimicream cannot make a copy of. Ex: "minecraft:stone_sword", "alexsmobs:blood_sprayer"
-	mimicreamBlacklist = ["alexsmobs:blood_sprayer", "alexsmobs:hemolymph_blaster"]
+	mimicreamBlacklist = ["alexsmobs:blood_sprayer", "alexsmobs:hemolymph_blaster", "cataclysm:monstrous_helm", "cataclysm:infernal_forge", "cataclysm:ignitium_helmet", "cataclysm:ignitium_chestplate", "cataclysm:ignitium_elytra_chestplate", "cataclysm:ignitium_leggings", "cataclysm:ignitium_boots", "tetra:modular_bow", "tetra:modular_crossbow", "tetra:modular_double", "tetra:modular_shield", "tetra:modular_single", "tetra:modular_sword", "tetra:modular_toolbelt"]
 	#Whether wild raccoons steal food from chests.
 	raccoonStealFromChests = true
 	#Whether fish oil gives players a special levitation effect.

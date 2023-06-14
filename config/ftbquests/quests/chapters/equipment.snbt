@@ -1,0 +1,28 @@
+{
+	id: "631C643F018F5A45"
+	group: ""
+	order_index: 3
+	filename: "equipment"
+	title: "Equipment"
+	icon: {
+		id: "mysticalworld:copper_pickaxe"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		id: "1314F827653EFDCC"
+		tasks: [{
+			id: "250835A82A191D0B"
+			type: "custom"
+			title: "Coming soon!"
+			icon: "aquaculture:frog"
+		}]
+	}]
+	quest_links: [ ]
+}

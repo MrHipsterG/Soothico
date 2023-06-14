@@ -60,11 +60,6 @@ craftingTable.addShaped("soothico.warped_planks_top_roof", <item:mcwroofs:warped
     [<tag:items:forge:planks/warped>, <tag:items:forge:rods/wooden>, <tag:items:forge:planks/warped>], 
     [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 
-craftingTable.removeByName("architects_palette:osseous_bricks");
-craftingTable.addShaped("soothico.osseous_bricks", <item:architects_palette:osseous_bricks> * 4, [
-    [<item:nourished_nether:bone_bricks>, <item:nourished_nether:bone_bricks>, <item:minecraft:air>], 
-    [<item:nourished_nether:bone_bricks>, <item:nourished_nether:bone_bricks>, <item:minecraft:air>], 
-    [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
 
 craftingTable.removeByName("quark:building/crafting/compressed/beetroot_crate");
 craftingTable.removeByName("quark:building/crafting/compressed/carrot_crate");
@@ -74,12 +69,7 @@ craftingTable.removeByName("cataclysm:obsidian_bricks");
 craftingTable.removeByName("cataclysm:chiseled_end_stone_bricks");
 craftingTable.removeByName("quark:automation/crafting/nether_brick_fence_gate");
 craftingTable.removeByName("additionaladditions:bundle");
-craftingTable.removeByName("nourished_nether:netherite_nugget");
-furnace.removeByName("nourished_nether:smelt_netherite_gear");
 
-furnace.removeByName("nourished_nether:smelt_soul_soil");
-furnace.removeByName("nourished_nether:smelt_soul_sand");
-<recipetype:create:haunting>.addRecipe("soothico.haunt_soul_sand", [<item:nourished_nether:soul_glass>], <item:minecraft:soul_sand>);
 
 craftingTable.removeByName("blue_skies:bluebright_crafting_table");
 craftingTable.removeByName("blue_skies:starlit_crafting_table");

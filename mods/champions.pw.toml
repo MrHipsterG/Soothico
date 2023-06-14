@@ -1,13 +1,13 @@
 name = "Champions"
-filename = "champions-forge-1.18.2-2.1.5.6.jar"
+filename = "champions-forge-1.18.2-2.1.6.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e6bae4b526a85b898bf110d6ce2de4030de6b7ac"
+hash = "b9644e4a77e8aac2944b5e61e32cd08e1bf322be"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3840878
+file-id = 4297619
 project-id = 307152
