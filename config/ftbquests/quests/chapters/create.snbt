@@ -4,8 +4,19 @@
 	order_index: 2
 	filename: "create"
 	title: "Create"
+	icon: "create:large_cogwheel"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [{
+		icon: "aquaculture:frog"
+		x: 0.0d
+		y: 0.0d
+		id: "7EA23097C41550D3"
+		tasks: [{
+			id: "15E311DB65170820"
+			type: "custom"
+			title: "Coming soon!"
+		}]
+	}]
 	quest_links: [ ]
 }

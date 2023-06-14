@@ -4,17 +4,245 @@
 	order_index: 0
 	filename: "welcome_to_soothico"
 	title: "Welcome to Soothico!"
+	icon: "aquaculture:frog"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		x: -2.5d
-		y: -15.0d
-		id: "7AB70060F422A99D"
-		tasks: [{
-			id: "14EA73345D8F6C18"
-			type: "checkmark"
-			title: "Welcome!"
-		}]
-	}]
+	quests: [
+		{
+			title: "Welcome to Soothico 2!"
+			icon: "aquaculture:frog"
+			x: -2.5d
+			y: -15.0d
+			description: ["Soothico 2 is a pack all about adventure, building and finding your way through a new and fun world. These quests give a brief explanation of some of the new features, and explain some changes we made to the game!"]
+			id: "7AB70060F422A99D"
+			tasks: [{
+				id: "14EA73345D8F6C18"
+				type: "checkmark"
+				title: "Welcome!"
+			}]
+			rewards: [{
+				id: "1AFFB672718940D1"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			icon: "farmersdelight:cake_slice"
+			x: -1.0d
+			y: -15.0d
+			description: ["While this questbook is a good way of showing you through some mods, if you're ever feeling lost, the mods in this pack have a huge amount of advancements to help guide you through it and provide some more information on things you might feel a bit lost about!"]
+			dependencies: ["7AB70060F422A99D"]
+			id: "1117C961CFA2E9C1"
+			tasks: [{
+				id: "1E0506513F28A45B"
+				type: "checkmark"
+				title: "Advancements"
+			}]
+			rewards: [{
+				id: "405C5E5F94206414"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			title: "End Changes"
+			icon: {
+				id: "endrem:magical_eye"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -2.5d
+			y: -16.5d
+			description: ["We've made some changes to The End, using a mod called 'End Remastered'. This means that to access The End, you now have to find an array of new Eyes scattered over the world, found in different dungeons. See if you can collect them all to access the newly-decorated and dangerous dimension!"]
+			dependencies: ["7AB70060F422A99D"]
+			id: "0F547C8021686023"
+			tasks: [{
+				id: "7163E02F6872BC75"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "4387F12BDDFB5995"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			icon: "blue_skies:pyrope_gem"
+			x: -1.5d
+			y: -16.0d
+			description: [
+				"Blue Skies is a mod that adds two new dimensions; the Everbright and the Everdawn. "
+				"Find a house in the wilderness with a stranger willing to help you get there, and uncover the secrets these two new dimensions have to offer!"
+			]
+			dependencies: ["7AB70060F422A99D"]
+			id: "18319597B6099F7A"
+			tasks: [{
+				id: "1E13D726C4571E8F"
+				type: "checkmark"
+				title: "Blue Skies"
+			}]
+			rewards: [{
+				id: "6D17FB9AF6E6643C"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			title: "Food and Farming"
+			icon: "culturaldelights:pickle"
+			x: -1.5d
+			y: -14.0d
+			description: ["With the help of Farmer's Delight and a swathe of addon mods, you can farm for more crops and cook up more food than ever before! You can even brew beer, make cheese, and make your very own chocolate factory."]
+			dependencies: ["7AB70060F422A99D"]
+			id: "07F6DDBFA600E026"
+			tasks: [{
+				id: "788E2AA82493BAE7"
+				type: "checkmark"
+			}]
+			rewards: [
+				{
+					id: "0E43790AAA038B89"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "3AA5AB6F5AC360D4"
+					type: "item"
+					item: "create_confectionery:gingerbread_man"
+				}
+			]
+		}
+		{
+			icon: "blue_skies:bag_of_spoils"
+			x: -2.5d
+			y: -13.5d
+			description: [
+				"Roughly Enough Items, that's what!"
+				"REI is the mod that displays all of the items in the pack when you open your inventory! This can be used to see any recipe in the game by clicking on an item, or seeing the uses of an item (default key U) on it. It's massively useful, and can help a ton when you don't know what an item you've found does."
+			]
+			dependencies: ["7AB70060F422A99D"]
+			id: "3798B6A11A8DEC1B"
+			tasks: [{
+				id: "798582988EFF7797"
+				type: "checkmark"
+				title: "How Many Items?!"
+			}]
+			rewards: [{
+				id: "60D38C047F4E9708"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			icon: "minecraft:compass"
+			x: -3.5d
+			y: -14.0d
+			description: ["Soothico 2 has a minimap mod! However, to retain balance, you need to hold a Compass in your hotbar in order to see the minimap!"]
+			dependencies: ["7AB70060F422A99D"]
+			id: "7630A54E4A2319CD"
+			tasks: [{
+				id: "2A03B60C28BA03ED"
+				type: "checkmark"
+				title: "Minimap"
+			}]
+			rewards: [
+				{
+					id: "0E26983F48118A7A"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "603C2ED16DE811E1"
+					type: "item"
+					item: "minecraft:map"
+				}
+			]
+		}
+		{
+			icon: {
+				id: "quark:backpack"
+				Count: 1b
+				tag: {
+					Inventory: [
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+						{ }
+					]
+				}
+			}
+			x: -4.0d
+			y: -15.0d
+			description: ["We know how much extra stuff you're going to be lugging around with you after the loot you'll find, so we have a good amount of mods to help store your stuff! Sophisticated Storage, Sophisticated Backpacks, Create and Drawers are all mods that can help a lot with keeping your stuff in its place. Give them a shot!"]
+			dependencies: ["7AB70060F422A99D"]
+			id: "1858B72FB0D60268"
+			tasks: [{
+				id: "582C5D7A5966DF45"
+				type: "checkmark"
+				title: "Storage Solutions"
+			}]
+			rewards: [{
+				id: "694209B1E683E90F"
+				type: "item"
+				item: "sophisticatedbackpacks:jukebox_upgrade"
+			}]
+		}
+		{
+			icon: {
+				id: "tetra:modular_double"
+				Count: 1b
+				tag: {
+					"double/handle": "double/basic_handle"
+					"double/head_left": "double/basic_hammer_left"
+					"double/head_right": "double/basic_hammer_right"
+					id: "6f2c1388-7121-4cf2-a7ff-4e331f416614"
+					"double/basic_hammer_right_material": "basic_hammer/oak"
+					Damage: 0
+					"double/basic_handle_material": "basic_handle/stick"
+					"double/basic_hammer_left_material": "basic_hammer/oak"
+				}
+			}
+			x: -3.5d
+			y: -16.0d
+			description: ["Tetra is a mod all about being a toolsmith! We have a full questbook all about how to use Tetra and getting started, so check out the tab on the left for Tetra and release your inner blacksmith!"]
+			dependencies: ["7AB70060F422A99D"]
+			id: "67287571A40142B8"
+			tasks: [{
+				id: "2E32DF42CED82EE2"
+				type: "checkmark"
+				title: "Tetra"
+			}]
+			rewards: [{
+				id: "0F358B106905B05A"
+				type: "xp"
+				xp: 100
+			}]
+		}
+	]
 	quest_links: [ ]
 }
