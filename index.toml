@@ -730,7 +730,7 @@ hash = "7d50466fd185eb5b8962c56f106e70a27c32f16a40a9024460d07d5b87bfaec6"
 
 [[files]]
 file = "config/drippyloadingscreen/config.cfg"
-hash = "9bef416a0e25321e3dd93baa279a643e0153ecb9305c330d13cc6976e1ab9326"
+hash = "d965c4257a40fede3a3ec737bccc5b470a02f381fa18ba4c36f1bc40f614f467"
 
 [[files]]
 file = "config/drippyloadingscreen/customization/default.dllayout"
@@ -5437,7 +5437,7 @@ hash = "453c49163b7ad6948f6e6a4a035f70c734ddd330bf11d363ed35b2a546d92051"
 
 [[files]]
 file = "scripts/miscchanges/startinginventory.zs"
-hash = "ed0f7cb1148d1f684ed0fb8673ca97ae14cf44b6804c7223a9f7cab0a69f01e6"
+hash = "dc549796cdf8c1adb6509472e628293f27a25cece241d740932bbc385ba83478"
 
 [[files]]
 file = "scripts/miscchanges/tarantulahawk_elytra.zs"
